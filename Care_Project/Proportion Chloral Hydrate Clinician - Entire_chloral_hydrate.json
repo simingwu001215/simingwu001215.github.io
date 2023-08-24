@@ -1,0 +1,5819 @@
+[
+ {
+   "Treating.Clinician": 90144738,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145489,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90127515,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90103318,
+   "Number_of_patient_Seen": 52,
+   "Number_of_patient_Seen_with_chloral_hydrate": 2,
+   "chloral_hydrate_proportion": 0.04,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90136838,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162599,
+   "Number_of_patient_Seen": 47,
+   "Number_of_patient_Seen_with_chloral_hydrate": 2,
+   "chloral_hydrate_proportion": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028254,
+   "Number_of_patient_Seen": 34,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90107514,
+   "Number_of_patient_Seen": 29,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142519,
+   "Number_of_patient_Seen": 38,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90062205,
+   "Number_of_patient_Seen": 68,
+   "Number_of_patient_Seen_with_chloral_hydrate": 1,
+   "chloral_hydrate_proportion": 0.01,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90000999,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90002772,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003427,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003514,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003553,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003634,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003943,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004058,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004289,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004406,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004790,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005035,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005065,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005204,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90008672,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90012659,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90013900,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90015746,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90016143,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90017559,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90018083,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90020817,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90021003,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90022335,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90023171,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90025465,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90025727,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90028254,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90029255,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90029388,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90030552,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033366,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033774,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90034329,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90035880,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90035983,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90037850,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90039000,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90039551,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90040184,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90040773,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90043890,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90047010,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90047937,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90049188,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90051139,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90051275,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90052916,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053104,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053715,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90054690,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90055388,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90056621,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90057408,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90057890,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90058786,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90060950,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90063300,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90068267,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90068451,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90071350,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90071662,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90072373,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90074642,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90075211,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90076316,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90077401,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90078140,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90080314,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082317,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90083180,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90083199,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90085012,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90085273,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90086726,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90088199,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90090296,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90091034,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90093122,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90093189,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90098405,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90099752,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90099773,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90100582,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90101219,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90102882,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90102895,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90104011,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90104880,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90107017,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90107765,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90109083,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90110166,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90111258,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112361,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112515,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112578,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90115923,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90116155,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90118204,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119011,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119742,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123255,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123274,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123336,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124202,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124437,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124439,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124445,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124449,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124457,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124459,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124499,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124515,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124517,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124561,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124565,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124570,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90138148,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90139416,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90140978,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90141583,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142799,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142847,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142849,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142983,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144566,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144627,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144754,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144839,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145198,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145323,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145457,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145469,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145927,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90148374,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90153189,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90153466,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90154371,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90156769,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90157916,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90159883,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160514,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160647,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160650,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160701,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160968,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90161059,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90161089,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90162229,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90162772,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90164142,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90165844,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90000541,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000926,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000999,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90001660,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90002354,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90002776,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003149,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003195,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003244,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003259,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003309,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004066,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004155,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004178,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004416,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004543,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004705,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004845,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004891,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004893,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005028,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005109,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005110,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005147,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005353,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005369,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90006510,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007425,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007788,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90008018,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90008486,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90009507,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90011578,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90013900,
+   "Number_of_patient_Seen": 28,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90014011,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90014727,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90017672,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018068,
+   "Number_of_patient_Seen": 23,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018083,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018863,
+   "Number_of_patient_Seen": 18,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90022106,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90022335,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90024716,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90027194,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90029255,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90031199,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90032676,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90033803,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90034785,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90034958,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90035140,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90038386,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039000,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039551,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039776,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90040881,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90041374,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043059,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043212,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043378,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043759,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90044135,
+   "Number_of_patient_Seen": 53,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90045178,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90045480,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90046308,
+   "Number_of_patient_Seen": 30,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90046416,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90047604,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90048709,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90052237,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90052753,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053104,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053409,
+   "Number_of_patient_Seen": 30,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053715,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90054690,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90055388,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90056621,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90056792,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90057340,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90057415,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90060746,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90061220,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90063200,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90064512,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90068451,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90069969,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90070899,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071662,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071676,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071867,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071914,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90072053,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90074347,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90074963,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90076316,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90077628,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078140,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078263,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078814,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90079400,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90079929,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082524,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082606,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90083027,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90083180,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085012,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085693,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085715,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085963,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90086136,
+   "Number_of_patient_Seen": 71,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90086511,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90088199,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089123,
+   "Number_of_patient_Seen": 44,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089947,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089975,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90090296,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90090681,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90093190,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094007,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094590,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094829,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90095252,
+   "Number_of_patient_Seen": 24,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098181,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098405,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098753,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90099027,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90100013,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90101274,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90102895,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104011,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104797,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104983,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104988,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90105952,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90107017,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90109536,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111143,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111234,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111256,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111258,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111265,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111320,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90112083,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90113883,
+   "Number_of_patient_Seen": 23,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90114206,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90115768,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90116155,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90118132,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119071,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119715,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119742,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119752,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119860,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90122677,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123231,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123234,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123244,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123255,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123258,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123261,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123262,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123265,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123269,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123274,
+   "Number_of_patient_Seen": 28,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123276,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123277,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123284,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123291,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123295,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123296,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123301,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123307,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123312,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123315,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123323,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123332,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123335,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123337,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123338,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124199,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124200,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124202,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124439,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124440,
+   "Number_of_patient_Seen": 36,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124441,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124443,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124444,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124445,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124449,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124452,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124464,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124491,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124501,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124502,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124508,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124539,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124543,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124547,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124552,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124570,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124574,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124598,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124612,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124618,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124642,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124936,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124939,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90127515,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90132167,
+   "Number_of_patient_Seen": 36,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90135325,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90136829,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90137181,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90137813,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90140200,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141463,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141465,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141583,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142792,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142803,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142808,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142809,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142812,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142827,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142841,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142861,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142863,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142868,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142876,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142879,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144220,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144606,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144629,
+   "Number_of_patient_Seen": 34,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144646,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144872,
+   "Number_of_patient_Seen": 50,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144933,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144951,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145292,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145323,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145385,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145408,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145507,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145525,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145734,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145741,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145753,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145756,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145758,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145901,
+   "Number_of_patient_Seen": 58,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90146246,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90148355,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90148374,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90151693,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90152266,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90152983,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90153760,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154175,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154195,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154449,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90155074,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90158840,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160353,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160495,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160622,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160654,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160655,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161039,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161096,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161173,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161944,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162065,
+   "Number_of_patient_Seen": 40,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162082,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162770,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162832,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162877,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162880,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162925,
+   "Number_of_patient_Seen": 30,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162953,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90163090,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90163243,
+   "Number_of_patient_Seen": 18,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164074,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164194,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164305,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000541,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90000821,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90001224,
+   "Number_of_patient_Seen": 58,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90002178,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90002776,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003225,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003263,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003332,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003338,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003440,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003510,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003645,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003671,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003721,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003723,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003827,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003932,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004008,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004253,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004301,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004467,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004510,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004546,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004585,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004628,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004632,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004798,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004811,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004881,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004900,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004908,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005005,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005132,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005187,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005201,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005205,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005292,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005313,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005703,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90006510,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90008396,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90009738,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90009881,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010158,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010538,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010636,
+   "Number_of_patient_Seen": 31,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010720,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90012203,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90013598,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90013837,
+   "Number_of_patient_Seen": 44,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90014525,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90014902,
+   "Number_of_patient_Seen": 43,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90015901,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90016143,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90018068,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90018863,
+   "Number_of_patient_Seen": 23,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90019764,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90020817,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90020953,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90022682,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90023171,
+   "Number_of_patient_Seen": 47,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024040,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024320,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90025896,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90026166,
+   "Number_of_patient_Seen": 55,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028082,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90030535,
+   "Number_of_patient_Seen": 35,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031199,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031311,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031341,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90032705,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90032929,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90033774,
+   "Number_of_patient_Seen": 66,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90033803,
+   "Number_of_patient_Seen": 46,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90034135,
+   "Number_of_patient_Seen": 9,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90036294,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90036519,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90037802,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90037995,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90040004,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90040371,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043227,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043338,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043858,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90044101,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90045378,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90047064,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90048747,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90049430,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90051275,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90051548,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052261,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052270,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052734,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052916,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90053753,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90056255,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90057250,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90057415,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90058180,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90058333,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059331,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number_of_patient_Seen": 34,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059876,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060546,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060950,
+   "Number_of_patient_Seen": 29,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90061220,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90066524,
+   "Number_of_patient_Seen": 42,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90067536,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90070093,
+   "Number_of_patient_Seen": 52,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90071676,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90071914,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90072373,
+   "Number_of_patient_Seen": 37,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90074642,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075008,
+   "Number_of_patient_Seen": 48,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075334,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075796,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90076693,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90076797,
+   "Number_of_patient_Seen": 18,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90077401,
+   "Number_of_patient_Seen": 40,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90077920,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078071,
+   "Number_of_patient_Seen": 32,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078705,
+   "Number_of_patient_Seen": 51,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078787,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078814,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90079546,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90080314,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90080745,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081325,
+   "Number_of_patient_Seen": 51,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081556,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081588,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082317,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082606,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90083027,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90083266,
+   "Number_of_patient_Seen": 38,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90085043,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90085898,
+   "Number_of_patient_Seen": 23,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90086088,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90086232,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90088695,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90091034,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093120,
+   "Number_of_patient_Seen": 18,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093190,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093516,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90094126,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90094427,
+   "Number_of_patient_Seen": 39,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90096616,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90096638,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90097777,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098181,
+   "Number_of_patient_Seen": 38,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098744,
+   "Number_of_patient_Seen": 39,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098792,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90099597,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90099752,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90100582,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101121,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101122,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101274,
+   "Number_of_patient_Seen": 55,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90102464,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90102876,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90103211,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90103318,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90104966,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90104983,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90108333,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90108552,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90110663,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111104,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111201,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111262,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111349,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111526,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111844,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90112537,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90113497,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90114450,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90115768,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90116410,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90118416,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119011,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119285,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119577,
+   "Number_of_patient_Seen": 96,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119823,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119848,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119859,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119860,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119901,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90121871,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90122677,
+   "Number_of_patient_Seen": 49,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123249,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123309,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number_of_patient_Seen": 48,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124476,
+   "Number_of_patient_Seen": 24,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124487,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124491,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124492,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124502,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124505,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124517,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124523,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124524,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124526,
+   "Number_of_patient_Seen": 41,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124543,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124546,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124556,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124561,
+   "Number_of_patient_Seen": 16,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124563,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124566,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124581,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124585,
+   "Number_of_patient_Seen": 15,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124609,
+   "Number_of_patient_Seen": 63,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124617,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124621,
+   "Number_of_patient_Seen": 37,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124633,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124637,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124682,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124698,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124937,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124938,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127264,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127293,
+   "Number_of_patient_Seen": 13,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127352,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127356,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90132178,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136195,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136674,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136682,
+   "Number_of_patient_Seen": 7,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136845,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136849,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136850,
+   "Number_of_patient_Seen": 26,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90137813,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138704,
+   "Number_of_patient_Seen": 27,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138705,
+   "Number_of_patient_Seen": 51,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138707,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90140139,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141235,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141465,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141719,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141884,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142841,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144405,
+   "Number_of_patient_Seen": 99,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144435,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144443,
+   "Number_of_patient_Seen": 28,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144607,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144736,
+   "Number_of_patient_Seen": 24,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144765,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144787,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144878,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144901,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144911,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144951,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145024,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145085,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145086,
+   "Number_of_patient_Seen": 55,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145218,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145257,
+   "Number_of_patient_Seen": 8,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145261,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145292,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145296,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145307,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145390,
+   "Number_of_patient_Seen": 34,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145408,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145489,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145549,
+   "Number_of_patient_Seen": 25,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145738,
+   "Number_of_patient_Seen": 19,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145754,
+   "Number_of_patient_Seen": 60,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145901,
+   "Number_of_patient_Seen": 46,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number_of_patient_Seen": 22,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90148355,
+   "Number_of_patient_Seen": 14,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90148809,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90149605,
+   "Number_of_patient_Seen": 17,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90150180,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90150775,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153189,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153195,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153448,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90154175,
+   "Number_of_patient_Seen": 31,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155074,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155188,
+   "Number_of_patient_Seen": 67,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155200,
+   "Number_of_patient_Seen": 32,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90157612,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90159236,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160332,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160501,
+   "Number_of_patient_Seen": 6,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160513,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160621,
+   "Number_of_patient_Seen": 10,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160636,
+   "Number_of_patient_Seen": 2,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160699,
+   "Number_of_patient_Seen": 3,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161039,
+   "Number_of_patient_Seen": 29,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161091,
+   "Number_of_patient_Seen": 28,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161185,
+   "Number_of_patient_Seen": 1,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161376,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161873,
+   "Number_of_patient_Seen": 34,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162077,
+   "Number_of_patient_Seen": 21,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162078,
+   "Number_of_patient_Seen": 20,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162079,
+   "Number_of_patient_Seen": 57,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162080,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162081,
+   "Number_of_patient_Seen": 61,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162082,
+   "Number_of_patient_Seen": 11,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162251,
+   "Number_of_patient_Seen": 49,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162252,
+   "Number_of_patient_Seen": 46,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162330,
+   "Number_of_patient_Seen": 18,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162759,
+   "Number_of_patient_Seen": 31,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162896,
+   "Number_of_patient_Seen": 33,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90165262,
+   "Number_of_patient_Seen": 32,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166103,
+   "Number_of_patient_Seen": 12,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166170,
+   "Number_of_patient_Seen": 28,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166333,
+   "Number_of_patient_Seen": 4,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166347,
+   "Number_of_patient_Seen": 5,
+   "Number_of_patient_Seen_with_chloral_hydrate": 0,
+   "chloral_hydrate_proportion": 0,
+   "Hospital": "MMC- Clayton"
+ }
+]

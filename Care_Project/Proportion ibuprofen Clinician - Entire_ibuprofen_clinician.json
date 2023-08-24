@@ -1,0 +1,5819 @@
+[
+ {
+   "Treating.Clinician": 90000999,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90002772,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003427,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003514,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003553,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003634,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90003943,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004058,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004289,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004406,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90004790,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005035,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005065,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90005204,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90008672,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90012659,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90013900,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90015746,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90016143,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90017559,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90018083,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90020817,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90021003,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90022335,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90023171,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90025465,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90025727,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90028254,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90029255,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90029388,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90030552,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033366,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90033774,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90034329,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90035880,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90035983,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90037850,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90039000,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90039551,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90040184,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90040773,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90043890,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90047010,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90047937,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90049188,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90051139,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90051275,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90052916,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053104,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90053715,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90054690,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90055388,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90056621,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90057408,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90057890,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90058786,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90060950,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90063300,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90068267,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90068451,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90071350,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90071662,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90072373,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90074642,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90075211,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90076316,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90077401,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90078140,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90080314,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082317,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.4,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90083180,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90083199,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90085012,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90085273,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90086726,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90088199,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90090296,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90091034,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90093122,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90093189,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90098405,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90099752,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90099773,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90100582,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90101219,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90102882,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90102895,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90104011,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90104880,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90107017,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90107765,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.29,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90109083,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90110166,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90111258,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112361,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112515,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90112578,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90115923,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90116155,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90118204,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119011,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119742,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123255,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123274,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123336,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124202,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124437,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124439,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124445,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124449,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124457,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124459,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124499,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124515,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124517,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124561,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124565,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90124570,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90138148,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90139416,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 1,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90140978,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90141583,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142799,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142847,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142849,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90142983,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144566,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.29,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144627,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144754,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90144839,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145198,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145323,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145457,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145469,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90145927,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90148374,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90153189,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90153466,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90154371,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90156769,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90157916,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90159883,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160514,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160647,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160650,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160701,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90160968,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90161059,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90161089,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90162229,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90162772,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90164142,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90165844,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Dandenong"
+ },
+ {
+   "Treating.Clinician": 90162065,
+   "Number of Patients Seen": 40,
+   "Number of Patients Seen ibuprofen": 11,
+   "Proportion ibuprofen": 0.28,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145901,
+   "Number of Patients Seen": 58,
+   "Number of Patients Seen ibuprofen": 9,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90044135,
+   "Number of Patients Seen": 53,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124440,
+   "Number of Patients Seen": 36,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.19,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90132167,
+   "Number of Patients Seen": 36,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.19,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90086136,
+   "Number of Patients Seen": 71,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142841,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089123,
+   "Number of Patients Seen": 44,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124574,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.26,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144872,
+   "Number of Patients Seen": 50,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144933,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90034785,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90046416,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053409,
+   "Number of Patients Seen": 30,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90054690,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.24,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90063200,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90101274,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90103318,
+   "Number of Patients Seen": 52,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90113883,
+   "Number of Patients Seen": 23,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123234,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123274,
+   "Number of Patients Seen": 28,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018068,
+   "Number of Patients Seen": 23,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90048709,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053715,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90056621,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90069969,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90077628,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.19,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90086511,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104011,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124202,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124439,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124508,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124642,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142827,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142868,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144646,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90163243,
+   "Number of Patients Seen": 18,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164305,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004893,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005109,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.4,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90008018,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90013900,
+   "Number of Patients Seen": 28,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039000,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90046308,
+   "Number of Patients Seen": 30,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90056792,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90061220,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.29,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90064512,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90083180,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90088199,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90090681,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094007,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90095252,
+   "Number of Patients Seen": 24,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90100013,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.4,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90118132,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123231,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123258,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123265,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123295,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124199,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124441,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124445,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124464,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.4,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124936,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90135325,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142812,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144629,
+   "Number of Patients Seen": 34,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145408,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145741,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90155074,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162082,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90001660,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003244,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004066,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018863,
+   "Number of Patients Seen": 18,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90022335,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90031199,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90032676,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90034958,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 1,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90038386,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039551,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90039776,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043212,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043378,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043759,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053104,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90057415,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90060746,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90070899,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071662,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071676,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90072053,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90074347,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90076316,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078140,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078263,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90078814,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90083027,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085012,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089947,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90090296,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104983,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90105952,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111265,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90112083,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119715,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90122677,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123255,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123261,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123262,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123296,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123301,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123323,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124200,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124449,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124452,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124491,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124501,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90137813,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90140200,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142792,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142808,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144220,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144738,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145525,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145758,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90148374,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90152983,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90153760,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154175,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160353,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161039,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161096,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162770,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162880,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162925,
+   "Number of Patients Seen": 30,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162953,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000541,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000926,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90000999,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90002354,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90002776,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003149,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003195,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003259,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90003309,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004155,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004178,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004416,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004543,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004705,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004845,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90004891,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005028,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005110,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005147,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005353,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90005369,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90006510,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007425,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90007788,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90008486,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90009507,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90011578,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90014011,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90014727,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90017672,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90018083,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90022106,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90024716,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90027194,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90029255,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90033803,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90035140,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90040881,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90041374,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90043059,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90045178,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90045480,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90047604,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90052237,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90052753,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90055388,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90057340,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90068451,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071867,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90071914,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90074963,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90079400,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90079929,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082524,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90082606,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085693,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085715,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90085963,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90089975,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90093190,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094590,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90094829,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098181,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098405,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90098753,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90099027,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90102895,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104797,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90104988,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90107017,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90109536,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111143,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111234,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111256,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111258,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90111320,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90114206,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90115768,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90116155,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119071,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119742,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119752,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119860,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123244,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123269,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123276,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123277,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123284,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123291,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123307,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123312,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123315,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123332,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123335,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123337,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123338,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124443,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124444,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124502,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124539,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124543,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124547,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124552,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124570,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124598,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124612,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124618,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90124939,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90127515,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90136829,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90137181,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141463,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141465,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90141583,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142803,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142809,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142861,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142863,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142876,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90142879,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144606,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90144951,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145292,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145323,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145385,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145489,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145507,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145734,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145753,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90145756,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90146246,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90148355,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90151693,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90152266,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154195,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90154449,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90158840,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160495,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160622,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160654,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90160655,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161173,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90161944,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162832,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90162877,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90163090,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164074,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90164194,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "Casey"
+ },
+ {
+   "Treating.Clinician": 90033774,
+   "Number of Patients Seen": 66,
+   "Number of Patients Seen ibuprofen": 10,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144405,
+   "Number of Patients Seen": 99,
+   "Number of Patients Seen ibuprofen": 8,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90062205,
+   "Number of Patients Seen": 68,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145390,
+   "Number of Patients Seen": 34,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145754,
+   "Number of Patients Seen": 60,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145901,
+   "Number of Patients Seen": 46,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155188,
+   "Number of Patients Seen": 67,
+   "Number of Patients Seen ibuprofen": 7,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90083266,
+   "Number of Patients Seen": 38,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101274,
+   "Number of Patients Seen": 55,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119577,
+   "Number of Patients Seen": 96,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142519,
+   "Number of Patients Seen": 38,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.16,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145086,
+   "Number of Patients Seen": 55,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162251,
+   "Number of Patients Seen": 49,
+   "Number of Patients Seen ibuprofen": 6,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90001224,
+   "Number of Patients Seen": 58,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90018863,
+   "Number of Patients Seen": 23,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90026166,
+   "Number of Patients Seen": 55,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078705,
+   "Number of Patients Seen": 51,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144736,
+   "Number of Patients Seen": 24,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162078,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 5,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005703,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90033803,
+   "Number of Patients Seen": 46,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90048747,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.19,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052270,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075334,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081325,
+   "Number of Patients Seen": 51,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081957,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90099752,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90102876,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.15,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123249,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.27,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124438,
+   "Number of Patients Seen": 48,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124526,
+   "Number of Patients Seen": 41,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144878,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155200,
+   "Number of Patients Seen": 32,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90157612,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162077,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.19,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162081,
+   "Number of Patients Seen": 61,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162896,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90165262,
+   "Number of Patients Seen": 32,
+   "Number of Patients Seen ibuprofen": 4,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90014902,
+   "Number of Patients Seen": 43,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90015608,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90023171,
+   "Number of Patients Seen": 47,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024040,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90030535,
+   "Number of Patients Seen": 35,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031311,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.43,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90034135,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043227,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043338,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90070093,
+   "Number of Patients Seen": 52,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093190,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90096616,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098744,
+   "Number of Patients Seen": 39,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90108333,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.21,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124609,
+   "Number of Patients Seen": 63,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127515,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138704,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138705,
+   "Number of Patients Seen": 51,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141884,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.27,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90146286,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90154175,
+   "Number of Patients Seen": 31,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161039,
+   "Number of Patients Seen": 29,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162079,
+   "Number of Patients Seen": 57,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162252,
+   "Number of Patients Seen": 46,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162599,
+   "Number of Patients Seen": 47,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162759,
+   "Number of Patients Seen": 31,
+   "Number of Patients Seen ibuprofen": 3,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003225,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003827,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004008,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.29,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005005,
+   "Number of Patients Seen": 9,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.22,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90008396,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010636,
+   "Number of Patients Seen": 31,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90013837,
+   "Number of Patients Seen": 44,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90022682,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028254,
+   "Number of Patients Seen": 34,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060950,
+   "Number of Patients Seen": 29,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90061220,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90066524,
+   "Number of Patients Seen": 42,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90077401,
+   "Number of Patients Seen": 40,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90080745,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082317,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90083027,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90086088,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093120,
+   "Number of Patients Seen": 18,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098181,
+   "Number of Patients Seen": 38,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101122,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90107514,
+   "Number of Patients Seen": 29,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119285,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90121871,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90122677,
+   "Number of Patients Seen": 49,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124476,
+   "Number of Patients Seen": 24,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124523,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124561,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124698,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136838,
+   "Number of Patients Seen": 27,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136849,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144443,
+   "Number of Patients Seen": 28,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144787,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144901,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145085,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.12,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145257,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145292,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145307,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161091,
+   "Number of Patients Seen": 28,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161873,
+   "Number of Patients Seen": 34,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162082,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.18,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162330,
+   "Number of Patients Seen": 18,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.11,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166103,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166170,
+   "Number of Patients Seen": 28,
+   "Number of Patients Seen ibuprofen": 2,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003440,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003510,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003671,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004171,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004301,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004585,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004632,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004798,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004811,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005313,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90006510,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90009738,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90009881,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010720,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90018068,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90019764,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024223,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90024320,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90032705,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90032929,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90036519,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90037995,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90040371,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90045378,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90051275,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052916,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90053753,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90058333,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059584,
+   "Number of Patients Seen": 34,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90067536,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90071676,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90072373,
+   "Number of Patients Seen": 37,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90074642,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075008,
+   "Number of Patients Seen": 48,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.02,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075767,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90075796,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90076797,
+   "Number of Patients Seen": 18,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90077920,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078071,
+   "Number of Patients Seen": 32,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078814,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.14,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90079546,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081556,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.09,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082724,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90085043,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90085898,
+   "Number of Patients Seen": 23,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90093516,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90094427,
+   "Number of Patients Seen": 39,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90097823,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90100582,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90101121,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111526,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111844,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90113497,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90116410,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90118416,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119988,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123309,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123339,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.04,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124446,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124447,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124491,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124505,
+   "Number of Patients Seen": 21,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124517,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124543,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124556,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124563,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124585,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124621,
+   "Number of Patients Seen": 37,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.03,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124637,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124682,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90140139,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141235,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.17,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142824,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90142841,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.25,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144607,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.13,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144911,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145408,
+   "Number of Patients Seen": 12,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.08,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145738,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.05,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90148355,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.07,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90148809,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.33,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90149605,
+   "Number of Patients Seen": 17,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.06,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153195,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160621,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.1,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160636,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.5,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161376,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90162080,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 1,
+   "Proportion ibuprofen": 0.2,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90000541,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90000821,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90002178,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90002776,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003263,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003332,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003338,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003645,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003721,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003723,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90003932,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004253,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004467,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004510,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004546,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004628,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004881,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004900,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90004908,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005132,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005187,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005201,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005205,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90005292,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90007275,
+   "Number of Patients Seen": 10,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010158,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90010538,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90012203,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90013598,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90014525,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90015901,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90016143,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90020817,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90020953,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90025896,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028082,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90028087,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031199,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90031341,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90033661,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90036294,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90037802,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90040004,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90043858,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90044101,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90044868,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90047064,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90049430,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90051548,
+   "Number of Patients Seen": 16,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052261,
+   "Number of Patients Seen": 15,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90052734,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90053418,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90056255,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90057250,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90057415,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90058180,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059331,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90059876,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060546,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90060945,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90071914,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90076693,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90078787,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90080314,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90081588,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082515,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90082606,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90086232,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90088695,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90091034,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90094126,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90096638,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90097777,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90098792,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90099597,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90102464,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90103211,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90103318,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90104966,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90104983,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90108552,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90109179,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90110663,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111104,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111201,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111262,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90111349,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90112537,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90113108,
+   "Number of Patients Seen": 14,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90114450,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90115768,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90117588,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90117635,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119011,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119823,
+   "Number of Patients Seen": 20,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119848,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119859,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119860,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90119901,
+   "Number of Patients Seen": 11,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90123243,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124487,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124492,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124502,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124524,
+   "Number of Patients Seen": 33,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124546,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124566,
+   "Number of Patients Seen": 8,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124581,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124617,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124633,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124937,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90124938,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127264,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127293,
+   "Number of Patients Seen": 13,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127352,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90127356,
+   "Number of Patients Seen": 22,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90132178,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136195,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136674,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136682,
+   "Number of Patients Seen": 7,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136845,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90136850,
+   "Number of Patients Seen": 26,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90137813,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90138707,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141465,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90141719,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144435,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144765,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90144951,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145024,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145218,
+   "Number of Patients Seen": 19,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145261,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145296,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145489,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90145549,
+   "Number of Patients Seen": 25,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90150180,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90150775,
+   "Number of Patients Seen": 2,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153189,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90153448,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90155074,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90159236,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160332,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160501,
+   "Number of Patients Seen": 6,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160513,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90160699,
+   "Number of Patients Seen": 3,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90161185,
+   "Number of Patients Seen": 1,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166333,
+   "Number of Patients Seen": 4,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ },
+ {
+   "Treating.Clinician": 90166347,
+   "Number of Patients Seen": 5,
+   "Number of Patients Seen ibuprofen": 0,
+   "Proportion ibuprofen": 0,
+   "Hospital": "MMC- Clayton"
+ }
+]
