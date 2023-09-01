@@ -4,8 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/Proportion%20Chloral%20Hydrate%20Clinician%20-%20Entire_chloral_hydrate.csv"
   },
-  "width": 500,
-  "height": 400,
+  "width": 300,
+  "height": 200,
   "transform": [
     {
       "calculate": "toString(datum['Treating.Clinician'])",
