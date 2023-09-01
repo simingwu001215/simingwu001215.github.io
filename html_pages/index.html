@@ -1,55 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Visualization</title>
-    <!-- Import Vega & Vega-Lite -->
+    <title>Vega-Lite Embedding</title>
+    <!-- Include Vega & Vega-Lite libraries -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
     <style>
-        .json-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-
         .json-visualization {
             border: 1px solid #ccc;
+            margin: 20px;
             padding: 10px;
-            width: 50%;
+            width: 45%;
             box-sizing: border-box;
         }
     </style>
 </head>
 <body>
-    <div class="json-container">
-        <div class="json-visualization">
-            <iframe src="./scatter_ch.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_ch_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
-        <div class="json-visualization">
-            <iframe src="./scatter_ibuprofen.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_ibuprofen_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
-        <div class="json-visualization">
-            <iframe src="./scatter_ondansetron.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_ondansetron_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
-        <div class="json-visualization">
-            <iframe src="./scatter_paracetamol.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_paracetamol_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
-        <div class="json-visualization">
-            <iframe src="./scatter_prednisolone.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_prednisolone_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
-        <div class="json-visualization">
-            <iframe src="./scatter_salbutamol.json" frameborder="0" width="100%" height="400"></iframe>
-            <iframe src="./scatter_salbutamol_search.json" frameborder="0" width="100%" height="400"></iframe>
-        </div>
+    <div class="json-visualization">
+        <div id="visualization1"></div>
+        <div id="visualization2"></div>
     </div>
+    <div class="json-visualization">
+        <div id="visualization3"></div>
+        <div id="visualization4"></div>
+    </div>
+    <div class="json-visualization">
+        <div id="visualization5"></div>
+        <div id="visualization6"></div>
+    </div>
+    <div class="json-visualization">
+        <div id="visualization7"></div>
+        <div id="visualization8"></div>
+    </div>
+    <div class="json-visualization">
+        <div id="visualization9"></div>
+        <div id="visualization10"></div>
+    </div>
+    <div class="json-visualization">
+        <div id="visualization11"></div>
+        <div id="visualization12"></div>
+    </div>
+
+    <script>
+        // JSON file paths
+        const jsonPaths = [
+            "./scatter_ch.json", "./scatter_ch_search.json",
+            "./scatter_ibuprofen.json", "./scatter_ibuprofen_search.json",
+            "./scatter_ondansetron.json", "./scatter_ondansetron_search.json",
+            "./scatter_paracetamol.json", "./scatter_paracetamol_search.json",
+            "./scatter_prednisolone.json", "./scatter_prednisolone_search.json",
+            "./scatter_salbutamol.json", "./scatter_salbutamol_search.json"
+        ];
+
+        // Container IDs
+        const containerIds = [
+            "visualization1", "visualization2",
+            "visualization3", "visualization4",
+            "visualization5", "visualization6",
+            "visualization7", "visualization8",
+            "visualization9", "visualization10",
+            "visualization11", "visualization12"
+        ];
+
+        // Embed the Vega-Lite visualizations
+        for (let i = 0; i < jsonPaths.length; i++) {
+            const jsonPath = jsonPaths[i];
+            const containerId = containerIds[i];
+
+            const visualizationContainer = document.getElementById(containerId);
+
+            fetch(jsonPath)
+                .then(response => response.json())
+                .then(spec => vegaEmbed(visualizationContainer, spec))
+                .catch(error => console.error('Error embedding visualization:', error));
+        }
+    </script>
 </body>
 </html>
