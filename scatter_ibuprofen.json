@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Scatter plot with controlled random jittering",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/Proportion%20ibuprofen%20Clinician%20-%20Entire_ibuprofen_clinician.csv"
+  },
+  "width": 500,
+  "height": 400,
+  "transform": [
+    {
+      "calculate": "toString(datum['Treating.Clinician'])",
+      "as": "Clinician_String"
+    }
+  ],
+  "selection": {
+    "hospital_highlight": {
+      "type": "multi",
+      "fields": ["Hospital"],
+      "bind": "legend"
+    },
+    "zoom": {"type": "interval", "bind": "scales"}
+  },
+  "title": {
+    "text": "Number of Patients Seen vs. Ibuprofen Proportion",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "jitter_Number of Patients Seen",
+      "type": "quantitative",
+      "title": "Number of Patient Seen",
+      "scale": {"domain": [-1, 105]}
+    },
+    "y": {
+      "field": "jitter_ibuprofen_percentage",
+      "type": "quantitative",
+      "title": "Ibuprofen Percentage by Clinicians (%)",
+      "scale": {"domain": [-1, 101]}
+    },
+    "color": {
+      "field": "Hospital",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Casey", "MMC- Clayton", "Dandenong"],
+        "range": ["#e41a1c", "#984ea3", "#a6cee3"]
+      }
+    },
+    "opacity": {
+      "condition": {"selection": "hospital_highlight", "value": 1},
+      "value": 0
+    },
+    "cursor": {
+      "condition": {"selection": "zoom", "value": "zoom-in"},
+      "value": "auto"
+    },
+    "tooltip": [
+      {"field": "Number of Patients Seen", "type": "quantitative"},
+      {
+        "field": "Number of Patients Seen ibuprofen",
+        "type": "quantitative",
+        "title": "Patient with Ibuprofen"
+      },
+      {
+        "field": "ibuprofen_percentage",
+        "type": "quantitative",
+        "title": "Ibuprofen Percentage(%)"
+      },
+      {
+        "field": "Clinician_String",
+        "type": "nominal",
+        "title": "Treating Clinician"
+      },
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"}
+    ]
+  },
+  "config": {}
+}

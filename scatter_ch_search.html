@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.25.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.12.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.1"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Scatter plot with controlled random jittering",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/Proportion%20Chloral%20Hydrate%20Clinician%20-%20Entire_chloral_hydrate.csv"
+  },
+  "width": 500,
+  "height": 350,
+  "params": [
+    {
+      "name": "highlightCategory",
+      "bind": {"input": "text", "name": "Search for Category"}
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "toString(datum['Treating.Clinician'])",
+      "as": "Clinician_String"
+    },
+    {
+      "calculate": "datum.Clinician_String === highlightCategory",
+      "as": "highlighted"
+    }
+  ],
+  "selection": {"zoom": {"type": "interval", "bind": "scales"}},
+  "title": {
+    "text": "Search Box Visualisation For Clinician with Chloral Hydrate",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "jitter_Number_of_patient_Seen",
+      "type": "quantitative",
+      "title": "Number of Patient Seen",
+      "scale": {"domain": [-1, 105]}
+    },
+    "y": {
+      "field": "jitter_chloral_hydrate_percentage",
+      "type": "quantitative",
+      "title": "Chloral Hydrate Percentage by Clinicians(%)",
+      "scale": {"domain": [-1, 101]}
+    },
+    "opacity": {
+      "condition": {"selection": "highlightCategory", "value": 1},
+      "value": 0
+    },
+    "color": {
+      "field": "highlighted",
+      "type": "nominal",
+      "scale": {"domain": [true], "range": ["blue"]}
+    },
+    "tooltip": [
+      {"field": "Number_of_patient_Seen", "type": "quantitative"},
+      {
+        "field": "chloral_hydrate_percentage",
+        "type": "quantitative",
+        "title": "Chloral Hydrate Percentage(%)"
+      },
+      {
+        "field": "Clinician_String",
+        "type": "nominal",
+        "title": "Treating Clinician"
+      },
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"}
+    ]
+  },
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>

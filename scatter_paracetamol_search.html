@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.25.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.12.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.1"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Scatter plot with controlled random jittering",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/Proportion%20Paracetamol%20Clinician%20-%20Entire_para_clinician.csv"
+  },
+  "width": 500,
+  "height": 350,
+  "params": [
+    {
+      "name": "highlightCategory",
+      "bind": {"input": "text", "name": "Search for Clinician"}
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "toString(datum['Treating Clinician'])",
+      "as": "Clinician_String"
+    },
+    {
+      "calculate": "datum.Clinician_String === highlightCategory",
+      "as": "highlighted"
+    }
+  ],
+  "selection": {"zoom": {"type": "interval", "bind": "scales"}},
+  "title": {
+    "text": "Search Box Visualisation For Clinician with Paracetamol",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "jitter_Number of Patients Seen",
+      "type": "quantitative",
+      "title": "Number of Patient Seen",
+      "scale": {"domain": [-1, 105]}
+    },
+    "y": {
+      "field": "jitter_Paracetamol_Percentage",
+      "type": "quantitative",
+      "title": "Paracetamol Percentage by Clinicians(%)",
+      "scale": {"domain": [-1, 101]}
+    },
+    "opacity": {
+      "condition": {"selection": "highlightCategory", "value": 1},
+      "value": 0
+    },
+    "color": {
+      "field": "highlighted",
+      "type": "nominal",
+      "scale": {"domain": [true], "range": ["blue"]}
+    },
+    "tooltip": [
+      {"field": "Number of Patients Seen", "type": "quantitative"},
+      {
+        "field": "Number of Patients Seen Paracetamol",
+        "type": "quantitative",
+        "title": "Patients with Paracetamol"
+      },
+      {
+        "field": "Paracetamol_Percentage",
+        "type": "quantitative",
+        "title": "Paracetamol Percentage(%)"
+      },
+      {
+        "field": "Clinician_String",
+        "type": "nominal",
+        "title": "Treating Clinician"
+      },
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"}
+    ]
+  },
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
