@@ -4,8 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/Proportion%20Paracetamol%20Clinician%20-%20Entire_para_clinician.csv"
   },
-  "width": 500,
-  "height": 350,
+  "width": 300,
+  "height": 200,
   "transform": [
     {
       "calculate": "toString(datum['Treating Clinician'])",
