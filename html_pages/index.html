@@ -16,46 +16,40 @@
             width: 45%;
             box-sizing: border-box;
             float: left; /* To make pairs of visualizations placed horizontally */
+            text-align: center; /* Center-align content */
+        }
+        .json-visualization img {
+            display: block; /* Ensure images are displayed as blocks for centering */
+            margin: 10px auto; /* Center-align the images vertically and horizontally */
         }
     </style>
 </head>
 <body>
     <div class="json-visualization">
         <div id="visualization1"></div>
+        <img src="violin_ch.png" alt="Violin CH">
     </div>
     <div class="json-visualization">
         <div id="visualization2"></div>
+        <img src="violin_ibuprofen.png" alt="Violin Ibuprofen">
     </div>
     <div class="json-visualization">
         <div id="visualization3"></div>
+        <img src="violin_ondansetron.png" alt="Violin Ondansetron">
     </div>
     <div class="json-visualization">
         <div id="visualization4"></div>
+        <img src="violin_paracetamol.png" alt="Violin Paracetamol">
     </div>
     <div class="json-visualization">
         <div id="visualization5"></div>
+        <img src="violin_prednisolone.png" alt="Violin Prednisolone">
     </div>
     <div class="json-visualization">
         <div id="visualization6"></div>
+        <img src="violin_salbutamol.png" alt="Violin Salbutamol">
     </div>
-    <div class="json-visualization">
-        <div id="visualization7"></div>
-    </div>
-    <div class="json-visualization">
-        <div id="visualization8"></div>
-    </div>
-    <div class="json-visualization">
-        <div id="visualization9"></div>
-    </div>
-    <div class="json-visualization">
-        <div id="visualization10"></div>
-    </div>
-    <div class="json-visualization">
-        <div id="visualization11"></div>
-    </div>
-    <div class="json-visualization">
-        <div id="visualization12"></div>
-    </div>
+    <!-- Add more pairs of visualizations and images if needed -->
 
     <div style="clear: both;"></div> <!-- Clear the floating elements after all pairs are displayed -->
 
@@ -74,10 +68,7 @@
         const containerIds = [
             "visualization1", "visualization2",
             "visualization3", "visualization4",
-            "visualization5", "visualization6",
-            "visualization7", "visualization8",
-            "visualization9", "visualization10",
-            "visualization11", "visualization12"
+            "visualization5", "visualization6"
         ];
 
         // Embed the Vega-Lite visualizations
