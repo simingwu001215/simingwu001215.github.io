@@ -9,7 +9,7 @@
   "params": [
     {
       "name": "highlightCategory",
-      "bind": {"input": "text", "name": "Search for Category"}
+      "bind": {"input": "text", "name": "Search for  Clinician"}
     }
   ],
   "transform": [
