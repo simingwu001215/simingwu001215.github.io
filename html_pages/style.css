@@ -47,3 +47,8 @@ h1 {
     text-align: center;
     
   }
+
+.img-container {
+  max-width: 100%; /* Restrict the width to the container's width */
+  max-height: 200px; /* Restrict the height to 200 pixels */
+}
