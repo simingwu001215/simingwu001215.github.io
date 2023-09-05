@@ -1,88 +1,257 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vega-Lite Embedding</title>
-    <!-- Include Vega & Vega-Lite libraries -->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    <style>
-        .json-visualization {
-            border: 1px solid #ccc;
-            margin: 20px;
-            padding: 10px;
-            width: 45%;
-            box-sizing: border-box;
-            float: left; /* To make pairs of visualizations placed horizontally */
-            text-align: center; /* Center-align content */
-        }
-        .json-visualization img {
-            display: block; /* Ensure images are displayed as blocks for centering */
-            margin: 10px auto; /* Center-align the images vertically and horizontally */
-            max-width: 100%; /* Ensure the image doesn't exceed the container's width */
-            height: auto; /* Maintain the image's aspect ratio */
-            width: 300px; /* Set the desired width */
-            height: 200px; /* Set the desired height */
-        }
-    </style>
+  <title>Multiple Visualisations | An Example</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="style.css" media="all">
+
+  <style type="text/css">
+      div{
+        margin: auto;
+      }
+  </style>
 </head>
-<body>
-    <div class="json-visualization">
-        <div id="visualization1"></div>
-        <img src="violin_ch.png" alt="Violin CH">
-    </div>
-    <div class="json-visualization">
-        <div id="visualization2"></div>
-        <img src="violin_ibuprofen.png" alt="Violin Ibuprofen">
-    </div>
-    <div class="json-visualization">
-        <div id="visualization3"></div>
-        <img src="violin_ondansetron.png" alt="Violin Ondansetron">
-    </div>
-    <div class="json-visualization">
-        <div id="visualization4"></div>
-        <img src="violin_paracetamol.png" alt="Violin Paracetamol">
-    </div>
-    <div class="json-visualization">
-        <div id="visualization5"></div>
-        <img src="violin_prednisolone.png" alt="Violin Prednisolone">
-    </div>
-    <div class="json-visualization">
-        <div id="visualization6"></div>
-        <img src="violin_salbutamol.png" alt="Violin Salbutamol">
-    </div>
-    <!-- Add more pairs of visualizations and images with the same structure -->
 
-    <div style="clear: both;"></div> <!-- Clear the floating elements after all pairs are displayed -->
+<body >    
+    
+    <!-- end pure grid group -->
+    <div class="vis-container" >
+      <div class="vis-container">
+        <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+        <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+        <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+        <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+        <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+        <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+        <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+        </div>
+      </div>
+      <div class="pure-g">
+        <div class="pure-u-1-2">
+          <div class="center">
+              <div id="vis1" class="vis-container"></div>
+          </div>
+        </div>
 
-    <script>
-        // JSON file paths
-        const jsonPaths = [
-            "./scatter_ch.json", "./scatter_ch_search.json",
-            // Add paths for other JSON files
-        ];
+        <div class="pure-u-1-2">
+          <div class="center">
+              <div id="vis2" class="vis-container"></div>
+          </div>
+        </div>
+      </div>
 
-        // Container IDs
-        const containerIds = [
-            "visualization1", "visualization2",
-            // Add IDs for other containers
-        ];
+      <div class="vis-container" >
+        <div class="vis-container">
+          <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+          <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+          <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+          <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+          <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+          <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+          <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+          </div>
+        </div>
+        <div class="pure-g">
+          <div class="pure-u-1-2">
+            <div class="center">
+                <div id="vis3" class="vis-container"></div>
+            </div>
+          </div>
+  
+          <div class="pure-u-1-2">
+            <div class="center">
+                <div id="vis4" class="vis-container"></div>
+            </div>
+          </div>
+        </div>
 
-        // Embed the Vega-Lite visualizations
-        for (let i = 0; i < jsonPaths.length; i++) {
-            const jsonPath = jsonPaths[i];
-            const containerId = containerIds[i];
+        <div class="vis-container" >
+          <div class="vis-container">
+            <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+            <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+            <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+            <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+            <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+            <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+            <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+            </div>
+          </div>
+          <div class="pure-g">
+            <div class="pure-u-1-2">
+              <div class="center">
+                  <div id="vis5" class="vis-container"></div>
+              </div>
+            </div>
+    
+            <div class="pure-u-1-2">
+              <div class="center">
+                  <div id="vis6" class="vis-container"></div>
+              </div>
+            </div>
+          </div>
 
-            const visualizationContainer = document.getElementById(containerId);
+          <div class="vis-container" >
+            <div class="vis-container">
+              <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+              <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+              <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+              <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+              <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+              <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+              <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+              </div>
+            </div>
+            <div class="pure-g">
+              <div class="pure-u-1-2">
+                <div class="center">
+                    <div id="vis7" class="vis-container"></div>
+                </div>
+              </div>
+      
+              <div class="pure-u-1-2">
+                <div class="center">
+                    <div id="vis8" class="vis-container"></div>
+                </div>
+              </div>
+            </div>
 
-            fetch(jsonPath)
-                .then(response => response.json())
-                .then(spec => vegaEmbed(visualizationContainer, spec))
-                .catch(error => console.error('Error embedding visualization:', error));
-        }
-    </script>
+            <div class="vis-container" >
+              <div class="vis-container">
+                <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+                <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+                <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+                <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+                <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+                <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+                <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+                </div>
+              </div>
+              <div class="pure-g">
+                <div class="pure-u-1-2">
+                  <div class="center">
+                      <div id="vis9" class="vis-container"></div>
+                  </div>
+                </div>
+        
+                <div class="pure-u-1-2">
+                  <div class="center">
+                      <div id="vis10" class="vis-container"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="vis-container" >
+                <div class="vis-container">
+                  <h2 >Scatterplot of len and width With Regions And Different Period Of A Day </h2>
+                  <p > The states in the United State insubdivided by bureau region in the left hand side. Using direct selection filter</p>
+                  <p > on legend,we can filter each region with scatterplot.The states in the United State in the right hand side is </p>
+                  <p > color hue by period of a day.Using direct selection filter on legend, we can filter each time period with scatterplot.</p>
+                  <p >We can observe that len and wid are positive correlated. If an event of tornadoes has higher len it usually have higher wid.</p>
+                  <p > By clicking the legend, we will notice that the extreme high value of len and wid usually locate at the south and midwest.</p>
+                  <p >Also the extreme high value of len and wid usually happens at afternoon and evening</p>
+                  </div>
+                </div>
+                <div class="pure-g">
+                  <div class="pure-u-1-2">
+                    <div class="center">
+                        <div id="vis11" class="vis-container"></div>
+                    </div>
+                  </div>
+          
+                  <div class="pure-u-1-2">
+                    <div class="center">
+                        <div id="vis12" class="vis-container"></div>
+                    </div>
+                  </div>
+                </div>
+      
+  
+
+
+
+
+
+  
+
+      
+  <script type="text/javascript">
+    var specVis1 = "./scatter_ch.json";
+    var specVis2 = "./scatter_ch_search.json";
+    var specVis3 = "./scatter_ibuprofen.json";
+    var specVis4 = "./scatter_ibuprofen_search.json";
+    var specVis5 = "./scatter_ondansetron.json";
+    var specVis6 ="./scatter_ondansetron_search.json";
+    var specVis7 = "./scatter_paracetamol.json";
+    var specVis8 = "./scatter_paracetamol_search.json";
+    var specVis9 = "./scatter_prednisolone.json";
+    var specVis10 = "./scatter_prednisolone_search.json";
+    var specVis11 = "./scatter_salbutamol.json";
+    var specVis12 = "./scatter_salbutamol_search.json";
+
+    vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis3', specVis3, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis4', specVis4, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis5', specVis5, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    vegaEmbed('#vis6', specVis6, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis7', specVis7, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis8', specVis8, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis9', specVis9, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis10', specVis10, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis11', specVis11, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis12', specVis12, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+  </script>
 </body>
-</html>
 
+</html>
