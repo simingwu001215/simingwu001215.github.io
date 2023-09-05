@@ -52,3 +52,12 @@ h1 {
   width: 600px; /* Set the width to 200 pixels */
   height: auto; /* Auto-adjust the height to maintain aspect ratio */
 }
+.container {
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+}
