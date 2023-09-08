@@ -34,13 +34,13 @@
     "x": {
       "field": "jitter_Number of Patients Seen",
       "type": "quantitative",
-      "title": "Number of Patient Seen",
+      "title": "Number of Patients",
       "scale": {"domain": [-1, 105]}
     },
     "y": {
       "field": "jitter_Paracetamol_Percentage",
       "type": "quantitative",
-      "title": "Paracetamol Percentage by Clinicians(%)",
+      "title": "% patients receiving Paracetamol",
       "scale": {"domain": [-1, 101]}
     },
     "opacity": {
