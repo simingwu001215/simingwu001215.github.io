@@ -10,6 +10,20 @@
     {
       "name": "highlightCategory",
       "bind": {"input": "text", "name": "Search for Clinician"}
+    },
+    {
+      "name": "selectHospital",
+      "bind": {
+        "input": "select",
+        "name": "Select Hospital",
+        "options": [
+          "All",
+          "Dandenong",
+          "MMC- Clayton",
+          "Casey"
+        ],
+        "value": "All"
+      }
     }
   ],
   "transform": [
@@ -20,6 +34,9 @@
     {
       "calculate": "datum.Clinician_String === highlightCategory",
       "as": "highlighted"
+    },
+    {
+      "filter": "datum['Hospital'] === selectHospital || selectHospital === 'All'"
     }
   ],
   "selection": {"zoom": {"type": "interval", "bind": "scales"}},
@@ -40,7 +57,7 @@
     "y": {
       "field": "jitter_Paracetamol_Percentage",
       "type": "quantitative",
-      "title": "% patients receiving Paracetamol",
+      "title": "% patients receiving Paracetamol ",
       "scale": {"domain": [-1, 101]}
     },
     "opacity": {
@@ -50,19 +67,14 @@
     "color": {
       "field": "highlighted",
       "type": "nominal",
-      "scale": {"domain": [true], "range": ["blue"]}
+      "scale": {"domain": [true,false], "range": ["blue","#f0f0f0"]}
     },
     "tooltip": [
       {"field": "Number of Patients Seen", "type": "quantitative"},
       {
-        "field": "Number of Patients Seen Paracetamol",
-        "type": "quantitative",
-        "title": "Patients with Paracetamol"
-      },
-      {
         "field": "Paracetamol_Percentage",
         "type": "quantitative",
-        "title": "Paracetamol Percentage(%)"
+        "title": " Paracetamol_Percentage(%)"
       },
       {
         "field": "Clinician_String",
