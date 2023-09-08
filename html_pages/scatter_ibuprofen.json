@@ -31,13 +31,13 @@
     "x": {
       "field": "jitter_Number of Patients Seen",
       "type": "quantitative",
-      "title": "Number of Patient Seen",
+      "title": "Number of Patients",
       "scale": {"domain": [-1, 105]}
     },
     "y": {
       "field": "jitter_ibuprofen_percentage",
       "type": "quantitative",
-      "title": "Ibuprofen Percentage by Clinicians (%)",
+      "title": "% patients receiving ibuprofen",
       "scale": {"domain": [-1, 101]}
     },
     "color": {
