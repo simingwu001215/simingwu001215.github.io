@@ -50,7 +50,7 @@
     },
     "opacity": {
       "condition": {"selection": "hospital_highlight", "value": 1},
-      "value": 0
+      "value": 0.05
     },
     "cursor": {
       "condition": {"selection": "zoom", "value": "zoom-in"},
