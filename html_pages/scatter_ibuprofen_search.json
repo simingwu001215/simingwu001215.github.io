@@ -10,6 +10,20 @@
     {
       "name": "highlightCategory",
       "bind": {"input": "text", "name": "Search for Clinician"}
+    },
+    {
+      "name": "selectHospital",
+      "bind": {
+        "input": "select",
+        "name": "Select Hospital",
+        "options": [
+          "All",
+          "Dandenong",
+          "MMC- Clayton",
+          "Casey"
+        ],
+        "value": "All"
+      }
     }
   ],
   "transform": [
@@ -20,6 +34,9 @@
     {
       "calculate": "datum.Clinician_String === highlightCategory",
       "as": "highlighted"
+    },
+    {
+      "filter": "datum['Hospital'] === selectHospital || selectHospital === 'All'"
     }
   ],
   "selection": {"zoom": {"type": "interval", "bind": "scales"}},
@@ -50,19 +67,14 @@
     "color": {
       "field": "highlighted",
       "type": "nominal",
-      "scale": {"domain": [true], "range": ["blue"]}
+      "scale": {"domain": [true,false], "range": ["blue","#f0f0f0"]}
     },
     "tooltip": [
       {"field": "Number of Patients Seen", "type": "quantitative"},
       {
-        "field": "Number of Patients Seen ibuprofen",
-        "type": "quantitative",
-        "title": "Patients with ibuprofen"
-      },
-      {
         "field": "ibuprofen_percentage",
         "type": "quantitative",
-        "title": "ibuprofen Percentage(%)"
+        "title": " Ibuprofen Percentage(%)"
       },
       {
         "field": "Clinician_String",
