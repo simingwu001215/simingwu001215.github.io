@@ -45,7 +45,7 @@
       "type": "nominal",
       "scale": {
         "domain": ["Casey", "MMC- Clayton", "Dandenong"],
-        "range": ["#e41a1c", "#984ea3", "#a6cee3"]
+        "range": ["#ff7f00","#6a3d9a","#33a02c"]
       }
     },
     "opacity": {
