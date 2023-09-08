@@ -67,7 +67,7 @@
     "color": {
       "field": "highlighted",
       "type": "nominal",
-      "scale": {"domain": [true,false], "range": ["blue","#f0f0f0"]}
+      "scale": {"domain": [true,false], "range": ["blue","#bababa"]}
     },
     "tooltip": [
       {"field": "Number of Patients Seen", "type": "quantitative"},
