@@ -31,13 +31,13 @@
     "x": {
       "field": "jitter_Number_of_patient_Seen",
       "type": "quantitative",
-      "title": "Number of Patient Seen",
+      "title": "Number of Patients",
       "scale": {"domain": [-1, 105]}
     },
     "y": {
       "field": "jitter_prednisolone_percentage",
       "type": "quantitative",
-      "title": "Prednisolone Percentage by Clinicians (%)",
+      "title": "% patients receiving Prednisolone",
       "scale": {"domain": [-1, 101]}
     },
     "color": {
