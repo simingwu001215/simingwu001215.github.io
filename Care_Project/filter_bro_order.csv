@@ -1,0 +1,1620 @@
+EmergencyAttendanceId,ArrivalDate,Hospital,Age_In_Years,ComplaintDesc,PrimaryDiagDesc,Treating.Clinician,OrderDetails,OrderByCarerID,OrderType,CombinedOrder
+11686234,8/01/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90003195,XR Chest X-ray,90003195,Radiology,XR Chest X-ray
+11695962,9/01/2020,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90101121,ibuprofen,90101121,Pharmacy,ibuprofen
+11695962,9/01/2020,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90101121,paracetamol,90101121,Pharmacy,paracetamol
+11722724,14/01/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90004510,paracetamol,90004510,Pharmacy,paracetamol
+11728276,15/01/2020,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90003440,paracetamol,90003440,Pharmacy,paracetamol
+11728276,15/01/2020,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90003440,ibuprofen,90003440,Pharmacy,ibuprofen
+11742529,17/01/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90003721,paracetamol,90003721,Pharmacy,paracetamol
+11754606,19/01/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90004171,paracetamol,90004171,Pharmacy,paracetamol
+11754606,19/01/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90004171,ibuprofen,90004171,Pharmacy,ibuprofen
+11764881,20/01/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90005109,paracetamol,90005109,Pharmacy,paracetamol
+11764881,20/01/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90005109,ibuprofen,90005109,Pharmacy,ibuprofen
+11775807,22/01/2020,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90003263,paracetamol,90003263,Pharmacy,paracetamol
+11781202,23/01/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90005109,paracetamol,90005109,Pharmacy,paracetamol
+11781202,23/01/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90005109,ibuprofen,90005109,Pharmacy,ibuprofen
+11850942,3/02/2020,Casey,0,Cough,"Bronchiolitis, acute",90003244,ibuprofen,90003244,Pharmacy,ibuprofen
+11853254,4/02/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90004908,salbutamol,90004908,Pharmacy,salbutamol
+11883565,8/02/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90003827,ibuprofen,90003827,Pharmacy,ibuprofen
+11910321,12/02/2020,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90005035,paracetamol,90005035,Pharmacy,paracetamol
+11910321,12/02/2020,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90005035,ibuprofen,90005035,Pharmacy,ibuprofen
+11933757,16/02/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90005005,paracetamol,90005005,Pharmacy,paracetamol
+11934558,16/02/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90111262,salbutamol,90111262,Pharmacy,salbutamol
+12013941,27/02/2020,Casey,0,Rash,"Bronchiolitis, acute",90003309,paracetamol,90003309,Pharmacy,paracetamol
+12027846,1/03/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90111234,XR Chest X-ray,90111234,Radiology,XR Chest X-ray
+12039192,2/03/2020,Casey,0,Cough,"Bronchiolitis, acute",90105952,XR Chest X-ray,90105952,Radiology,XR Chest X-ray
+12039192,2/03/2020,Casey,0,Cough,"Bronchiolitis, acute",90105952,ibuprofen,90105952,Pharmacy,ibuprofen
+12039192,2/03/2020,Casey,0,Cough,"Bronchiolitis, acute",90105952,salbutamol,90105952,Pharmacy,salbutamol
+12041493,3/03/2020,Casey,0,Unwell child,"Bronchiolitis, acute",90104797,paracetamol,90104797,Pharmacy,paracetamol
+12086281,10/03/2020,Casey,0,Cough,"Bronchiolitis, acute",90005353,dexamethasone,90005353,Pharmacy,prednisolone/dexamethasone
+12091692,10/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90102876,paracetamol,90102876,Pharmacy,paracetamol
+12091692,10/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90102876,ibuprofen,90102876,Pharmacy,ibuprofen
+12116696,13/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90003723,salbutamol,90003723,Pharmacy,salbutamol
+12133512,16/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90004008,paracetamol,90004008,Pharmacy,paracetamol
+12133512,16/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90004008,ibuprofen,90004008,Pharmacy,ibuprofen
+12148431,18/03/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90003827,paracetamol,90003827,Pharmacy,paracetamol
+12148431,18/03/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90003827,XR Chest X-ray,90003827,Radiology,XR Chest X-ray
+12179075,24/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90005005,paracetamol,90005005,Pharmacy,paracetamol
+12179075,24/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90005005,ibuprofen,90005005,Pharmacy,ibuprofen
+12179075,24/03/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90005005,XR Chest X-ray,90005005,Radiology,XR Chest X-ray
+12221745,1/04/2020,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90003943,ibuprofen,90003943,Pharmacy,ibuprofen
+12221745,1/04/2020,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90003943,prednisolone,90003943,Pharmacy,prednisolone
+12223225,2/04/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90111265,paracetamol,90111265,Pharmacy,paracetamol
+12537799,1/06/2020,Casey,0,NULL,"Bronchiolitis, acute",90005369,paracetamol,90005369,Pharmacy,paracetamol
+12540796,2/06/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90003645,XR Chest X-ray,90003645,Radiology,XR Chest X-ray
+12708010,29/06/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90058180,paracetamol,90058180,Pharmacy,paracetamol
+12720248,1/07/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90094829,XR Chest X-ray,90094829,Radiology,XR Chest X-ray
+12740105,4/07/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078787,XR Chest X-ray,90078787,Radiology,XR Chest X-ray
+12769392,9/07/2020,Casey,0,Unwell child,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+12769392,9/07/2020,Casey,0,Unwell child,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+12769392,9/07/2020,Casey,0,Unwell child,"Bronchiolitis, acute",90101274,ondansetron,90101274,Pharmacy,ondansetron
+12908355,2/08/2020,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90086232,paracetamol,90086232,Pharmacy,paracetamol
+12908355,2/08/2020,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90086232,XR Chest X-ray,90086232,Radiology,XR Chest X-ray
+12920400,4/08/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90034958,ibuprofen,90034958,Pharmacy,ibuprofen
+13039235,26/08/2020,Dandenong,0,NULL,"Bronchiolitis, acute",90112361,XR Chest X-ray,90112361,Radiology,XR Chest X-ray
+13163320,17/09/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90100582,XR Chest X-ray,90100582,Radiology,XR Chest X-ray
+13317395,13/10/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90077401,paracetamol,90077401,Pharmacy,paracetamol
+13325061,14/10/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90119823,XR Chest X-ray,90119823,Radiology,XR Chest X-ray
+13325061,14/10/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90119823,salbutamol,90119823,Pharmacy,salbutamol
+13388878,25/10/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90022682,paracetamol,90022682,Pharmacy,paracetamol
+13388878,25/10/2020,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90022682,ibuprofen,90022682,Pharmacy,ibuprofen
+13430055,31/10/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085012,paracetamol,90085012,Pharmacy,paracetamol
+13430055,31/10/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085012,ibuprofen,90085012,Pharmacy,ibuprofen
+13495949,10/11/2020,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90040371,paracetamol,90040371,Pharmacy,paracetamol
+13495949,10/11/2020,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90040371,ibuprofen,90040371,Pharmacy,ibuprofen
+13503221,11/11/2020,Casey,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90078814,paracetamol,90078814,Pharmacy,paracetamol
+13550560,18/11/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90095252,salbutamol,90095252,Pharmacy,salbutamol
+13676265,7/12/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90078140,paracetamol,90078140,Pharmacy,paracetamol
+13676265,7/12/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90078140,ibuprofen,90078140,Pharmacy,ibuprofen
+13676265,7/12/2020,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90078140,ondansetron,90078140,Pharmacy,ondansetron
+13711896,13/12/2020,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90023171,XR Chest X-ray,90023171,Radiology,XR Chest X-ray
+13748463,18/12/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119823,XR Chest X-ray,90119823,Radiology,XR Chest X-ray
+13808951,28/12/2020,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90032705,paracetamol,90032705,Pharmacy,paracetamol
+13837456,2/01/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90077401,paracetamol,90077401,Pharmacy,paracetamol
+14024808,30/01/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90055388,paracetamol,90055388,Pharmacy,paracetamol
+14038059,1/02/2021,MMC- Clayton,0,Brocnhiolitis,"Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+14091014,9/02/2021,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90020817,paracetamol,90020817,Pharmacy,paracetamol
+14098651,10/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90122677,XR Chest X-ray,90122677,Radiology,XR Chest X-ray
+14104599,10/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+14120936,12/02/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+14120936,12/02/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90015608,ibuprofen,90015608,Pharmacy,ibuprofen
+14130662,14/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,ibuprofen,90077628,Pharmacy,ibuprofen
+14137388,15/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,paracetamol,90081325,Pharmacy,paracetamol
+14137388,15/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,ibuprofen,90081325,Pharmacy,ibuprofen
+14145695,16/02/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90011578,paracetamol,90011578,Pharmacy,paracetamol
+14150796,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,paracetamol,90077628,Pharmacy,paracetamol
+14150796,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,ibuprofen,90077628,Pharmacy,ibuprofen
+14150796,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,ondansetron,90077628,Pharmacy,ondansetron
+14150796,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,prednisolone,90077628,Pharmacy,prednisolone
+14150796,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,salbutamol,90077628,Pharmacy,salbutamol
+14149571,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,paracetamol,90077628,Pharmacy,paracetamol
+14149571,17/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90077628,ondansetron,90077628,Pharmacy,ondansetron
+14154112,17/02/2021,Casey,0,Cough,"Bronchiolitis, acute",90124441,paracetamol,90124441,Pharmacy,paracetamol
+14154112,17/02/2021,Casey,0,Cough,"Bronchiolitis, acute",90124441,ibuprofen,90124441,Pharmacy,ibuprofen
+14154112,17/02/2021,Casey,0,Cough,"Bronchiolitis, acute",90124441,salbutamol,90124441,Pharmacy,salbutamol
+14154584,17/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90122677,paracetamol,90122677,Pharmacy,paracetamol
+14154233,17/02/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90090296,paracetamol,90090296,Pharmacy,paracetamol
+14162358,18/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14162358,18/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+14165094,19/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074963,paracetamol,90074963,Pharmacy,paracetamol
+14172477,20/02/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90020817,paracetamol,90020817,Pharmacy,paracetamol
+14172477,20/02/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90020817,ibuprofen,90020817,Pharmacy,ibuprofen
+14172477,20/02/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90020817,ondansetron,90020817,Pharmacy,ondansetron
+14174664,20/02/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90094126,paracetamol,90094126,Pharmacy,paracetamol
+14174664,20/02/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90094126,ondansetron,90094126,Pharmacy,ondansetron
+14174664,20/02/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90094126,salbutamol,90094126,Pharmacy,salbutamol
+14185597,22/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+14185597,22/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90015608,ibuprofen,90015608,Pharmacy,ibuprofen
+14191781,23/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124612,paracetamol,90124612,Pharmacy,paracetamol
+14205245,24/02/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14202116,24/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+14202116,24/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+14202116,24/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ondansetron,90124438,Pharmacy,ondansetron
+14198501,24/02/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90098744,paracetamol,90098744,Pharmacy,paracetamol
+14205794,25/02/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+14205794,25/02/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+14220004,26/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124612,paracetamol,90124612,Pharmacy,paracetamol
+14226225,27/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90113883,ibuprofen,90113883,Pharmacy,ibuprofen
+14226225,27/02/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90113883,paracetamol,90113883,Pharmacy,paracetamol
+14226846,28/02/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+14234720,1/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+14232556,1/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+14236909,1/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+14242496,2/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124609,ibuprofen,90124609,Pharmacy,ibuprofen
+14242496,2/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124609,XR Chest X-ray,90124609,Radiology,XR Chest X-ray
+14244006,2/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124609,XR Chest X-ray,90124609,Radiology,XR Chest X-ray
+14255164,3/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124609,paracetamol,90124609,Pharmacy,paracetamol
+14255164,3/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124609,ibuprofen,90124609,Pharmacy,ibuprofen
+14256540,4/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074347,dexamethasone,90074347,Pharmacy,prednisolone/dexamethasone
+14256540,4/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074347,prednisolone,90074347,Pharmacy,prednisolone
+14256621,4/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90069969,paracetamol,90069969,Pharmacy,paracetamol
+14256621,4/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90069969,ibuprofen,90069969,Pharmacy,ibuprofen
+14266728,5/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90046416,paracetamol,90046416,Pharmacy,paracetamol
+14266728,5/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90046416,ibuprofen,90046416,Pharmacy,ibuprofen
+14272390,5/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90113497,paracetamol,90113497,Pharmacy,paracetamol
+14272390,5/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90113497,ibuprofen,90113497,Pharmacy,ibuprofen
+14276488,6/03/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90113883,paracetamol,90113883,Pharmacy,paracetamol
+14276488,6/03/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90113883,ibuprofen,90113883,Pharmacy,ibuprofen
+14282091,7/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+14282091,7/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+14278905,7/03/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90089123,paracetamol,90089123,Pharmacy,paracetamol
+14278905,7/03/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90089123,ibuprofen,90089123,Pharmacy,ibuprofen
+14278905,7/03/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90089123,ondansetron,90089123,Pharmacy,ondansetron
+14286174,8/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14286174,8/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+14286174,8/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90101274,XR Chest X-ray,90101274,Radiology,XR Chest X-ray
+14287364,8/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+14296400,9/03/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90015746,dexamethasone,90015746,Pharmacy,prednisolone/dexamethasone
+14292774,9/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90001660,paracetamol,90001660,Pharmacy,paracetamol
+14292774,9/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90001660,ibuprofen,90001660,Pharmacy,ibuprofen
+14288056,9/03/2021,MMC- Clayton,0,Asthma,"Bronchiolitis, acute",90109179,paracetamol,90109179,Pharmacy,paracetamol
+14297362,10/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123243,paracetamol,90123243,Pharmacy,paracetamol
+14299761,10/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+14299761,10/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90026166,ibuprofen,90026166,Pharmacy,ibuprofen
+14303991,10/03/2021,Casey,0,?bronchiolitis,"Bronchiolitis, acute",90056792,paracetamol,90056792,Pharmacy,paracetamol
+14303991,10/03/2021,Casey,0,?bronchiolitis,"Bronchiolitis, acute",90056792,ibuprofen,90056792,Pharmacy,ibuprofen
+14309206,11/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90024320,XR Chest X-ray,90024320,Radiology,XR Chest X-ray
+14307036,11/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14311368,11/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+14311368,11/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90015608,ibuprofen,90015608,Pharmacy,ibuprofen
+14316992,12/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14328051,13/03/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90076316,paracetamol,90076316,Pharmacy,paracetamol
+14325046,13/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14326235,13/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124609,paracetamol,90124609,Pharmacy,paracetamol
+14330224,14/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90047604,paracetamol,90047604,Pharmacy,paracetamol
+14331935,14/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90008018,ibuprofen,90008018,Pharmacy,ibuprofen
+14331935,14/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90008018,paracetamol,90008018,Pharmacy,paracetamol
+14340774,15/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90077920,ibuprofen,90077920,Pharmacy,ibuprofen
+14341273,15/03/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+14341273,15/03/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+14333181,15/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14333181,15/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,chloral hydrate,90062205,Pharmacy,chloral hydrate
+14334617,15/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90032676,salbutamol,90032676,Pharmacy,salbutamol
+14334617,15/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90032676,paracetamol,90032676,Pharmacy,paracetamol
+14334617,15/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90032676,ibuprofen,90032676,Pharmacy,ibuprofen
+14334617,15/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90032676,ondansetron,90032676,Pharmacy,ondansetron
+14334617,15/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90032676,XR Chest X-ray,90032676,Radiology,XR Chest X-ray
+14341267,15/03/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,XR Chest X-ray,90083266,Radiology,XR Chest X-ray
+14341267,15/03/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+14341267,15/03/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+14357298,17/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90094126,paracetamol,90094126,Pharmacy,paracetamol
+14357364,17/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124698,paracetamol,90124698,Pharmacy,paracetamol
+14357364,17/03/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124698,ibuprofen,90124698,Pharmacy,ibuprofen
+14356597,17/03/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90039551,paracetamol,90039551,Pharmacy,paracetamol
+14356597,17/03/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90039551,ibuprofen,90039551,Pharmacy,ibuprofen
+14363180,18/03/2021,Casey,0,SOB,"Bronchiolitis, acute",90033661,paracetamol,90033661,Pharmacy,paracetamol
+14363180,18/03/2021,Casey,0,SOB,"Bronchiolitis, acute",90033661,ibuprofen,90033661,Pharmacy,ibuprofen
+14363180,18/03/2021,Casey,0,SOB,"Bronchiolitis, acute",90033661,XR Chest X-ray,90033661,Radiology,XR Chest X-ray
+14361735,18/03/2021,Dandenong,0,Crying - Distressed child/infant,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+14363713,18/03/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90037850,paracetamol,90037850,Pharmacy,paracetamol
+14372926,19/03/2021,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+14372926,19/03/2021,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90099752,ibuprofen,90099752,Pharmacy,ibuprofen
+14373749,19/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14374349,19/03/2021,MMC- Clayton,0,+,"Bronchiolitis, acute",90124609,paracetamol,90124609,Pharmacy,paracetamol
+14382369,21/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14382369,21/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+14381969,21/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90123296,paracetamol,90123296,Pharmacy,paracetamol
+14381969,21/03/2021,Casey,0,Cough,"Bronchiolitis, acute",90123296,ibuprofen,90123296,Pharmacy,ibuprofen
+14382201,21/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14392316,22/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90059584,paracetamol,90059584,Pharmacy,paracetamol
+14416704,25/03/2021,Casey,0,unwell child,"Bronchiolitis, acute",90098405,paracetamol,90098405,Pharmacy,paracetamol
+14417280,25/03/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14418033,25/03/2021,Casey,0,Vomiting,"Bronchiolitis, acute",90071662,paracetamol,90071662,Pharmacy,paracetamol
+14413605,25/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90098744,paracetamol,90098744,Pharmacy,paracetamol
+14430133,27/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078814,ibuprofen,90078814,Pharmacy,ibuprofen
+14430133,27/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078814,paracetamol,90078814,Pharmacy,paracetamol
+14430133,27/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078814,salbutamol,90078814,Pharmacy,salbutamol
+14426474,27/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+14433329,28/03/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+14432985,28/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90006510,paracetamol,90006510,Pharmacy,paracetamol
+14432985,28/03/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90006510,ibuprofen,90006510,Pharmacy,ibuprofen
+14450946,30/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124199,paracetamol,90124199,Pharmacy,paracetamol
+14460194,31/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,paracetamol,90053409,Pharmacy,paracetamol
+14460194,31/03/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,ibuprofen,90053409,Pharmacy,ibuprofen
+14463650,1/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14464967,1/04/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+14464967,1/04/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+14471243,2/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90124642,ibuprofen,90124642,Pharmacy,ibuprofen
+14471243,2/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90124642,XR Chest X-ray,90124642,Radiology,XR Chest X-ray
+14474253,2/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14477373,3/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124642,paracetamol,90124642,Pharmacy,paracetamol
+14477373,3/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124642,ibuprofen,90124642,Pharmacy,ibuprofen
+14476156,3/04/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90124517,ibuprofen,90124517,Pharmacy,ibuprofen
+14476156,3/04/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90124517,paracetamol,90124517,Pharmacy,paracetamol
+14480922,4/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90059584,paracetamol,90059584,Pharmacy,paracetamol
+14480922,4/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90059584,ibuprofen,90059584,Pharmacy,ibuprofen
+14480922,4/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90059584,ondansetron,90059584,Pharmacy,ondansetron
+14480442,4/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90089123,paracetamol,90089123,Pharmacy,paracetamol
+14480442,4/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90089123,ibuprofen,90089123,Pharmacy,ibuprofen
+14484364,4/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124563,ibuprofen,90124563,Pharmacy,ibuprofen
+14486951,5/04/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90051139,salbutamol,90051139,Pharmacy,salbutamol
+14495199,6/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14495199,6/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,ibuprofen,90062205,Pharmacy,ibuprofen
+14494727,6/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90124447,paracetamol,90124447,Pharmacy,paracetamol
+14497035,6/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90082515,paracetamol,90082515,Pharmacy,paracetamol
+14497035,6/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90082515,ibuprofen,90082515,Pharmacy,ibuprofen
+14497035,6/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90082515,salbutamol,90082515,Pharmacy,salbutamol
+14501552,7/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90124642,paracetamol,90124642,Pharmacy,paracetamol
+14501552,7/04/2021,Casey,0,Cough,"Bronchiolitis, acute",90124642,ibuprofen,90124642,Pharmacy,ibuprofen
+14520376,9/04/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90112578,paracetamol,90112578,Pharmacy,paracetamol
+14520376,9/04/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90112578,ibuprofen,90112578,Pharmacy,ibuprofen
+14515708,9/04/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124439,prednisolone,90124439,Pharmacy,prednisolone
+14515708,9/04/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124439,salbutamol,90124439,Pharmacy,salbutamol
+14515708,9/04/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124439,paracetamol,90124439,Pharmacy,paracetamol
+14518583,9/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14518583,9/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,ibuprofen,90062205,Pharmacy,ibuprofen
+14526508,10/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14529810,11/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14528450,11/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124698,dexamethasone,90124698,Pharmacy,prednisolone/dexamethasone
+14528450,11/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124698,ibuprofen,90124698,Pharmacy,ibuprofen
+14528450,11/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124698,paracetamol,90124698,Pharmacy,paracetamol
+14529807,11/04/2021,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14536113,12/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,XR Chest X-ray,90062205,Radiology,XR Chest X-ray
+14535217,12/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14532774,12/04/2021,MMC- Clayton,0,Cardiac Arrythmia,"Bronchiolitis, acute",90059584,salbutamol,90059584,Pharmacy,salbutamol
+14544706,13/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14547322,13/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90011578,paracetamol,90011578,Pharmacy,paracetamol
+14541296,13/04/2021,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90117588,ibuprofen,90117588,Pharmacy,ibuprofen
+14543354,13/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+14543354,13/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+14548549,14/04/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90124621,paracetamol,90124621,Pharmacy,paracetamol
+14562639,15/04/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90002772,paracetamol,90002772,Pharmacy,paracetamol
+14562639,15/04/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90002772,ibuprofen,90002772,Pharmacy,ibuprofen
+14564141,16/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90052916,ibuprofen,90052916,Pharmacy,ibuprofen
+14564141,16/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90052916,XR Chest X-ray,90052916,Radiology,XR Chest X-ray
+14579169,18/04/2021,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14579169,18/04/2021,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90062205,ibuprofen,90062205,Pharmacy,ibuprofen
+14577714,18/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90059584,salbutamol,90059584,Pharmacy,salbutamol
+14581526,19/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90100013,paracetamol,90100013,Pharmacy,paracetamol
+14581526,19/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90100013,ibuprofen,90100013,Pharmacy,ibuprofen
+14591286,20/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90037802,paracetamol,90037802,Pharmacy,paracetamol
+14593699,20/04/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90078263,ibuprofen,90078263,Pharmacy,ibuprofen
+14593699,20/04/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90078263,paracetamol,90078263,Pharmacy,paracetamol
+14611073,22/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124621,paracetamol,90124621,Pharmacy,paracetamol
+14606822,22/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,ibuprofen,90010636,Pharmacy,ibuprofen
+14615519,23/04/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+14615303,23/04/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90113497,paracetamol,90113497,Pharmacy,paracetamol
+14627593,25/04/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90098744,paracetamol,90098744,Pharmacy,paracetamol
+14627593,25/04/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90098744,ibuprofen,90098744,Pharmacy,ibuprofen
+14627513,25/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010636,paracetamol,90010636,Pharmacy,paracetamol
+14636122,26/04/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124609,paracetamol,90124609,Pharmacy,paracetamol
+14631706,26/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,salbutamol,90086136,Pharmacy,salbutamol
+14631706,26/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,paracetamol,90086136,Pharmacy,paracetamol
+14631706,26/04/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,ibuprofen,90086136,Pharmacy,ibuprofen
+14679608,2/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14676323,2/05/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082515,paracetamol,90082515,Pharmacy,paracetamol
+14676323,2/05/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082515,ondansetron,90082515,Pharmacy,ondansetron
+14711130,6/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90096616,paracetamol,90096616,Pharmacy,paracetamol
+14711130,6/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90096616,ibuprofen,90096616,Pharmacy,ibuprofen
+14724599,8/05/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90008396,paracetamol,90008396,Pharmacy,paracetamol
+14724599,8/05/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90008396,ibuprofen,90008396,Pharmacy,ibuprofen
+14722293,8/05/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+14722293,8/05/2021,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+14721852,8/05/2021,Casey,0,Cough,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+14721852,8/05/2021,Casey,0,Cough,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+14766574,14/05/2021,Casey,0,Cough,"Bronchiolitis, acute",90109179,paracetamol,90109179,Pharmacy,paracetamol
+14788331,18/05/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90089947,ibuprofen,90089947,Pharmacy,ibuprofen
+14788331,18/05/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90089947,paracetamol,90089947,Pharmacy,paracetamol
+14797146,19/05/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90002772,paracetamol,90002772,Pharmacy,paracetamol
+14797146,19/05/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90002772,ibuprofen,90002772,Pharmacy,ibuprofen
+14812391,21/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078071,paracetamol,90078071,Pharmacy,paracetamol
+14815916,21/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+14822981,23/05/2021,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90014902,XR Chest X-ray,90014902,Radiology,XR Chest X-ray
+14853751,27/05/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90090681,paracetamol,90090681,Pharmacy,paracetamol
+14853751,27/05/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90090681,ibuprofen,90090681,Pharmacy,ibuprofen
+14865632,29/05/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90107017,salbutamol,90107017,Pharmacy,salbutamol
+14865632,29/05/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90107017,paracetamol,90107017,Pharmacy,paracetamol
+14865632,29/05/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90107017,ibuprofen,90107017,Pharmacy,ibuprofen
+14869718,30/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90030535,paracetamol,90030535,Pharmacy,paracetamol
+14869718,30/05/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90030535,ibuprofen,90030535,Pharmacy,ibuprofen
+14872329,30/05/2021,Casey,0,Cough,"Bronchiolitis, acute",90086511,ibuprofen,90086511,Pharmacy,ibuprofen
+14874799,31/05/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90014902,salbutamol,90014902,Pharmacy,salbutamol
+14874799,31/05/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90014902,paracetamol,90014902,Pharmacy,paracetamol
+14894224,2/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90018863,paracetamol,90018863,Pharmacy,paracetamol
+14915812,6/06/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90008396,dexamethasone,90008396,Pharmacy,prednisolone/dexamethasone
+14922304,7/06/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90030535,paracetamol,90030535,Pharmacy,paracetamol
+14966107,14/06/2021,Casey,0,Cough,"Bronchiolitis, acute",90052753,paracetamol,90052753,Pharmacy,paracetamol
+14975022,16/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90100013,paracetamol,90100013,Pharmacy,paracetamol
+14975022,16/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90100013,ibuprofen,90100013,Pharmacy,ibuprofen
+14975022,16/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90100013,dexamethasone,90100013,Pharmacy,prednisolone/dexamethasone
+14982109,16/06/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081325,paracetamol,90081325,Pharmacy,paracetamol
+14980841,16/06/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010720,paracetamol,90010720,Pharmacy,paracetamol
+14980841,16/06/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90010720,ibuprofen,90010720,Pharmacy,ibuprofen
+14990856,18/06/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124609,paracetamol,90124609,Pharmacy,paracetamol
+14990856,18/06/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124609,salbutamol,90124609,Pharmacy,salbutamol
+15012792,21/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90112083,paracetamol,90112083,Pharmacy,paracetamol
+15012792,21/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90112083,ibuprofen,90112083,Pharmacy,ibuprofen
+15027252,23/06/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90008396,paracetamol,90008396,Pharmacy,paracetamol
+15027252,23/06/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90008396,ibuprofen,90008396,Pharmacy,ibuprofen
+15054400,28/06/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90078071,paracetamol,90078071,Pharmacy,paracetamol
+15067415,29/06/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+15067415,29/06/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+15067415,29/06/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90124440,salbutamol,90124440,Pharmacy,salbutamol
+15067923,29/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+15067923,29/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124440,ibuprofen,90124440,Pharmacy,ibuprofen
+15067923,29/06/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124440,salbutamol,90124440,Pharmacy,salbutamol
+15094373,3/07/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90025727,paracetamol,90025727,Pharmacy,paracetamol
+15094373,3/07/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90025727,salbutamol,90025727,Pharmacy,salbutamol
+15094658,3/07/2021,MMC- Clayton,0,Crying - Distressed child/infant,"Bronchiolitis, acute",90078071,XR Chest X-ray,90078071,Radiology,XR Chest X-ray
+15094658,3/07/2021,MMC- Clayton,0,Crying - Distressed child/infant,"Bronchiolitis, acute",90078071,paracetamol,90078071,Pharmacy,paracetamol
+15094658,3/07/2021,MMC- Clayton,0,Crying - Distressed child/infant,"Bronchiolitis, acute",90078071,ibuprofen,90078071,Pharmacy,ibuprofen
+15099879,4/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010158,XR Chest X-ray,90010158,Radiology,XR Chest X-ray
+15113964,6/07/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90037802,paracetamol,90037802,Pharmacy,paracetamol
+15108279,6/07/2021,MMC- Clayton,0,Skin Wound/Laceration,"Bronchiolitis, acute",90096616,ibuprofen,90096616,Pharmacy,ibuprofen
+15108279,6/07/2021,MMC- Clayton,0,Skin Wound/Laceration,"Bronchiolitis, acute",90096616,XR Chest X-ray,90096616,Radiology,XR Chest X-ray
+15119835,7/07/2021,Casey,0,Cough,"Bronchiolitis, acute",90054690,paracetamol,90054690,Pharmacy,paracetamol
+15119835,7/07/2021,Casey,0,Cough,"Bronchiolitis, acute",90054690,ibuprofen,90054690,Pharmacy,ibuprofen
+15139026,10/07/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90076693,paracetamol,90076693,Pharmacy,paracetamol
+15157125,13/07/2021,Dandenong,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90034329,paracetamol,90034329,Pharmacy,paracetamol
+15169829,14/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90127293,XR Chest X-ray,90127293,Radiology,XR Chest X-ray
+15169829,14/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90127293,paracetamol,90127293,Pharmacy,paracetamol
+15167456,14/07/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123261,ibuprofen,90123261,Pharmacy,ibuprofen
+15167456,14/07/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123261,paracetamol,90123261,Pharmacy,paracetamol
+15176428,15/07/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123284,paracetamol,90123284,Pharmacy,paracetamol
+15189227,17/07/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+15189227,17/07/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90026166,ibuprofen,90026166,Pharmacy,ibuprofen
+15189227,17/07/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90026166,XR Chest X-ray,90026166,Radiology,XR Chest X-ray
+15193588,18/07/2021,Dandenong,0,Unwell child,"Bronchiolitis, acute",90124459,paracetamol,90124459,Pharmacy,paracetamol
+15191515,18/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90030535,paracetamol,90030535,Pharmacy,paracetamol
+15191515,18/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90030535,ibuprofen,90030535,Pharmacy,ibuprofen
+15211610,21/07/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124491,paracetamol,90124491,Pharmacy,paracetamol
+15211610,21/07/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124491,ibuprofen,90124491,Pharmacy,ibuprofen
+15216539,21/07/2021,Casey,0,Cough - Croup,"Bronchiolitis, acute",90124446,salbutamol,90124446,Pharmacy,salbutamol
+15216539,21/07/2021,Casey,0,Cough - Croup,"Bronchiolitis, acute",90124446,paracetamol,90124446,Pharmacy,paracetamol
+15216539,21/07/2021,Casey,0,Cough - Croup,"Bronchiolitis, acute",90124446,ibuprofen,90124446,Pharmacy,ibuprofen
+15216539,21/07/2021,Casey,0,Cough - Croup,"Bronchiolitis, acute",90124446,dexamethasone,90124446,Pharmacy,prednisolone/dexamethasone
+15216412,21/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+15240028,25/07/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124440,paracetamol,90124440,Pharmacy,paracetamol
+15237654,25/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124621,XR Chest X-ray,90124621,Radiology,XR Chest X-ray
+15242841,26/07/2021,Casey,0,Cough,"Bronchiolitis, acute",90011578,paracetamol,90011578,Pharmacy,paracetamol
+15246259,26/07/2021,Dandenong,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90015608,paracetamol,90015608,Pharmacy,paracetamol
+15246259,26/07/2021,Dandenong,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90015608,ibuprofen,90015608,Pharmacy,ibuprofen
+15255595,27/07/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90044868,ondansetron,90044868,Pharmacy,ondansetron
+15262509,28/07/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90122677,paracetamol,90122677,Pharmacy,paracetamol
+15262509,28/07/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90122677,ibuprofen,90122677,Pharmacy,ibuprofen
+15263395,28/07/2021,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90078071,paracetamol,90078071,Pharmacy,paracetamol
+15259666,28/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,salbutamol,90078705,Pharmacy,salbutamol
+15259666,28/07/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,ibuprofen,90078705,Pharmacy,ibuprofen
+15277308,30/07/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90021003,XR Chest X-ray,90021003,Radiology,XR Chest X-ray
+15274305,30/07/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124621,paracetamol,90124621,Pharmacy,paracetamol
+15287465,1/08/2021,Casey,0,Cough,"Bronchiolitis, acute",90008018,ibuprofen,90008018,Pharmacy,ibuprofen
+15287465,1/08/2021,Casey,0,Cough,"Bronchiolitis, acute",90008018,paracetamol,90008018,Pharmacy,paracetamol
+15288651,2/08/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90062205,paracetamol,90062205,Pharmacy,paracetamol
+15299458,3/08/2021,Casey,0,Cough,"Bronchiolitis, acute",90095252,paracetamol,90095252,Pharmacy,paracetamol
+15304284,4/08/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90061220,paracetamol,90061220,Pharmacy,paracetamol
+15304284,4/08/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90061220,ibuprofen,90061220,Pharmacy,ibuprofen
+15311292,4/08/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90122677,paracetamol,90122677,Pharmacy,paracetamol
+15321454,6/08/2021,Casey,0,Cough,"Bronchiolitis, acute",90124443,salbutamol,90124443,Pharmacy,salbutamol
+15321454,6/08/2021,Casey,0,Cough,"Bronchiolitis, acute",90124443,dexamethasone,90124443,Pharmacy,prednisolone/dexamethasone
+15332259,8/08/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90024320,paracetamol,90024320,Pharmacy,paracetamol
+15335366,8/08/2021,Dandenong,0,Cough,"Bronchiolitis, acute",90008672,XR Chest X-ray,90008672,Radiology,XR Chest X-ray
+15352414,11/08/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90040773,salbutamol,90040773,Pharmacy,salbutamol
+15352414,11/08/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90040773,XR Chest X-ray,90040773,Radiology,XR Chest X-ray
+15360491,12/08/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90063200,paracetamol,90063200,Pharmacy,paracetamol
+15360491,12/08/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90063200,ibuprofen,90063200,Pharmacy,ibuprofen
+15384767,16/08/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90058333,paracetamol,90058333,Pharmacy,paracetamol
+15384767,16/08/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90058333,ibuprofen,90058333,Pharmacy,ibuprofen
+15387629,16/08/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90014902,dexamethasone,90014902,Pharmacy,prednisolone/dexamethasone
+15387629,16/08/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90014902,paracetamol,90014902,Pharmacy,paracetamol
+15396483,17/08/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90136838,paracetamol,90136838,Pharmacy,paracetamol
+15396483,17/08/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90136838,ibuprofen,90136838,Pharmacy,ibuprofen
+15393607,17/08/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124439,paracetamol,90124439,Pharmacy,paracetamol
+15425209,21/08/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90024223,paracetamol,90024223,Pharmacy,paracetamol
+15425209,21/08/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90024223,ibuprofen,90024223,Pharmacy,ibuprofen
+15424701,21/08/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90039000,ibuprofen,90039000,Pharmacy,ibuprofen
+15424701,21/08/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90039000,paracetamol,90039000,Pharmacy,paracetamol
+15481095,30/08/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124682,paracetamol,90124682,Pharmacy,paracetamol
+15496488,1/09/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90093516,paracetamol,90093516,Pharmacy,paracetamol
+15496488,1/09/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90093516,ibuprofen,90093516,Pharmacy,ibuprofen
+15499057,1/09/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90055388,paracetamol,90055388,Pharmacy,paracetamol
+15513928,3/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90136849,ibuprofen,90136849,Pharmacy,ibuprofen
+15521507,5/09/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+15521507,5/09/2021,MMC- Clayton,0,NULL,"Bronchiolitis, acute",90083266,XR Chest X-ray,90083266,Radiology,XR Chest X-ray
+15519708,5/09/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90054690,paracetamol,90054690,Pharmacy,paracetamol
+15519708,5/09/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90054690,ibuprofen,90054690,Pharmacy,ibuprofen
+15521122,5/09/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90077401,XR Chest X-ray,90077401,Radiology,XR Chest X-ray
+15529966,7/09/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124439,salbutamol,90124439,Pharmacy,salbutamol
+15529966,7/09/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124439,paracetamol,90124439,Pharmacy,paracetamol
+15529966,7/09/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124439,ibuprofen,90124439,Pharmacy,ibuprofen
+15561500,11/09/2021,Casey,0,Generally Unwell,"Bronchiolitis, acute",90089975,paracetamol,90089975,Pharmacy,paracetamol
+15582894,15/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90034135,paracetamol,90034135,Pharmacy,paracetamol
+15582894,15/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90034135,ibuprofen,90034135,Pharmacy,ibuprofen
+15580436,15/09/2021,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90104983,paracetamol,90104983,Pharmacy,paracetamol
+15580181,15/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90002178,paracetamol,90002178,Pharmacy,paracetamol
+15625006,22/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90136838,paracetamol,90136838,Pharmacy,paracetamol
+15625006,22/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90136838,ibuprofen,90136838,Pharmacy,ibuprofen
+15625006,22/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90136838,chloral hydrate,90136838,Pharmacy,chloral hydrate
+15625006,22/09/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90136838,XR Chest X-ray,90136838,Radiology,XR Chest X-ray
+15627652,22/09/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90136838,paracetamol,90136838,Pharmacy,paracetamol
+15664594,28/09/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90063200,paracetamol,90063200,Pharmacy,paracetamol
+15664594,28/09/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90063200,ondansetron,90063200,Pharmacy,ondansetron
+15664594,28/09/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90063200,ibuprofen,90063200,Pharmacy,ibuprofen
+15664033,28/09/2021,Casey,0,Cough,"Bronchiolitis, acute",90083027,paracetamol,90083027,Pharmacy,paracetamol
+15709155,5/10/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90122677,salbutamol,90122677,Pharmacy,salbutamol
+15713566,6/10/2021,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90097823,paracetamol,90097823,Pharmacy,paracetamol
+15713566,6/10/2021,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90097823,ibuprofen,90097823,Pharmacy,ibuprofen
+15738497,10/10/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90053715,paracetamol,90053715,Pharmacy,paracetamol
+15738497,10/10/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90053715,ibuprofen,90053715,Pharmacy,ibuprofen
+15800595,20/10/2021,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90013900,paracetamol,90013900,Pharmacy,paracetamol
+15872743,1/11/2021,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90136849,ibuprofen,90136849,Pharmacy,ibuprofen
+15895460,5/11/2021,Casey,0,Flu like symptoms,"Bronchiolitis, acute",90124570,paracetamol,90124570,Pharmacy,paracetamol
+15903539,6/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90072373,salbutamol,90072373,Pharmacy,salbutamol
+15903539,6/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90072373,paracetamol,90072373,Pharmacy,paracetamol
+15900545,6/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124202,ipratropium,90124202,Pharmacy,salbutamol/ipratropium
+15900545,6/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124202,salbutamol,90124202,Pharmacy,salbutamol
+15900545,6/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124202,prednisolone,90124202,Pharmacy,prednisolone
+15967808,17/11/2021,Casey,0,Cough,"Bronchiolitis, acute",90124439,paracetamol,90124439,Pharmacy,paracetamol
+15967808,17/11/2021,Casey,0,Cough,"Bronchiolitis, acute",90124439,salbutamol,90124439,Pharmacy,salbutamol
+15974776,18/11/2021,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124438,salbutamol,90124438,Pharmacy,salbutamol
+15988604,21/11/2021,Casey,0,NULL,"Bronchiolitis, acute",90123274,paracetamol,90123274,Pharmacy,paracetamol
+15988604,21/11/2021,Casey,0,NULL,"Bronchiolitis, acute",90123274,ibuprofen,90123274,Pharmacy,ibuprofen
+16055498,1/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119860,salbutamol,90119860,Pharmacy,salbutamol
+16060772,2/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90056255,paracetamol,90056255,Pharmacy,paracetamol
+16074802,4/12/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124508,paracetamol,90124508,Pharmacy,paracetamol
+16074802,4/12/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124508,ibuprofen,90124508,Pharmacy,ibuprofen
+16073427,4/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90085898,XR Chest X-ray,90085898,Radiology,XR Chest X-ray
+16110701,10/12/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124508,paracetamol,90124508,Pharmacy,paracetamol
+16110701,10/12/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124508,ondansetron,90124508,Pharmacy,ondansetron
+16110701,10/12/2021,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124508,ibuprofen,90124508,Pharmacy,ibuprofen
+16123401,12/12/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124508,paracetamol,90124508,Pharmacy,paracetamol
+16123401,12/12/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124508,ondansetron,90124508,Pharmacy,ondansetron
+16123401,12/12/2021,Casey,0,Unwell child,"Bronchiolitis, acute",90124508,ibuprofen,90124508,Pharmacy,ibuprofen
+16122090,12/12/2021,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90009738,XR Chest X-ray,90009738,Radiology,XR Chest X-ray
+16134625,14/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90070093,ibuprofen,90070093,Pharmacy,ibuprofen
+16142853,15/12/2021,MMC- Clayton,0,Short of Breath,"Bronchiolitis, acute",90077401,paracetamol,90077401,Pharmacy,paracetamol
+16142853,15/12/2021,MMC- Clayton,0,Short of Breath,"Bronchiolitis, acute",90077401,ibuprofen,90077401,Pharmacy,ibuprofen
+16142853,15/12/2021,MMC- Clayton,0,Short of Breath,"Bronchiolitis, acute",90077401,ondansetron,90077401,Pharmacy,ondansetron
+16142853,15/12/2021,MMC- Clayton,0,Short of Breath,"Bronchiolitis, acute",90077401,XR Chest X-ray,90077401,Radiology,XR Chest X-ray
+16142853,15/12/2021,MMC- Clayton,0,Short of Breath,"Bronchiolitis, acute",90077401,salbutamol,90077401,Pharmacy,salbutamol
+16177659,20/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101122,ibuprofen,90101122,Pharmacy,ibuprofen
+16177659,20/12/2021,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90101122,paracetamol,90101122,Pharmacy,paracetamol
+16190498,22/12/2021,Casey,0,Febrile / PUO &Cough,"Bronchiolitis, acute",90056621,paracetamol,90056621,Pharmacy,paracetamol
+16190498,22/12/2021,Casey,0,Febrile / PUO &Cough,"Bronchiolitis, acute",90056621,ondansetron,90056621,Pharmacy,ondansetron
+16190498,22/12/2021,Casey,0,Febrile / PUO &Cough,"Bronchiolitis, acute",90056621,ibuprofen,90056621,Pharmacy,ibuprofen
+16275626,6/01/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90062205,ibuprofen,90062205,Pharmacy,ibuprofen
+16346462,20/01/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90009738,paracetamol,90009738,Pharmacy,paracetamol
+16444233,5/02/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90013598,paracetamol,90013598,Pharmacy,paracetamol
+16574871,26/02/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124502,paracetamol,90124502,Pharmacy,paracetamol
+16577298,26/02/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90141465,salbutamol,90141465,Pharmacy,salbutamol
+16577298,26/02/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90141465,prednisolone,90141465,Pharmacy,prednisolone
+16579021,27/02/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,salbutamol,90078705,Pharmacy,salbutamol
+16579021,27/02/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,paracetamol,90078705,Pharmacy,paracetamol
+16609254,3/03/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90144607,paracetamol,90144607,Pharmacy,paracetamol
+16609254,3/03/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90144607,ibuprofen,90144607,Pharmacy,ibuprofen
+16607236,3/03/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124502,XR Chest X-ray,90124502,Radiology,XR Chest X-ray
+16612307,4/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,prednisolone,90028254,Pharmacy,prednisolone
+16612307,4/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,paracetamol,90028254,Pharmacy,paracetamol
+16612307,4/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,salbutamol,90028254,Pharmacy,salbutamol
+16638906,8/03/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123258,salbutamol,90123258,Pharmacy,salbutamol
+16661522,11/03/2022,Casey,0,Shortness of breath,"Bronchiolitis, acute",90064512,paracetamol,90064512,Pharmacy,paracetamol
+16661522,11/03/2022,Casey,0,Shortness of breath,"Bronchiolitis, acute",90064512,ibuprofen,90064512,Pharmacy,ibuprofen
+16681186,15/03/2022,Casey,0,Cough,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+16698133,17/03/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90123274,ibuprofen,90123274,Pharmacy,ibuprofen
+16698133,17/03/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90123274,paracetamol,90123274,Pharmacy,paracetamol
+16698133,17/03/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90123274,ondansetron,90123274,Pharmacy,ondansetron
+16698133,17/03/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90123274,salbutamol,90123274,Pharmacy,salbutamol
+16704550,17/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+16704550,17/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081957,ibuprofen,90081957,Pharmacy,ibuprofen
+16791028,30/03/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90018068,salbutamol,90018068,Pharmacy,salbutamol
+16786445,30/03/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90091034,salbutamol,90091034,Pharmacy,salbutamol
+16800019,31/03/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145549,salbutamol,90145549,Pharmacy,salbutamol
+16823117,4/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+16823117,4/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+16825482,4/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,paracetamol,90144443,Pharmacy,paracetamol
+16825482,4/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,ibuprofen,90144443,Pharmacy,ibuprofen
+16825482,4/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,salbutamol,90144443,Pharmacy,salbutamol
+16834208,6/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,salbutamol,90144405,Pharmacy,salbutamol
+16833928,6/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,salbutamol,90028254,Pharmacy,salbutamol
+16833928,6/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,paracetamol,90028254,Pharmacy,paracetamol
+16833928,6/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,chloral hydrate,90028254,Pharmacy,chloral hydrate
+16868464,10/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,XR Chest X-ray,90001224,Radiology,XR Chest X-ray
+16914847,17/04/2022,Casey,0,Cough,"Bronchiolitis, acute",90071914,salbutamol,90071914,Pharmacy,salbutamol
+16919512,19/04/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145549,salbutamol,90145549,Pharmacy,salbutamol
+16948263,22/04/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90070093,salbutamol,90070093,Pharmacy,salbutamol
+16951838,23/04/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90117588,paracetamol,90117588,Pharmacy,paracetamol
+16951838,23/04/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90117588,ibuprofen,90117588,Pharmacy,ibuprofen
+16951838,23/04/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90117588,XR Chest X-ray,90117588,Radiology,XR Chest X-ray
+17021904,3/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90026166,XR Chest X-ray,90026166,Radiology,XR Chest X-ray
+17068029,10/05/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90013837,paracetamol,90013837,Pharmacy,paracetamol
+17068029,10/05/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90013837,ibuprofen,90013837,Pharmacy,ibuprofen
+17066114,10/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080314,salbutamol,90080314,Pharmacy,salbutamol
+17076141,11/05/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90145408,paracetamol,90145408,Pharmacy,paracetamol
+17076141,11/05/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90145408,ibuprofen,90145408,Pharmacy,ibuprofen
+17088365,12/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124524,paracetamol,90124524,Pharmacy,paracetamol
+17108457,16/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,salbutamol,90104011,Pharmacy,salbutamol
+17108457,16/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,paracetamol,90104011,Pharmacy,paracetamol
+17108457,16/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,ibuprofen,90104011,Pharmacy,ibuprofen
+17145413,21/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90010158,paracetamol,90010158,Pharmacy,paracetamol
+17163331,24/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124524,paracetamol,90124524,Pharmacy,paracetamol
+17174287,25/05/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90035880,ibuprofen,90035880,Pharmacy,ibuprofen
+17179817,26/05/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90083180,ondansetron,90083180,Pharmacy,ondansetron
+17179817,26/05/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90083180,paracetamol,90083180,Pharmacy,paracetamol
+17179817,26/05/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90083180,ibuprofen,90083180,Pharmacy,ibuprofen
+17177337,26/05/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90034135,paracetamol,90034135,Pharmacy,paracetamol
+17177337,26/05/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90034135,ibuprofen,90034135,Pharmacy,ibuprofen
+17183981,27/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17183981,27/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17190071,27/05/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90107765,paracetamol,90107765,Pharmacy,paracetamol
+17190071,27/05/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90107765,ibuprofen,90107765,Pharmacy,ibuprofen
+17189488,27/05/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124202,paracetamol,90124202,Pharmacy,paracetamol
+17195079,28/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,XR Chest X-ray,90144443,Radiology,XR Chest X-ray
+17196291,29/05/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90124565,XR Chest X-ray,90124565,Radiology,XR Chest X-ray
+17203650,30/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,XR Chest X-ray,90107514,Radiology,XR Chest X-ray
+17203650,30/05/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,paracetamol,90107514,Pharmacy,paracetamol
+17221996,1/06/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90145754,paracetamol,90145754,Pharmacy,paracetamol
+17221996,1/06/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90145754,ibuprofen,90145754,Pharmacy,ibuprofen
+17245269,5/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90029388,paracetamol,90029388,Pharmacy,paracetamol
+17245269,5/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90029388,ibuprofen,90029388,Pharmacy,ibuprofen
+17244545,5/06/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90072373,paracetamol,90072373,Pharmacy,paracetamol
+17250380,6/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,paracetamol,90107514,Pharmacy,paracetamol
+17250380,6/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,ibuprofen,90107514,Pharmacy,ibuprofen
+17272012,9/06/2022,Casey,0,Cough,"Bronchiolitis, acute",90124574,paracetamol,90124574,Pharmacy,paracetamol
+17272012,9/06/2022,Casey,0,Cough,"Bronchiolitis, acute",90124574,ibuprofen,90124574,Pharmacy,ibuprofen
+17284039,10/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+17284039,10/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081957,ibuprofen,90081957,Pharmacy,ibuprofen
+17287592,11/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081957,ibuprofen,90081957,Pharmacy,ibuprofen
+17287592,11/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081957,ondansetron,90081957,Pharmacy,ondansetron
+17287592,11/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+17291373,12/06/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17296431,13/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,ondansetron,90086136,Pharmacy,ondansetron
+17296431,13/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,paracetamol,90086136,Pharmacy,paracetamol
+17296431,13/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,ibuprofen,90086136,Pharmacy,ibuprofen
+17293351,13/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90052916,paracetamol,90052916,Pharmacy,paracetamol
+17293351,13/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90052916,ibuprofen,90052916,Pharmacy,ibuprofen
+17301813,14/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90149605,paracetamol,90149605,Pharmacy,paracetamol
+17311616,15/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17311616,15/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17312794,15/06/2022,Dandenong,0,Cough - Croup,"Bronchiolitis, acute",90029255,dexamethasone,90029255,Pharmacy,prednisolone/dexamethasone
+17312794,15/06/2022,Dandenong,0,Cough - Croup,"Bronchiolitis, acute",90029255,paracetamol,90029255,Pharmacy,paracetamol
+17312794,15/06/2022,Dandenong,0,Cough - Croup,"Bronchiolitis, acute",90029255,ibuprofen,90029255,Pharmacy,ibuprofen
+17312794,15/06/2022,Dandenong,0,Cough - Croup,"Bronchiolitis, acute",90029255,XR Chest X-ray,90029255,Radiology,XR Chest X-ray
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,paracetamol,90072373,Pharmacy,paracetamol
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,ibuprofen,90072373,Pharmacy,ibuprofen
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,salbutamol,90072373,Pharmacy,salbutamol
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,ipratropium,90072373,Pharmacy,salbutamol/ipratropium
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,ondansetron,90072373,Pharmacy,ondansetron
+17321591,16/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90072373,prednisolone,90072373,Pharmacy,prednisolone
+17317546,16/06/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90066524,paracetamol,90066524,Pharmacy,paracetamol
+17331188,18/06/2022,MMC- Clayton,0,Influenza like symptoms,"Bronchiolitis, acute",90124524,paracetamol,90124524,Pharmacy,paracetamol
+17332419,18/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90024040,ibuprofen,90024040,Pharmacy,ibuprofen
+17332419,18/06/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90024040,paracetamol,90024040,Pharmacy,paracetamol
+17334801,19/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124445,salbutamol,90124445,Pharmacy,salbutamol
+17334801,19/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124445,ibuprofen,90124445,Pharmacy,ibuprofen
+17335209,19/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138704,ibuprofen,90138704,Pharmacy,ibuprofen
+17335209,19/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138704,paracetamol,90138704,Pharmacy,paracetamol
+17335470,19/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+17335168,19/06/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068451,ibuprofen,90068451,Pharmacy,ibuprofen
+17335168,19/06/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068451,paracetamol,90068451,Pharmacy,paracetamol
+17339564,20/06/2022,Casey,0,Cough,"Bronchiolitis, acute",90124202,paracetamol,90124202,Pharmacy,paracetamol
+17343649,20/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90051548,salbutamol,90051548,Pharmacy,salbutamol
+17344398,20/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17344398,20/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,ibuprofen,90119577,Pharmacy,ibuprofen
+17343252,20/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,XR Chest X-ray,90033774,Radiology,XR Chest X-ray
+17343252,20/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17345676,20/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123231,paracetamol,90123231,Pharmacy,paracetamol
+17345676,20/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123231,ibuprofen,90123231,Pharmacy,ibuprofen
+17345676,20/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123231,XR Chest X-ray,90123231,Radiology,XR Chest X-ray
+17364092,23/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145085,paracetamol,90145085,Pharmacy,paracetamol
+17377122,24/06/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90053715,paracetamol,90053715,Pharmacy,paracetamol
+17377122,24/06/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90053715,ibuprofen,90053715,Pharmacy,ibuprofen
+17372598,24/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,XR Chest X-ray,90107514,Radiology,XR Chest X-ray
+17372598,24/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,chloral hydrate,90107514,Pharmacy,chloral hydrate
+17375026,24/06/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90144627,paracetamol,90144627,Pharmacy,paracetamol
+17375026,24/06/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90144627,ibuprofen,90144627,Pharmacy,ibuprofen
+17375026,24/06/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90144627,ondansetron,90144627,Pharmacy,ondansetron
+17381140,25/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90018863,paracetamol,90018863,Pharmacy,paracetamol
+17383003,26/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90101219,paracetamol,90101219,Pharmacy,paracetamol
+17383003,26/06/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90101219,dexamethasone,90101219,Pharmacy,prednisolone/dexamethasone
+17382328,26/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90018068,paracetamol,90018068,Pharmacy,paracetamol
+17382328,26/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90018068,ibuprofen,90018068,Pharmacy,ibuprofen
+17383830,26/06/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90052916,paracetamol,90052916,Pharmacy,paracetamol
+17383830,26/06/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90052916,ibuprofen,90052916,Pharmacy,ibuprofen
+17392331,27/06/2022,Casey,0,Diarrhoea,"Bronchiolitis, acute",90123323,paracetamol,90123323,Pharmacy,paracetamol
+17392331,27/06/2022,Casey,0,Diarrhoea,"Bronchiolitis, acute",90123323,ibuprofen,90123323,Pharmacy,ibuprofen
+17386918,27/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90149605,paracetamol,90149605,Pharmacy,paracetamol
+17403964,29/06/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90057408,paracetamol,90057408,Pharmacy,paracetamol
+17403964,29/06/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90057408,salbutamol,90057408,Pharmacy,salbutamol
+17400019,29/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90088199,salbutamol,90088199,Pharmacy,salbutamol
+17403170,29/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145085,paracetamol,90145085,Pharmacy,paracetamol
+17401383,29/06/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90072373,salbutamol,90072373,Pharmacy,salbutamol
+17413478,30/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124445,salbutamol,90124445,Pharmacy,salbutamol
+17413056,30/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,ibuprofen,90107514,Pharmacy,ibuprofen
+17413056,30/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,paracetamol,90107514,Pharmacy,paracetamol
+17411328,30/06/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90052916,paracetamol,90052916,Pharmacy,paracetamol
+17411328,30/06/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90052916,ibuprofen,90052916,Pharmacy,ibuprofen
+17410195,30/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17410195,30/06/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,ibuprofen,90001224,Pharmacy,ibuprofen
+17415661,30/06/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123323,paracetamol,90123323,Pharmacy,paracetamol
+17413546,30/06/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90056621,paracetamol,90056621,Pharmacy,paracetamol
+17423027,1/07/2022,MMC- Clayton,0,Febrile Convulsion,"Bronchiolitis, acute",90144911,paracetamol,90144911,Pharmacy,paracetamol
+17423027,1/07/2022,MMC- Clayton,0,Febrile Convulsion,"Bronchiolitis, acute",90144911,salbutamol,90144911,Pharmacy,salbutamol
+17423027,1/07/2022,MMC- Clayton,0,Febrile Convulsion,"Bronchiolitis, acute",90144911,ibuprofen,90144911,Pharmacy,ibuprofen
+17423027,1/07/2022,MMC- Clayton,0,Febrile Convulsion,"Bronchiolitis, acute",90144911,prednisolone,90144911,Pharmacy,prednisolone
+17418810,1/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17421235,1/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90024223,paracetamol,90024223,Pharmacy,paracetamol
+17428025,3/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17428025,3/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90119577,ibuprofen,90119577,Pharmacy,ibuprofen
+17435292,4/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90103318,ondansetron,90103318,Pharmacy,ondansetron
+17435292,4/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90103318,ibuprofen,90103318,Pharmacy,ibuprofen
+17435292,4/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90103318,paracetamol,90103318,Pharmacy,paracetamol
+17434914,4/07/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90051548,paracetamol,90051548,Pharmacy,paracetamol
+17439175,4/07/2022,Casey,0,Coryza,"Bronchiolitis, acute",90044135,paracetamol,90044135,Pharmacy,paracetamol
+17439175,4/07/2022,Casey,0,Coryza,"Bronchiolitis, acute",90044135,ibuprofen,90044135,Pharmacy,ibuprofen
+17438566,4/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90001224,ibuprofen,90001224,Pharmacy,ibuprofen
+17438566,4/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17438524,4/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90018863,paracetamol,90018863,Pharmacy,paracetamol
+17438524,4/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90018863,ibuprofen,90018863,Pharmacy,ibuprofen
+17440797,5/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90054690,paracetamol,90054690,Pharmacy,paracetamol
+17451182,6/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90076316,paracetamol,90076316,Pharmacy,paracetamol
+17451182,6/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90076316,ibuprofen,90076316,Pharmacy,ibuprofen
+17453610,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+17453610,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,ibuprofen,90144405,Pharmacy,ibuprofen
+17451745,6/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90024040,XR Chest X-ray,90024040,Radiology,XR Chest X-ray
+17453113,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17453113,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,ibuprofen,90119577,Pharmacy,ibuprofen
+17453113,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,dexamethasone,90119577,Pharmacy,prednisolone/dexamethasone
+17452424,6/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074963,prednisolone,90074963,Pharmacy,prednisolone
+17448026,6/07/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90001224,ibuprofen,90001224,Pharmacy,ibuprofen
+17448026,6/07/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17453893,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+17453893,6/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,ibuprofen,90144405,Pharmacy,ibuprofen
+17458158,7/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90082317,paracetamol,90082317,Pharmacy,paracetamol
+17458158,7/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90082317,ibuprofen,90082317,Pharmacy,ibuprofen
+17460501,7/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,salbutamol,90119577,Pharmacy,salbutamol
+17473463,9/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17470326,9/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90089947,paracetamol,90089947,Pharmacy,paracetamol
+17472408,9/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90089947,paracetamol,90089947,Pharmacy,paracetamol
+17472408,9/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90089947,salbutamol,90089947,Pharmacy,salbutamol
+17470017,9/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17473911,9/07/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90020817,ibuprofen,90020817,Pharmacy,ibuprofen
+17473911,9/07/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90020817,paracetamol,90020817,Pharmacy,paracetamol
+17469916,9/07/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17475602,10/07/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90100582,paracetamol,90100582,Pharmacy,paracetamol
+17475602,10/07/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90100582,XR Chest X-ray,90100582,Radiology,XR Chest X-ray
+17475191,10/07/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90101274,ondansetron,90101274,Pharmacy,ondansetron
+17477008,10/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+17474042,10/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,XR Chest X-ray,90107514,Radiology,XR Chest X-ray
+17474042,10/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90107514,paracetamol,90107514,Pharmacy,paracetamol
+17485209,11/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90014902,paracetamol,90014902,Pharmacy,paracetamol
+17481044,11/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,ibuprofen,90144872,Pharmacy,ibuprofen
+17481044,11/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,paracetamol,90144872,Pharmacy,paracetamol
+17485734,12/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90056621,paracetamol,90056621,Pharmacy,paracetamol
+17485734,12/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90056621,ibuprofen,90056621,Pharmacy,ibuprofen
+17493103,13/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,ibuprofen,90104011,Pharmacy,ibuprofen
+17493103,13/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,salbutamol,90104011,Pharmacy,salbutamol
+17493103,13/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90104011,paracetamol,90104011,Pharmacy,paracetamol
+17494624,13/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074963,prednisolone,90074963,Pharmacy,prednisolone
+17494624,13/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074963,salbutamol,90074963,Pharmacy,salbutamol
+17501065,14/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+17504765,14/07/2022,MMC- Clayton,0,Failure to Thrive,"Bronchiolitis, acute",90119901,XR Chest X-ray,90119901,Radiology,XR Chest X-ray
+17511726,15/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90149605,paracetamol,90149605,Pharmacy,paracetamol
+17506139,15/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124574,salbutamol,90124574,Pharmacy,salbutamol
+17506139,15/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124574,paracetamol,90124574,Pharmacy,paracetamol
+17506139,15/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124574,ibuprofen,90124574,Pharmacy,ibuprofen
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,paracetamol,90044135,Pharmacy,paracetamol
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,ibuprofen,90044135,Pharmacy,ibuprofen
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,prednisolone,90044135,Pharmacy,prednisolone
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,salbutamol,90044135,Pharmacy,salbutamol
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,ipratropium,90044135,Pharmacy,salbutamol/ipratropium
+17506269,15/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90044135,ondansetron,90044135,Pharmacy,ondansetron
+17517929,16/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145738,paracetamol,90145738,Pharmacy,paracetamol
+17518266,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124202,paracetamol,90124202,Pharmacy,paracetamol
+17518266,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90124202,ondansetron,90124202,Pharmacy,ondansetron
+17516704,16/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90107514,paracetamol,90107514,Pharmacy,paracetamol
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,ondansetron,90101274,Pharmacy,ondansetron
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,salbutamol,90101274,Pharmacy,salbutamol
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,ipratropium,90101274,Pharmacy,salbutamol/ipratropium
+17520582,16/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,prednisolone,90101274,Pharmacy,prednisolone
+17520412,16/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90070093,paracetamol,90070093,Pharmacy,paracetamol
+17519227,17/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17525005,18/07/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90053418,paracetamol,90053418,Pharmacy,paracetamol
+17534243,19/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,paracetamol,90144872,Pharmacy,paracetamol
+17534243,19/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,ibuprofen,90144872,Pharmacy,ibuprofen
+17535061,19/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90014727,paracetamol,90014727,Pharmacy,paracetamol
+17544659,20/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,ibuprofen,90033774,Pharmacy,ibuprofen
+17544659,20/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17544659,20/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,ipratropium,90033774,Pharmacy,salbutamol/ipratropium
+17546309,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17546309,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17546309,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+17541457,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90003149,paracetamol,90003149,Pharmacy,paracetamol
+17539704,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+17539704,20/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17549808,21/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17549808,21/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17549808,21/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+17553274,21/07/2022,MMC- Clayton,0,Review,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17551239,21/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90064512,paracetamol,90064512,Pharmacy,paracetamol
+17552661,21/07/2022,MMC- Clayton,0,Bronch,"Bronchiolitis, acute",90081957,paracetamol,90081957,Pharmacy,paracetamol
+17553311,21/07/2022,MMC- Clayton,0,cough,"Bronchiolitis, acute",90119577,paracetamol,90119577,Pharmacy,paracetamol
+17553702,22/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17558575,22/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,ondansetron,90101274,Pharmacy,ondansetron
+17558575,22/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,paracetamol,90101274,Pharmacy,paracetamol
+17558575,22/07/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90101274,ibuprofen,90101274,Pharmacy,ibuprofen
+17561646,23/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90142812,paracetamol,90142812,Pharmacy,paracetamol
+17561646,23/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90142812,ibuprofen,90142812,Pharmacy,ibuprofen
+17560737,23/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17560884,23/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,paracetamol,90028254,Pharmacy,paracetamol
+17560884,23/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90028254,ibuprofen,90028254,Pharmacy,ibuprofen
+17566594,24/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90085898,salbutamol,90085898,Pharmacy,salbutamol
+17574706,25/07/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90046308,paracetamol,90046308,Pharmacy,paracetamol
+17574706,25/07/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90046308,ibuprofen,90046308,Pharmacy,ibuprofen
+17574706,25/07/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90046308,salbutamol,90046308,Pharmacy,salbutamol
+17575227,25/07/2022,MMC- Clayton,0,Shortness of breath,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17576166,25/07/2022,MMC- Clayton,0,Unsettled (Paediatric),"Bronchiolitis, acute",90145738,paracetamol,90145738,Pharmacy,paracetamol
+17584964,26/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90149605,paracetamol,90149605,Pharmacy,paracetamol
+17580741,26/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90043759,XR Chest X-ray,90043759,Radiology,XR Chest X-ray
+17578077,26/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,paracetamol,90078705,Pharmacy,paracetamol
+17578077,26/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,ibuprofen,90078705,Pharmacy,ibuprofen
+17578077,26/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90078705,XR Chest X-ray,90078705,Radiology,XR Chest X-ray
+17577831,26/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90064512,paracetamol,90064512,Pharmacy,paracetamol
+17584179,26/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123255,paracetamol,90123255,Pharmacy,paracetamol
+17584179,26/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90123255,ibuprofen,90123255,Pharmacy,ibuprofen
+17576619,26/07/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90102895,paracetamol,90102895,Pharmacy,paracetamol
+17576619,26/07/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90102895,ibuprofen,90102895,Pharmacy,ibuprofen
+17576619,26/07/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90102895,ondansetron,90102895,Pharmacy,ondansetron
+17590519,27/07/2022,Casey,0,Cough - Croup,"Bronchiolitis, acute",90088199,dexamethasone,90088199,Pharmacy,prednisolone/dexamethasone
+17591591,27/07/2022,MMC- Clayton,0,Neurological - Other,"Bronchiolitis, acute",90061220,paracetamol,90061220,Pharmacy,paracetamol
+17591591,27/07/2022,MMC- Clayton,0,Neurological - Other,"Bronchiolitis, acute",90061220,ibuprofen,90061220,Pharmacy,ibuprofen
+17592276,27/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90043227,paracetamol,90043227,Pharmacy,paracetamol
+17592276,27/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90043227,ibuprofen,90043227,Pharmacy,ibuprofen
+17585762,27/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90113108,paracetamol,90113108,Pharmacy,paracetamol
+17585762,27/07/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90113108,ibuprofen,90113108,Pharmacy,ibuprofen
+17588287,27/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,XR Chest X-ray,90144872,Radiology,XR Chest X-ray
+17591244,27/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17591244,27/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17597725,28/07/2022,Casey,0,ENT + Cough/Fever,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17597725,28/07/2022,Casey,0,ENT + Cough/Fever,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17598710,28/07/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124526,paracetamol,90124526,Pharmacy,paracetamol
+17598710,28/07/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124526,ibuprofen,90124526,Pharmacy,ibuprofen
+17598710,28/07/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124526,XR Chest X-ray,90124526,Radiology,XR Chest X-ray
+17598703,28/07/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90061220,paracetamol,90061220,Pharmacy,paracetamol
+17598703,28/07/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90061220,ibuprofen,90061220,Pharmacy,ibuprofen
+17597175,28/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,paracetamol,90001224,Pharmacy,paracetamol
+17597175,28/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90001224,ibuprofen,90001224,Pharmacy,ibuprofen
+17597497,28/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124526,paracetamol,90124526,Pharmacy,paracetamol
+17597497,28/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124526,ibuprofen,90124526,Pharmacy,ibuprofen
+17596635,28/07/2022,Casey,0,Unsettled Paed,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17596635,28/07/2022,Casey,0,Unsettled Paed,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17603130,29/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145738,paracetamol,90145738,Pharmacy,paracetamol
+17603130,29/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145738,ibuprofen,90145738,Pharmacy,ibuprofen
+17602729,29/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142803,salbutamol,90142803,Pharmacy,salbutamol
+17602750,29/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17602750,29/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90033774,ibuprofen,90033774,Pharmacy,ibuprofen
+17602750,29/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90033774,dexamethasone,90033774,Pharmacy,prednisolone/dexamethasone
+17601356,29/07/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+17603782,29/07/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90123339,paracetamol,90123339,Pharmacy,paracetamol
+17607628,30/07/2022,Casey,0,Cough,"Bronchiolitis, acute",90000926,paracetamol,90000926,Pharmacy,paracetamol
+17610233,30/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90060746,paracetamol,90060746,Pharmacy,paracetamol
+17610233,30/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90060746,ibuprofen,90060746,Pharmacy,ibuprofen
+17609286,30/07/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90059584,salbutamol,90059584,Pharmacy,salbutamol
+17609286,30/07/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90059584,prednisolone,90059584,Pharmacy,prednisolone
+17609886,30/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17609886,30/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033774,ibuprofen,90033774,Pharmacy,ibuprofen
+17614935,31/07/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,chloral hydrate,90103318,Pharmacy,chloral hydrate
+17614857,31/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075008,paracetamol,90075008,Pharmacy,paracetamol
+17614857,31/07/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075008,XR Chest X-ray,90075008,Radiology,XR Chest X-ray
+17580054,1/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90028254,paracetamol,90028254,Pharmacy,paracetamol
+17580054,1/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90028254,ibuprofen,90028254,Pharmacy,ibuprofen
+17615308,1/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90024223,paracetamol,90024223,Pharmacy,paracetamol
+17617032,1/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90066524,paracetamol,90066524,Pharmacy,paracetamol
+17617032,1/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90066524,ibuprofen,90066524,Pharmacy,ibuprofen
+17616786,1/08/2022,MMC- Clayton,0,Failure to Thrive,"Bronchiolitis, acute",90013837,paracetamol,90013837,Pharmacy,paracetamol
+17618536,1/08/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90149605,paracetamol,90149605,Pharmacy,paracetamol
+17618536,1/08/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90149605,ibuprofen,90149605,Pharmacy,ibuprofen
+17621770,1/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90098744,ibuprofen,90098744,Pharmacy,ibuprofen
+17618841,1/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+17618841,1/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,ibuprofen,90144405,Pharmacy,ibuprofen
+17629463,2/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90061220,paracetamol,90061220,Pharmacy,paracetamol
+17635651,3/08/2022,Dandenong,0,Cough,"Bronchiolitis, acute",90082317,ibuprofen,90082317,Pharmacy,ibuprofen
+17624084,3/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,XR Chest X-ray,90144872,Radiology,XR Chest X-ray
+17642406,4/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145085,paracetamol,90145085,Pharmacy,paracetamol
+17642406,4/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145085,ibuprofen,90145085,Pharmacy,ibuprofen
+17649567,5/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90119071,paracetamol,90119071,Pharmacy,paracetamol
+17647592,5/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90075008,paracetamol,90075008,Pharmacy,paracetamol
+17646606,5/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138704,paracetamol,90138704,Pharmacy,paracetamol
+17644398,5/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145085,paracetamol,90145085,Pharmacy,paracetamol
+17644398,5/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145085,ibuprofen,90145085,Pharmacy,ibuprofen
+17653699,6/08/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90019764,ibuprofen,90019764,Pharmacy,ibuprofen
+17653699,6/08/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90019764,paracetamol,90019764,Pharmacy,paracetamol
+17656527,6/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90107765,ibuprofen,90107765,Pharmacy,ibuprofen
+17656527,6/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90107765,paracetamol,90107765,Pharmacy,paracetamol
+17650948,6/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90138704,XR Chest X-ray,90138704,Radiology,XR Chest X-ray
+17658168,7/08/2022,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90079546,paracetamol,90079546,Pharmacy,paracetamol
+17658168,7/08/2022,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90079546,ibuprofen,90079546,Pharmacy,ibuprofen
+17666957,8/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90014902,paracetamol,90014902,Pharmacy,paracetamol
+17666957,8/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90014902,ibuprofen,90014902,Pharmacy,ibuprofen
+17666667,8/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+17666840,8/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90044135,salbutamol,90044135,Pharmacy,salbutamol
+17674719,9/08/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90109083,ibuprofen,90109083,Pharmacy,ibuprofen
+17674719,9/08/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90109083,paracetamol,90109083,Pharmacy,paracetamol
+17668033,9/08/2022,MMC- Clayton,0,RSV,"Bronchiolitis, acute",90085898,paracetamol,90085898,Pharmacy,paracetamol
+17668033,9/08/2022,MMC- Clayton,0,RSV,"Bronchiolitis, acute",90085898,ibuprofen,90085898,Pharmacy,ibuprofen
+17673130,9/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124476,paracetamol,90124476,Pharmacy,paracetamol
+17671419,9/08/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144872,paracetamol,90144872,Pharmacy,paracetamol
+17678600,10/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90070093,paracetamol,90070093,Pharmacy,paracetamol
+17676718,10/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,paracetamol,90081325,Pharmacy,paracetamol
+17676718,10/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,ibuprofen,90081325,Pharmacy,ibuprofen
+17688222,11/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17688222,11/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+17688222,11/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17689051,11/08/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90090296,paracetamol,90090296,Pharmacy,paracetamol
+17689051,11/08/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90090296,ibuprofen,90090296,Pharmacy,ibuprofen
+17688297,11/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144878,paracetamol,90144878,Pharmacy,paracetamol
+17695722,12/08/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90145323,salbutamol,90145323,Pharmacy,salbutamol
+17695241,12/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,ibuprofen,90099752,Pharmacy,ibuprofen
+17695241,12/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+17690285,12/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90132167,salbutamol,90132167,Pharmacy,salbutamol
+17690285,12/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17690285,12/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17694598,12/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90086136,paracetamol,90086136,Pharmacy,paracetamol
+17695446,12/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+17698601,13/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,paracetamol,90142519,Pharmacy,paracetamol
+17705375,14/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075008,paracetamol,90075008,Pharmacy,paracetamol
+17702865,14/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90014902,paracetamol,90014902,Pharmacy,paracetamol
+17703439,14/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17702789,14/08/2022,MMC- Clayton,0,Asthma,"Bronchiolitis, acute",90142519,chloral hydrate,90142519,Pharmacy,chloral hydrate
+17706684,15/08/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17706684,15/08/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17711082,15/08/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90132167,paracetamol,90132167,Pharmacy,paracetamol
+17711082,15/08/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90132167,ibuprofen,90132167,Pharmacy,ibuprofen
+17726332,17/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90104011,paracetamol,90104011,Pharmacy,paracetamol
+17726332,17/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90104011,ibuprofen,90104011,Pharmacy,ibuprofen
+17726332,17/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90104011,salbutamol,90104011,Pharmacy,salbutamol
+17727285,17/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+17728365,18/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144933,ibuprofen,90144933,Pharmacy,ibuprofen
+17736178,19/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+17736178,19/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,ibuprofen,90144405,Pharmacy,ibuprofen
+17744659,20/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90145738,paracetamol,90145738,Pharmacy,paracetamol
+17748757,21/08/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90046308,salbutamol,90046308,Pharmacy,salbutamol
+17748757,21/08/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90046308,ipratropium,90046308,Pharmacy,salbutamol/ipratropium
+17746925,21/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90083180,paracetamol,90083180,Pharmacy,paracetamol
+17746925,21/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90083180,ibuprofen,90083180,Pharmacy,ibuprofen
+17746925,21/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90083180,ondansetron,90083180,Pharmacy,ondansetron
+17746925,21/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90083180,salbutamol,90083180,Pharmacy,salbutamol
+17747637,21/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90097823,paracetamol,90097823,Pharmacy,paracetamol
+17747637,21/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90097823,ibuprofen,90097823,Pharmacy,ibuprofen
+17747899,21/08/2022,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90075796,paracetamol,90075796,Pharmacy,paracetamol
+17747921,21/08/2022,Casey,0,Cough,"Bronchiolitis, acute",90144872,paracetamol,90144872,Pharmacy,paracetamol
+17747921,21/08/2022,Casey,0,Cough,"Bronchiolitis, acute",90144872,ibuprofen,90144872,Pharmacy,ibuprofen
+17753150,22/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+17753150,22/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+17756827,22/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90075796,paracetamol,90075796,Pharmacy,paracetamol
+17756827,22/08/2022,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90075796,ibuprofen,90075796,Pharmacy,ibuprofen
+17760967,23/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90043338,paracetamol,90043338,Pharmacy,paracetamol
+17760967,23/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90043338,ibuprofen,90043338,Pharmacy,ibuprofen
+17757583,23/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17757583,23/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17772209,25/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90043227,ibuprofen,90043227,Pharmacy,ibuprofen
+17772209,25/08/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90043227,paracetamol,90043227,Pharmacy,paracetamol
+17781510,26/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90039776,paracetamol,90039776,Pharmacy,paracetamol
+17781510,26/08/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90039776,ibuprofen,90039776,Pharmacy,ibuprofen
+17788087,27/08/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+17804806,29/08/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90071350,ondansetron,90071350,Pharmacy,ondansetron
+17814728,31/08/2022,Casey,0,Cough,"Bronchiolitis, acute",90117635,paracetamol,90117635,Pharmacy,paracetamol
+17814728,31/08/2022,Casey,0,Cough,"Bronchiolitis, acute",90117635,ibuprofen,90117635,Pharmacy,ibuprofen
+17817232,31/08/2022,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90049188,paracetamol,90049188,Pharmacy,paracetamol
+17822278,1/09/2022,MMC- Clayton,0,Shortness of breath,"Bronchiolitis, acute",90123309,ibuprofen,90123309,Pharmacy,ibuprofen
+17822278,1/09/2022,MMC- Clayton,0,Shortness of breath,"Bronchiolitis, acute",90123309,paracetamol,90123309,Pharmacy,paracetamol
+17833472,2/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,salbutamol,90081325,Pharmacy,salbutamol
+17833472,2/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,paracetamol,90081325,Pharmacy,paracetamol
+17833472,2/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,ibuprofen,90081325,Pharmacy,ibuprofen
+17832457,2/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,ibuprofen,90144872,Pharmacy,ibuprofen
+17832457,2/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144872,paracetamol,90144872,Pharmacy,paracetamol
+17834310,3/09/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90068267,paracetamol,90068267,Pharmacy,paracetamol
+17834310,3/09/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90068267,ibuprofen,90068267,Pharmacy,ibuprofen
+17848621,5/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90117635,paracetamol,90117635,Pharmacy,paracetamol
+17848621,5/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90117635,ibuprofen,90117635,Pharmacy,ibuprofen
+17847771,5/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,XR Chest X-ray,90094427,Radiology,XR Chest X-ray
+17847771,5/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+17849381,5/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086136,ondansetron,90086136,Pharmacy,ondansetron
+17849381,5/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086136,salbutamol,90086136,Pharmacy,salbutamol
+17865142,7/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90056792,paracetamol,90056792,Pharmacy,paracetamol
+17865142,7/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90056792,ibuprofen,90056792,Pharmacy,ibuprofen
+17857339,7/09/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90144629,ondansetron,90144629,Pharmacy,ondansetron
+17857339,7/09/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+17871225,8/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90044135,ibuprofen,90044135,Pharmacy,ibuprofen
+17871225,8/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90044135,paracetamol,90044135,Pharmacy,paracetamol
+17881558,10/09/2022,Dandenong,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90124449,paracetamol,90124449,Pharmacy,paracetamol
+17897023,12/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086511,ibuprofen,90086511,Pharmacy,ibuprofen
+17897023,12/09/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086511,paracetamol,90086511,Pharmacy,paracetamol
+17904143,13/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124476,ibuprofen,90124476,Pharmacy,ibuprofen
+17904143,13/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124476,paracetamol,90124476,Pharmacy,paracetamol
+17907429,14/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90043338,paracetamol,90043338,Pharmacy,paracetamol
+17916142,15/09/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90020817,paracetamol,90020817,Pharmacy,paracetamol
+17918870,15/09/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90103318,paracetamol,90103318,Pharmacy,paracetamol
+17918870,15/09/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90103318,ibuprofen,90103318,Pharmacy,ibuprofen
+17918870,15/09/2022,Casey,0,Unwell child,"Bronchiolitis, acute",90103318,salbutamol,90103318,Pharmacy,salbutamol
+17929991,18/09/2022,Casey,0,Cough,"Bronchiolitis, acute",90144629,salbutamol,90144629,Pharmacy,salbutamol
+17929991,18/09/2022,Casey,0,Cough,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+17929991,18/09/2022,Casey,0,Cough,"Bronchiolitis, acute",90144629,ibuprofen,90144629,Pharmacy,ibuprofen
+17930029,18/09/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17932924,18/09/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90086088,paracetamol,90086088,Pharmacy,paracetamol
+17932924,18/09/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90086088,ibuprofen,90086088,Pharmacy,ibuprofen
+17932661,18/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+17932661,18/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+17932661,18/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+17941114,19/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,ibuprofen,90053409,Pharmacy,ibuprofen
+17941114,19/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,paracetamol,90053409,Pharmacy,paracetamol
+17955874,21/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90119715,paracetamol,90119715,Pharmacy,paracetamol
+17955874,21/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90119715,salbutamol,90119715,Pharmacy,salbutamol
+17955874,21/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90119715,ibuprofen,90119715,Pharmacy,ibuprofen
+17964420,22/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,ibuprofen,90142519,Pharmacy,ibuprofen
+17964420,22/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,paracetamol,90142519,Pharmacy,paracetamol
+17963131,22/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145754,paracetamol,90145754,Pharmacy,paracetamol
+17963131,22/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145754,XR Chest X-ray,90145754,Radiology,XR Chest X-ray
+17972822,24/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+17972822,24/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,ibuprofen,90099752,Pharmacy,ibuprofen
+17979568,25/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90039551,salbutamol,90039551,Pharmacy,salbutamol
+17988869,27/09/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,dexamethasone,90144443,Pharmacy,prednisolone/dexamethasone
+17987509,27/09/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90033774,paracetamol,90033774,Pharmacy,paracetamol
+17987509,27/09/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90033774,ibuprofen,90033774,Pharmacy,ibuprofen
+17999428,28/09/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144933,paracetamol,90144933,Pharmacy,paracetamol
+17999428,28/09/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144933,ibuprofen,90144933,Pharmacy,ibuprofen
+17999428,28/09/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144933,ondansetron,90144933,Pharmacy,ondansetron
+18000475,29/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90000541,salbutamol,90000541,Pharmacy,salbutamol
+18008267,30/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90048709,paracetamol,90048709,Pharmacy,paracetamol
+18008267,30/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90048709,ibuprofen,90048709,Pharmacy,ibuprofen
+18008267,30/09/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90048709,salbutamol,90048709,Pharmacy,salbutamol
+18023444,2/10/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144443,paracetamol,90144443,Pharmacy,paracetamol
+18023444,2/10/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144443,ibuprofen,90144443,Pharmacy,ibuprofen
+18024839,2/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,salbutamol,90142519,Pharmacy,salbutamol
+18020169,2/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90018068,paracetamol,90018068,Pharmacy,paracetamol
+18020169,2/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90018068,ibuprofen,90018068,Pharmacy,ibuprofen
+18022186,2/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124492,paracetamol,90124492,Pharmacy,paracetamol
+18022186,2/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124492,prednisolone,90124492,Pharmacy,prednisolone
+18034292,4/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123249,ibuprofen,90123249,Pharmacy,ibuprofen
+18034292,4/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123249,paracetamol,90123249,Pharmacy,paracetamol
+18038640,4/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145901,ondansetron,90145901,Pharmacy,ondansetron
+18038640,4/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+18038640,4/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+18062397,7/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90142519,ibuprofen,90142519,Pharmacy,ibuprofen
+18062397,7/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90142519,paracetamol,90142519,Pharmacy,paracetamol
+18056851,7/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90093120,XR Chest X-ray,90093120,Radiology,XR Chest X-ray
+18056851,7/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90093120,paracetamol,90093120,Pharmacy,paracetamol
+18056851,7/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90093120,ibuprofen,90093120,Pharmacy,ibuprofen
+18057991,7/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075008,paracetamol,90075008,Pharmacy,paracetamol
+18057991,7/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075008,ibuprofen,90075008,Pharmacy,ibuprofen
+18066003,8/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+18066003,8/10/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90026166,ibuprofen,90026166,Pharmacy,ibuprofen
+18077681,10/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123249,paracetamol,90123249,Pharmacy,paracetamol
+18077681,10/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123249,ibuprofen,90123249,Pharmacy,ibuprofen
+18077134,10/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+18077134,10/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,ibuprofen,90145901,Pharmacy,ibuprofen
+18096393,13/10/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90144629,ibuprofen,90144629,Pharmacy,ibuprofen
+18101721,13/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,paracetamol,90142519,Pharmacy,paracetamol
+18101721,13/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142519,ibuprofen,90142519,Pharmacy,ibuprofen
+18109899,14/10/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90048747,paracetamol,90048747,Pharmacy,paracetamol
+18109899,14/10/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90048747,ibuprofen,90048747,Pharmacy,ibuprofen
+18106120,14/10/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144878,paracetamol,90144878,Pharmacy,paracetamol
+18115125,15/10/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90086511,paracetamol,90086511,Pharmacy,paracetamol
+18115125,15/10/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90086511,ibuprofen,90086511,Pharmacy,ibuprofen
+18117927,16/10/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90097823,salbutamol,90097823,Pharmacy,salbutamol
+18129722,18/10/2022,MMC- Clayton,0,Altered Conscious State,"Bronchiolitis, acute",90086088,paracetamol,90086088,Pharmacy,paracetamol
+18129722,18/10/2022,MMC- Clayton,0,Altered Conscious State,"Bronchiolitis, acute",90086088,ibuprofen,90086088,Pharmacy,ibuprofen
+18129747,18/10/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18134212,18/10/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90137813,XR Chest X-ray,90137813,Radiology,XR Chest X-ray
+18143481,19/10/2022,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18157186,21/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080745,ibuprofen,90080745,Pharmacy,ibuprofen
+18157186,21/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080745,paracetamol,90080745,Pharmacy,paracetamol
+18181959,25/10/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90053104,salbutamol,90053104,Pharmacy,salbutamol
+18181959,25/10/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90053104,prednisolone,90053104,Pharmacy,prednisolone
+18181959,25/10/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90053104,paracetamol,90053104,Pharmacy,paracetamol
+18197810,27/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,paracetamol,90099752,Pharmacy,paracetamol
+18197810,27/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,ibuprofen,90099752,Pharmacy,ibuprofen
+18197810,27/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90099752,XR Chest X-ray,90099752,Radiology,XR Chest X-ray
+18198649,27/10/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18200257,27/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,paracetamol,90083266,Pharmacy,paracetamol
+18200257,27/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083266,ibuprofen,90083266,Pharmacy,ibuprofen
+18201733,28/10/2022,Casey,0,Cough,"Bronchiolitis, acute",90123265,paracetamol,90123265,Pharmacy,paracetamol
+18201733,28/10/2022,Casey,0,Cough,"Bronchiolitis, acute",90123265,ibuprofen,90123265,Pharmacy,ibuprofen
+18212662,29/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080745,ibuprofen,90080745,Pharmacy,ibuprofen
+18212662,29/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080745,paracetamol,90080745,Pharmacy,paracetamol
+18212662,29/10/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90080745,dexamethasone,90080745,Pharmacy,prednisolone/dexamethasone
+18215476,30/10/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90124449,ibuprofen,90124449,Pharmacy,ibuprofen
+18224250,31/10/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90136850,XR Chest X-ray,90136850,Radiology,XR Chest X-ray
+18229634,2/11/2022,Casey,0,Failure to feed,"Bronchiolitis, acute",90152266,XR Chest X-ray,90152266,Radiology,XR Chest X-ray
+18253377,4/11/2022,Casey,0,Shortntess of BReath,"Bronchiolitis, acute",90154175,XR Chest X-ray,90154175,Radiology,XR Chest X-ray
+18262072,6/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18262072,6/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144629,salbutamol,90144629,Pharmacy,salbutamol
+18261631,6/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,paracetamol,90144405,Pharmacy,paracetamol
+18262006,6/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18259167,6/11/2022,Casey,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90154175,XR Chest X-ray,90154175,Radiology,XR Chest X-ray
+18262482,6/11/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90080314,salbutamol,90080314,Pharmacy,salbutamol
+18271599,8/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144629,paracetamol,90144629,Pharmacy,paracetamol
+18285330,9/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90137813,XR Chest X-ray,90137813,Radiology,XR Chest X-ray
+18285330,9/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90137813,paracetamol,90137813,Pharmacy,paracetamol
+18284291,9/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,paracetamol,90145390,Pharmacy,paracetamol
+18284291,9/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,ibuprofen,90145390,Pharmacy,ibuprofen
+18287320,9/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90137813,ibuprofen,90137813,Pharmacy,ibuprofen
+18287320,9/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90137813,paracetamol,90137813,Pharmacy,paracetamol
+18288349,10/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90145741,paracetamol,90145741,Pharmacy,paracetamol
+18288349,10/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90145741,ibuprofen,90145741,Pharmacy,ibuprofen
+18305487,12/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+18313618,13/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+18312216,14/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074347,ibuprofen,90074347,Pharmacy,ibuprofen
+18312216,14/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90074347,paracetamol,90074347,Pharmacy,paracetamol
+18326562,15/11/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90124561,paracetamol,90124561,Pharmacy,paracetamol
+18326562,15/11/2022,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90124561,ibuprofen,90124561,Pharmacy,ibuprofen
+18337288,16/11/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124561,paracetamol,90124561,Pharmacy,paracetamol
+18350316,18/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086136,paracetamol,90086136,Pharmacy,paracetamol
+18350316,18/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086136,ibuprofen,90086136,Pharmacy,ibuprofen
+18350316,18/11/2022,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90086136,ondansetron,90086136,Pharmacy,ondansetron
+18362638,20/11/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144787,paracetamol,90144787,Pharmacy,paracetamol
+18362638,20/11/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144787,ibuprofen,90144787,Pharmacy,ibuprofen
+18366324,21/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144646,paracetamol,90144646,Pharmacy,paracetamol
+18366324,21/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144646,ibuprofen,90144646,Pharmacy,ibuprofen
+18366321,21/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144646,paracetamol,90144646,Pharmacy,paracetamol
+18366321,21/11/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144646,ibuprofen,90144646,Pharmacy,ibuprofen
+18373001,22/11/2022,Casey,0,Cough,"Bronchiolitis, acute",90094007,paracetamol,90094007,Pharmacy,paracetamol
+18373001,22/11/2022,Casey,0,Cough,"Bronchiolitis, acute",90094007,ibuprofen,90094007,Pharmacy,ibuprofen
+18381161,23/11/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90115923,paracetamol,90115923,Pharmacy,paracetamol
+18381161,23/11/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90115923,ibuprofen,90115923,Pharmacy,ibuprofen
+18388750,24/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,paracetamol,90145901,Pharmacy,paracetamol
+18401722,26/11/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90085043,paracetamol,90085043,Pharmacy,paracetamol
+18401722,26/11/2022,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90085043,ibuprofen,90085043,Pharmacy,ibuprofen
+18427888,30/11/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90159236,ondansetron,90159236,Pharmacy,ondansetron
+18449763,3/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144443,paracetamol,90144443,Pharmacy,paracetamol
+18495477,9/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144405,XR Chest X-ray,90144405,Radiology,XR Chest X-ray
+18490322,9/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,paracetamol,90145390,Pharmacy,paracetamol
+18490322,9/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,ibuprofen,90145390,Pharmacy,ibuprofen
+18505031,11/12/2022,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90044868,paracetamol,90044868,Pharmacy,paracetamol
+18517975,13/12/2022,Dandenong,0,Unwell child,"Bronchiolitis, acute",90049188,paracetamol,90049188,Pharmacy,paracetamol
+18523429,14/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90057415,paracetamol,90057415,Pharmacy,paracetamol
+18530703,15/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145408,paracetamol,90145408,Pharmacy,paracetamol
+18530703,15/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145408,ibuprofen,90145408,Pharmacy,ibuprofen
+18534559,15/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90113108,paracetamol,90113108,Pharmacy,paracetamol
+18534546,15/12/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90145390,XR Chest X-ray,90145390,Radiology,XR Chest X-ray
+18534546,15/12/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90145390,paracetamol,90145390,Pharmacy,paracetamol
+18534546,15/12/2022,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90145390,ibuprofen,90145390,Pharmacy,ibuprofen
+18532816,15/12/2022,MMC- Clayton,0,Review,"Bronchiolitis, acute",90145408,paracetamol,90145408,Pharmacy,paracetamol
+18545435,17/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90159236,XR Chest X-ray,90159236,Radiology,XR Chest X-ray
+18551569,19/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,XR Chest X-ray,90145390,Radiology,XR Chest X-ray
+18570890,21/12/2022,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90154175,salbutamol,90154175,Pharmacy,salbutamol
+18592656,24/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,paracetamol,90075334,Pharmacy,paracetamol
+18592656,24/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,ibuprofen,90075334,Pharmacy,ibuprofen
+18594570,25/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90019764,paracetamol,90019764,Pharmacy,paracetamol
+18598399,26/12/2022,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90014902,XR Chest X-ray,90014902,Radiology,XR Chest X-ray
+18599201,26/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90127515,paracetamol,90127515,Pharmacy,paracetamol
+18599201,26/12/2022,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90127515,ibuprofen,90127515,Pharmacy,ibuprofen
+18609075,28/12/2022,Casey,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90086511,dexamethasone,90086511,Pharmacy,prednisolone/dexamethasone
+18635463,1/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90081325,XR Chest X-ray,90081325,Radiology,XR Chest X-ray
+18632868,1/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,ibuprofen,90094427,Pharmacy,ibuprofen
+18632868,1/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90094427,paracetamol,90094427,Pharmacy,paracetamol
+18653375,4/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145901,XR Chest X-ray,90145901,Radiology,XR Chest X-ray
+18674374,8/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144787,paracetamol,90144787,Pharmacy,paracetamol
+18692709,11/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90159236,salbutamol,90159236,Pharmacy,salbutamol
+18723337,16/01/2023,Dandenong,0,Unwell child,"Bronchiolitis, acute",90033661,ibuprofen,90033661,Pharmacy,ibuprofen
+18723337,16/01/2023,Dandenong,0,Unwell child,"Bronchiolitis, acute",90033661,paracetamol,90033661,Pharmacy,paracetamol
+18736620,18/01/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90051139,paracetamol,90051139,Pharmacy,paracetamol
+18736620,18/01/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90051139,ibuprofen,90051139,Pharmacy,ibuprofen
+18766558,22/01/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90033661,paracetamol,90033661,Pharmacy,paracetamol
+18765340,22/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124505,XR Chest X-ray,90124505,Radiology,XR Chest X-ray
+18765340,22/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124505,salbutamol,90124505,Pharmacy,salbutamol
+18765340,22/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124505,paracetamol,90124505,Pharmacy,paracetamol
+18782119,24/01/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144443,XR Chest X-ray,90144443,Radiology,XR Chest X-ray
+18805934,28/01/2023,Casey,0,SOB,"Bronchiolitis, acute",90144646,paracetamol,90144646,Pharmacy,paracetamol
+18817374,30/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90026166,paracetamol,90026166,Pharmacy,paracetamol
+18827742,31/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90150180,salbutamol,90150180,Pharmacy,salbutamol
+18827742,31/01/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90150180,XR Chest X-ray,90150180,Radiology,XR Chest X-ray
+18821597,31/01/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082515,dexamethasone,90082515,Pharmacy,prednisolone/dexamethasone
+18829725,31/01/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90123301,paracetamol,90123301,Pharmacy,paracetamol
+18829725,31/01/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90123301,ibuprofen,90123301,Pharmacy,ibuprofen
+18829725,31/01/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90123301,ondansetron,90123301,Pharmacy,ondansetron
+18840328,2/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90127515,chloral hydrate,90127515,Pharmacy,chloral hydrate
+18855300,3/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90145408,paracetamol,90145408,Pharmacy,paracetamol
+18854564,4/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144405,XR Chest X-ray,90144405,Radiology,XR Chest X-ray
+18859865,4/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90093190,salbutamol,90093190,Pharmacy,salbutamol
+18875393,7/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90013900,paracetamol,90013900,Pharmacy,paracetamol
+18890779,8/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162080,paracetamol,90162080,Pharmacy,paracetamol
+18904072,10/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90070093,paracetamol,90070093,Pharmacy,paracetamol
+18912793,12/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+18912793,12/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+18935721,15/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90153760,ondansetron,90153760,Pharmacy,ondansetron
+18939006,15/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,chloral hydrate,90103318,Pharmacy,chloral hydrate
+18939006,15/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,salbutamol,90103318,Pharmacy,salbutamol
+18939006,15/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,prednisolone,90103318,Pharmacy,prednisolone
+18939006,15/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,ipratropium,90103318,Pharmacy,salbutamol/ipratropium
+18942251,16/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162925,XR Chest X-ray,90162925,Radiology,XR Chest X-ray
+18943384,16/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162770,paracetamol,90162770,Pharmacy,paracetamol
+18951881,17/02/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90162770,XR Chest X-ray,90162770,Radiology,XR Chest X-ray
+18959829,18/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162081,XR Chest X-ray,90162081,Radiology,XR Chest X-ray
+18962623,19/02/2023,Casey,0,Shortness of Breathe,"Bronchiolitis, acute",90123262,paracetamol,90123262,Pharmacy,paracetamol
+18978568,21/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,XR Chest X-ray,90162252,Radiology,XR Chest X-ray
+18978568,21/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+18978568,21/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,ibuprofen,90162252,Pharmacy,ibuprofen
+18983230,21/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162077,paracetamol,90162077,Pharmacy,paracetamol
+18983230,21/02/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162077,ibuprofen,90162077,Pharmacy,ibuprofen
+18976569,21/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144736,paracetamol,90144736,Pharmacy,paracetamol
+18976569,21/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144736,ibuprofen,90144736,Pharmacy,ibuprofen
+18995524,23/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90160636,ibuprofen,90160636,Pharmacy,ibuprofen
+18995524,23/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90160636,paracetamol,90160636,Pharmacy,paracetamol
+19003760,24/02/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90142827,ibuprofen,90142827,Pharmacy,ibuprofen
+19003760,24/02/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90142827,paracetamol,90142827,Pharmacy,paracetamol
+19019506,26/02/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90163243,paracetamol,90163243,Pharmacy,paracetamol
+19020616,27/02/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90157612,ibuprofen,90157612,Pharmacy,ibuprofen
+19020616,27/02/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90157612,paracetamol,90157612,Pharmacy,paracetamol
+19034846,28/02/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90157612,paracetamol,90157612,Pharmacy,paracetamol
+19035107,28/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90082317,paracetamol,90082317,Pharmacy,paracetamol
+19035107,28/02/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90082317,ibuprofen,90082317,Pharmacy,ibuprofen
+19049474,2/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145292,paracetamol,90145292,Pharmacy,paracetamol
+19049474,2/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145292,ibuprofen,90145292,Pharmacy,ibuprofen
+19050753,2/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145292,paracetamol,90145292,Pharmacy,paracetamol
+19050753,2/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145292,ibuprofen,90145292,Pharmacy,ibuprofen
+19069879,5/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+19069879,5/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+19069879,5/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ondansetron,90124438,Pharmacy,ondansetron
+19087040,7/03/2023,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90148355,ondansetron,90148355,Pharmacy,ondansetron
+19089875,7/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90088199,paracetamol,90088199,Pharmacy,paracetamol
+19089875,7/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90088199,ibuprofen,90088199,Pharmacy,ibuprofen
+19089875,7/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90088199,ondansetron,90088199,Pharmacy,ondansetron
+19080805,7/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90161873,ibuprofen,90161873,Pharmacy,ibuprofen
+19080805,7/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90161873,ondansetron,90161873,Pharmacy,ondansetron
+19080805,7/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90161873,paracetamol,90161873,Pharmacy,paracetamol
+19087055,7/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90119742,salbutamol,90119742,Pharmacy,salbutamol
+19087055,7/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90119742,ipratropium,90119742,Pharmacy,salbutamol/ipratropium
+19093084,8/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162880,paracetamol,90162880,Pharmacy,paracetamol
+19097002,8/03/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90031311,paracetamol,90031311,Pharmacy,paracetamol
+19097002,8/03/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90031311,ibuprofen,90031311,Pharmacy,ibuprofen
+19092096,8/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90160353,paracetamol,90160353,Pharmacy,paracetamol
+19092096,8/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90160353,ibuprofen,90160353,Pharmacy,ibuprofen
+19116763,11/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162082,paracetamol,90162082,Pharmacy,paracetamol
+19116763,11/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162082,ibuprofen,90162082,Pharmacy,ibuprofen
+19116763,11/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162082,ondansetron,90162082,Pharmacy,ondansetron
+19125578,12/03/2023,Casey,0,Cough,"Bronchiolitis, acute",90145385,ipratropium,90145385,Pharmacy,salbutamol/ipratropium
+19125578,12/03/2023,Casey,0,Cough,"Bronchiolitis, acute",90145385,salbutamol,90145385,Pharmacy,salbutamol
+19149820,15/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90098181,paracetamol,90098181,Pharmacy,paracetamol
+19147045,15/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90049188,paracetamol,90049188,Pharmacy,paracetamol
+19147045,15/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90049188,salbutamol,90049188,Pharmacy,salbutamol
+19166116,18/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90082317,ibuprofen,90082317,Pharmacy,ibuprofen
+19166116,18/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90082317,paracetamol,90082317,Pharmacy,paracetamol
+19170960,19/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,dexamethasone,90103318,Pharmacy,prednisolone/dexamethasone
+19170960,19/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,ibuprofen,90103318,Pharmacy,ibuprofen
+19170960,19/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,paracetamol,90103318,Pharmacy,paracetamol
+19200744,22/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124543,ibuprofen,90124543,Pharmacy,ibuprofen
+19200458,22/03/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124543,paracetamol,90124543,Pharmacy,paracetamol
+19200458,22/03/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124543,ondansetron,90124543,Pharmacy,ondansetron
+19209402,23/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90060950,XR Chest X-ray,90060950,Radiology,XR Chest X-ray
+19209402,23/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90060950,paracetamol,90060950,Pharmacy,paracetamol
+19217342,24/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19217342,24/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,ibuprofen,90162079,Pharmacy,ibuprofen
+19222780,26/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+19222780,26/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+19227643,26/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144736,paracetamol,90144736,Pharmacy,paracetamol
+19226280,26/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145257,paracetamol,90145257,Pharmacy,paracetamol
+19226280,26/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145257,ibuprofen,90145257,Pharmacy,ibuprofen
+19222850,26/03/2023,MMC- Clayton,0,Gastro - not H&M,"Bronchiolitis, acute",90162078,paracetamol,90162078,Pharmacy,paracetamol
+19222850,26/03/2023,MMC- Clayton,0,Gastro - not H&M,"Bronchiolitis, acute",90162078,ibuprofen,90162078,Pharmacy,ibuprofen
+19264776,31/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90154371,prednisolone,90154371,Pharmacy,prednisolone
+19264776,31/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90154371,salbutamol,90154371,Pharmacy,salbutamol
+19264776,31/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90154371,paracetamol,90154371,Pharmacy,paracetamol
+19264776,31/03/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90154371,ibuprofen,90154371,Pharmacy,ibuprofen
+19270819,31/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162078,paracetamol,90162078,Pharmacy,paracetamol
+19270819,31/03/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162078,ibuprofen,90162078,Pharmacy,ibuprofen
+19271531,31/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162880,paracetamol,90162880,Pharmacy,paracetamol
+19271531,31/03/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162880,ibuprofen,90162880,Pharmacy,ibuprofen
+19269458,31/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162077,paracetamol,90162077,Pharmacy,paracetamol
+19269458,31/03/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162077,ibuprofen,90162077,Pharmacy,ibuprofen
+19277168,2/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90111526,paracetamol,90111526,Pharmacy,paracetamol
+19277168,2/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90111526,ibuprofen,90111526,Pharmacy,ibuprofen
+19302777,5/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90031311,ibuprofen,90031311,Pharmacy,ibuprofen
+19328971,9/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,ibuprofen,90124438,Pharmacy,ibuprofen
+19328971,9/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+19328693,9/04/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162080,ibuprofen,90162080,Pharmacy,ibuprofen
+19328693,9/04/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162080,paracetamol,90162080,Pharmacy,paracetamol
+19335445,10/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+19337271,10/04/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90135325,dexamethasone,90135325,Pharmacy,prednisolone/dexamethasone
+19337271,10/04/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90135325,XR Chest X-ray,90135325,Radiology,XR Chest X-ray
+19345331,11/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142824,paracetamol,90142824,Pharmacy,paracetamol
+19355475,13/04/2023,Casey,0,Cough,"Bronchiolitis, acute",90142827,ibuprofen,90142827,Pharmacy,ibuprofen
+19354066,13/04/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124447,paracetamol,90124447,Pharmacy,paracetamol
+19354066,13/04/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90124447,ibuprofen,90124447,Pharmacy,ibuprofen
+19364200,14/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162082,ibuprofen,90162082,Pharmacy,ibuprofen
+19364200,14/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162082,salbutamol,90162082,Pharmacy,salbutamol
+19367336,14/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119988,ibuprofen,90119988,Pharmacy,ibuprofen
+19367336,14/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90119988,paracetamol,90119988,Pharmacy,paracetamol
+19368139,14/04/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90033661,ondansetron,90033661,Pharmacy,ondansetron
+19372452,15/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90052270,paracetamol,90052270,Pharmacy,paracetamol
+19372452,15/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90052270,ibuprofen,90052270,Pharmacy,ibuprofen
+19372452,15/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90052270,XR Chest X-ray,90052270,Radiology,XR Chest X-ray
+19373535,15/04/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90144736,paracetamol,90144736,Pharmacy,paracetamol
+19377250,16/04/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162078,paracetamol,90162078,Pharmacy,paracetamol
+19377250,16/04/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162078,ibuprofen,90162078,Pharmacy,ibuprofen
+19395766,18/04/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90142824,ibuprofen,90142824,Pharmacy,ibuprofen
+19395766,18/04/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90142824,paracetamol,90142824,Pharmacy,paracetamol
+19397532,19/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19397532,19/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,XR Chest X-ray,90162079,Radiology,XR Chest X-ray
+19401392,19/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19401392,19/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,ibuprofen,90162081,Pharmacy,ibuprofen
+19404508,19/04/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90144951,ondansetron,90144951,Pharmacy,ondansetron
+19413283,20/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162078,ibuprofen,90162078,Pharmacy,ibuprofen
+19413283,20/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162078,paracetamol,90162078,Pharmacy,paracetamol
+19430520,24/04/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162896,dexamethasone,90162896,Pharmacy,prednisolone/dexamethasone
+19434885,24/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144901,paracetamol,90144901,Pharmacy,paracetamol
+19434885,24/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144901,ibuprofen,90144901,Pharmacy,ibuprofen
+19441559,25/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90098181,ibuprofen,90098181,Pharmacy,ibuprofen
+19441559,25/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90098181,paracetamol,90098181,Pharmacy,paracetamol
+19440990,25/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033661,paracetamol,90033661,Pharmacy,paracetamol
+19452358,26/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124438,paracetamol,90124438,Pharmacy,paracetamol
+19463565,27/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123339,paracetamol,90123339,Pharmacy,paracetamol
+19456195,27/04/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90007275,ibuprofen,90007275,Pharmacy,ibuprofen
+19456195,27/04/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90007275,paracetamol,90007275,Pharmacy,paracetamol
+19456195,27/04/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90007275,salbutamol,90007275,Pharmacy,salbutamol
+19461810,27/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144736,paracetamol,90144736,Pharmacy,paracetamol
+19461810,27/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144736,ibuprofen,90144736,Pharmacy,ibuprofen
+19465560,28/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19473767,29/04/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142824,salbutamol,90142824,Pharmacy,salbutamol
+19474720,30/04/2023,Casey,0,Cough,"Bronchiolitis, acute",90046416,paracetamol,90046416,Pharmacy,paracetamol
+19474720,30/04/2023,Casey,0,Cough,"Bronchiolitis, acute",90046416,ibuprofen,90046416,Pharmacy,ibuprofen
+19497584,2/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,salbutamol,90162079,Pharmacy,salbutamol
+19512489,4/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162251,paracetamol,90162251,Pharmacy,paracetamol
+19512489,4/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162251,ibuprofen,90162251,Pharmacy,ibuprofen
+19512292,4/05/2023,Casey,0,Cough,"Bronchiolitis, acute",90046416,paracetamol,90046416,Pharmacy,paracetamol
+19512292,4/05/2023,Casey,0,Cough,"Bronchiolitis, acute",90046416,ibuprofen,90046416,Pharmacy,ibuprofen
+19523796,5/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,ibuprofen,90053409,Pharmacy,ibuprofen
+19523796,5/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90053409,paracetamol,90053409,Pharmacy,paracetamol
+19521653,5/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90142824,XR Chest X-ray,90142824,Radiology,XR Chest X-ray
+19523367,5/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,salbutamol,90155200,Pharmacy,salbutamol
+19523367,5/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,ibuprofen,90155200,Pharmacy,ibuprofen
+19523367,5/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,paracetamol,90155200,Pharmacy,paracetamol
+19531173,7/05/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90145469,ibuprofen,90145469,Pharmacy,ibuprofen
+19531173,7/05/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90145469,paracetamol,90145469,Pharmacy,paracetamol
+19531173,7/05/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90145469,dexamethasone,90145469,Pharmacy,prednisolone/dexamethasone
+19531904,7/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144951,paracetamol,90144951,Pharmacy,paracetamol
+19533949,7/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19543684,8/05/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90162251,ibuprofen,90162251,Pharmacy,ibuprofen
+19543684,8/05/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90162251,paracetamol,90162251,Pharmacy,paracetamol
+19543684,8/05/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90162251,ondansetron,90162251,Pharmacy,ondansetron
+19543835,8/05/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068267,paracetamol,90068267,Pharmacy,paracetamol
+19543835,8/05/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068267,ibuprofen,90068267,Pharmacy,ibuprofen
+19539409,8/05/2023,Casey,0,Shortness of breath,"Bronchiolitis, acute",90161944,salbutamol,90161944,Pharmacy,salbutamol
+19539409,8/05/2023,Casey,0,Shortness of breath,"Bronchiolitis, acute",90161944,paracetamol,90161944,Pharmacy,paracetamol
+19550792,9/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,ibuprofen,90162065,Pharmacy,ibuprofen
+19550792,9/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,paracetamol,90162065,Pharmacy,paracetamol
+19549740,9/05/2023,Casey,0,Croup,"Bronchiolitis, acute",90162065,salbutamol,90162065,Pharmacy,salbutamol
+19549740,9/05/2023,Casey,0,Croup,"Bronchiolitis, acute",90162065,dexamethasone,90162065,Pharmacy,prednisolone/dexamethasone
+19549740,9/05/2023,Casey,0,Croup,"Bronchiolitis, acute",90162065,ibuprofen,90162065,Pharmacy,ibuprofen
+19549740,9/05/2023,Casey,0,Croup,"Bronchiolitis, acute",90162065,paracetamol,90162065,Pharmacy,paracetamol
+19549740,9/05/2023,Casey,0,Croup,"Bronchiolitis, acute",90162065,prednisolone,90162065,Pharmacy,prednisolone
+19548571,9/05/2023,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90078705,paracetamol,90078705,Pharmacy,paracetamol
+19550167,9/05/2023,Casey,0,cough + sob,"Bronchiolitis, acute",90162065,paracetamol,90162065,Pharmacy,paracetamol
+19550167,9/05/2023,Casey,0,cough + sob,"Bronchiolitis, acute",90162065,ibuprofen,90162065,Pharmacy,ibuprofen
+19551844,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083027,paracetamol,90083027,Pharmacy,paracetamol
+19551844,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90083027,ibuprofen,90083027,Pharmacy,ibuprofen
+19560636,10/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,paracetamol,90103318,Pharmacy,paracetamol
+19560636,10/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90103318,ibuprofen,90103318,Pharmacy,ibuprofen
+19554969,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162759,paracetamol,90162759,Pharmacy,paracetamol
+19554969,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162759,ibuprofen,90162759,Pharmacy,ibuprofen
+19557241,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166103,paracetamol,90166103,Pharmacy,paracetamol
+19557241,10/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166103,ibuprofen,90166103,Pharmacy,ibuprofen
+19559408,10/05/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+19562538,11/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90160332,paracetamol,90160332,Pharmacy,paracetamol
+19567927,11/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162953,paracetamol,90162953,Pharmacy,paracetamol
+19568680,12/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19578706,13/05/2023,MMC- Clayton,0,Abdominal Pain,"Bronchiolitis, acute",90144901,paracetamol,90144901,Pharmacy,paracetamol
+19578706,13/05/2023,MMC- Clayton,0,Abdominal Pain,"Bronchiolitis, acute",90144901,XR Chest X-ray,90144901,Radiology,XR Chest X-ray
+19584815,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,paracetamol,90142841,Pharmacy,paracetamol
+19584815,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,ibuprofen,90142841,Pharmacy,ibuprofen
+19584815,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,XR Chest X-ray,90142841,Radiology,XR Chest X-ray
+19587458,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,paracetamol,90142841,Pharmacy,paracetamol
+19587458,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,ibuprofen,90142841,Pharmacy,ibuprofen
+19587458,14/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90142841,prednisolone,90142841,Pharmacy,prednisolone
+19592919,15/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+19591988,15/05/2023,Casey,0,Cough,"Bronchiolitis, acute",90046416,paracetamol,90046416,Pharmacy,paracetamol
+19602664,16/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124524,paracetamol,90124524,Pharmacy,paracetamol
+19610937,17/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90163243,paracetamol,90163243,Pharmacy,paracetamol
+19610937,17/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90163243,ibuprofen,90163243,Pharmacy,ibuprofen
+19612231,17/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+19612668,17/05/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162896,paracetamol,90162896,Pharmacy,paracetamol
+19612668,17/05/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162896,ibuprofen,90162896,Pharmacy,ibuprofen
+19609485,17/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162896,ibuprofen,90162896,Pharmacy,ibuprofen
+19609485,17/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162896,paracetamol,90162896,Pharmacy,paracetamol
+19622085,18/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+19627322,19/05/2023,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90157612,paracetamol,90157612,Pharmacy,paracetamol
+19632355,19/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+19632355,19/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,ibuprofen,90161039,Pharmacy,ibuprofen
+19631748,19/05/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145086,XR Chest X-ray,90145086,Radiology,XR Chest X-ray
+19631748,19/05/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90145086,salbutamol,90145086,Pharmacy,salbutamol
+19636804,20/05/2023,MMC- Clayton,0,SOB,"Bronchiolitis, acute",90155188,paracetamol,90155188,Pharmacy,paracetamol
+19649666,22/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144901,ibuprofen,90144901,Pharmacy,ibuprofen
+19649666,22/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90144901,paracetamol,90144901,Pharmacy,paracetamol
+19658552,23/05/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90098181,paracetamol,90098181,Pharmacy,paracetamol
+19652088,23/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19654028,23/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19654028,23/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,ibuprofen,90162252,Pharmacy,ibuprofen
+19652579,23/05/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162251,ibuprofen,90162251,Pharmacy,ibuprofen
+19652579,23/05/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162251,paracetamol,90162251,Pharmacy,paracetamol
+19662881,24/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90164305,ibuprofen,90164305,Pharmacy,ibuprofen
+19662881,24/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90164305,paracetamol,90164305,Pharmacy,paracetamol
+19679250,25/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,paracetamol,90075334,Pharmacy,paracetamol
+19679250,25/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,ibuprofen,90075334,Pharmacy,ibuprofen
+19683846,26/05/2023,MMC- Clayton,0,Unwell child,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19686637,26/05/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90155200,paracetamol,90155200,Pharmacy,paracetamol
+19682627,26/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145257,paracetamol,90145257,Pharmacy,paracetamol
+19682627,26/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145257,ibuprofen,90145257,Pharmacy,ibuprofen
+19688817,27/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155188,paracetamol,90155188,Pharmacy,paracetamol
+19693426,27/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19690687,27/05/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90088199,ondansetron,90088199,Pharmacy,ondansetron
+19690687,27/05/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90088199,paracetamol,90088199,Pharmacy,paracetamol
+19690687,27/05/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90088199,ibuprofen,90088199,Pharmacy,ibuprofen
+19693416,27/05/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90007275,paracetamol,90007275,Pharmacy,paracetamol
+19698095,28/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162330,paracetamol,90162330,Pharmacy,paracetamol
+19698095,28/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162330,ibuprofen,90162330,Pharmacy,ibuprofen
+19696208,28/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161873,ibuprofen,90161873,Pharmacy,ibuprofen
+19696208,28/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161873,paracetamol,90161873,Pharmacy,paracetamol
+19694634,28/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90083027,ibuprofen,90083027,Pharmacy,ibuprofen
+19694634,28/05/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90083027,paracetamol,90083027,Pharmacy,paracetamol
+19699055,29/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144220,paracetamol,90144220,Pharmacy,paracetamol
+19699055,29/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144220,salbutamol,90144220,Pharmacy,salbutamol
+19699055,29/05/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90144220,ibuprofen,90144220,Pharmacy,ibuprofen
+19699727,29/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,paracetamol,90166170,Pharmacy,paracetamol
+19699727,29/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,ibuprofen,90166170,Pharmacy,ibuprofen
+19712884,30/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+19723054,31/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+19723054,31/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,ibuprofen,90162599,Pharmacy,ibuprofen
+19723054,31/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,XR Chest X-ray,90162599,Radiology,XR Chest X-ray
+19723054,31/05/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,chloral hydrate,90162599,Pharmacy,chloral hydrate
+19733469,1/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90118416,ondansetron,90118416,Pharmacy,ondansetron
+19736514,1/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90161091,paracetamol,90161091,Pharmacy,paracetamol
+19740246,2/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,paracetamol,90162065,Pharmacy,paracetamol
+19740246,2/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,ibuprofen,90162065,Pharmacy,ibuprofen
+19744061,2/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90123339,paracetamol,90123339,Pharmacy,paracetamol
+19734647,2/06/2023,Casey,0,Unwell child,"Bronchiolitis, acute",90140200,paracetamol,90140200,Pharmacy,paracetamol
+19734647,2/06/2023,Casey,0,Unwell child,"Bronchiolitis, acute",90140200,ibuprofen,90140200,Pharmacy,ibuprofen
+19746730,3/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90153760,paracetamol,90153760,Pharmacy,paracetamol
+19746730,3/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90153760,ibuprofen,90153760,Pharmacy,ibuprofen
+19751866,4/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124561,paracetamol,90124561,Pharmacy,paracetamol
+19754432,4/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082724,ibuprofen,90082724,Pharmacy,ibuprofen
+19754432,4/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082724,paracetamol,90082724,Pharmacy,paracetamol
+19750776,4/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,paracetamol,90075334,Pharmacy,paracetamol
+19750776,4/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90075334,ibuprofen,90075334,Pharmacy,ibuprofen
+19762764,5/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145385,paracetamol,90145385,Pharmacy,paracetamol
+19758990,5/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124936,paracetamol,90124936,Pharmacy,paracetamol
+19758990,5/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90124936,ibuprofen,90124936,Pharmacy,ibuprofen
+19755046,5/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162896,ibuprofen,90162896,Pharmacy,ibuprofen
+19755046,5/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162896,paracetamol,90162896,Pharmacy,paracetamol
+19755106,5/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+19771583,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+19765503,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162077,paracetamol,90162077,Pharmacy,paracetamol
+19765503,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162077,ibuprofen,90162077,Pharmacy,ibuprofen
+19764889,6/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90161096,ibuprofen,90161096,Pharmacy,ibuprofen
+19764889,6/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90161096,paracetamol,90161096,Pharmacy,paracetamol
+19771927,6/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082724,XR Chest X-ray,90082724,Radiology,XR Chest X-ray
+19768128,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19770642,6/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162251,ibuprofen,90162251,Pharmacy,ibuprofen
+19770642,6/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162251,XR Chest X-ray,90162251,Radiology,XR Chest X-ray
+19769599,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124561,paracetamol,90124561,Pharmacy,paracetamol
+19769599,6/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124561,ibuprofen,90124561,Pharmacy,ibuprofen
+19770325,6/06/2023,Casey,0,Cough,"Bronchiolitis, acute",90044868,ibuprofen,90044868,Pharmacy,ibuprofen
+19770325,6/06/2023,Casey,0,Cough,"Bronchiolitis, acute",90044868,paracetamol,90044868,Pharmacy,paracetamol
+19783374,8/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+19783374,8/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,ibuprofen,90145086,Pharmacy,ibuprofen
+19783086,8/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161873,paracetamol,90161873,Pharmacy,paracetamol
+19781728,8/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,ibuprofen,90162065,Pharmacy,ibuprofen
+19781728,8/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162065,paracetamol,90162065,Pharmacy,paracetamol
+19789757,8/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162077,ondansetron,90162077,Pharmacy,ondansetron
+19793407,9/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+19793835,9/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90146246,paracetamol,90146246,Pharmacy,paracetamol
+19798578,9/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+19798578,9/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161039,ibuprofen,90161039,Pharmacy,ibuprofen
+19788861,9/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90154175,paracetamol,90154175,Pharmacy,paracetamol
+19788861,9/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90154175,ibuprofen,90154175,Pharmacy,ibuprofen
+19798455,9/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90116155,XR Chest X-ray,90116155,Radiology,XR Chest X-ray
+19802497,10/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+19802497,10/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90165262,ibuprofen,90165262,Pharmacy,ibuprofen
+19806408,11/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+19804530,11/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90160501,XR Chest X-ray,90160501,Radiology,XR Chest X-ray
+19807773,11/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,paracetamol,90166170,Pharmacy,paracetamol
+19807088,11/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90166103,paracetamol,90166103,Pharmacy,paracetamol
+19804501,11/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19808430,12/06/2023,MMC- Clayton,0,Influenza like symptoms,"Bronchiolitis, acute",90136850,paracetamol,90136850,Pharmacy,paracetamol
+19808986,12/06/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90160650,paracetamol,90160650,Pharmacy,paracetamol
+19808986,12/06/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90160650,ibuprofen,90160650,Pharmacy,ibuprofen
+19813449,12/06/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90162759,paracetamol,90162759,Pharmacy,paracetamol
+19815071,13/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138705,paracetamol,90138705,Pharmacy,paracetamol
+19815071,13/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138705,ibuprofen,90138705,Pharmacy,ibuprofen
+19821226,13/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085715,paracetamol,90085715,Pharmacy,paracetamol
+19826862,14/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+19832254,14/06/2023,Casey,0,Cough,"Bronchiolitis, acute",90061220,ibuprofen,90061220,Pharmacy,ibuprofen
+19835685,15/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90160699,paracetamol,90160699,Pharmacy,paracetamol
+19832586,15/06/2023,Casey,0,Cough,"Bronchiolitis, acute",90164194,paracetamol,90164194,Pharmacy,paracetamol
+19837052,15/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,ibuprofen,90162599,Pharmacy,ibuprofen
+19837410,15/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,paracetamol,90166170,Pharmacy,paracetamol
+19847213,16/06/2023,MMC- Clayton,0,Influenza like symptoms,"Bronchiolitis, acute",90144901,paracetamol,90144901,Pharmacy,paracetamol
+19849245,16/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90023171,ibuprofen,90023171,Pharmacy,ibuprofen
+19849484,16/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,paracetamol,90166170,Pharmacy,paracetamol
+19842678,16/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90034785,paracetamol,90034785,Pharmacy,paracetamol
+19842678,16/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90034785,ibuprofen,90034785,Pharmacy,ibuprofen
+19852221,17/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90145525,XR Chest X-ray,90145525,Radiology,XR Chest X-ray
+19854090,17/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19853555,17/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90138705,dexamethasone,90138705,Pharmacy,prednisolone/dexamethasone
+19855679,17/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19854861,18/06/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90165844,paracetamol,90165844,Pharmacy,paracetamol
+19856822,18/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161376,paracetamol,90161376,Pharmacy,paracetamol
+19866173,19/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90164305,paracetamol,90164305,Pharmacy,paracetamol
+19866173,19/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90164305,ibuprofen,90164305,Pharmacy,ibuprofen
+19866932,19/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90066524,paracetamol,90066524,Pharmacy,paracetamol
+19860103,19/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90082724,ibuprofen,90082724,Pharmacy,ibuprofen
+19860103,19/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90082724,paracetamol,90082724,Pharmacy,paracetamol
+19876317,20/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90038386,salbutamol,90038386,Pharmacy,salbutamol
+19876317,20/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90038386,ipratropium,90038386,Pharmacy,salbutamol/ipratropium
+19876317,20/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90038386,paracetamol,90038386,Pharmacy,paracetamol
+19876317,20/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90038386,ibuprofen,90038386,Pharmacy,ibuprofen
+19876989,20/06/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90068267,paracetamol,90068267,Pharmacy,paracetamol
+19876989,20/06/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90068267,XR Chest X-ray,90068267,Radiology,XR Chest X-ray
+19876311,20/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+19885799,21/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19887693,21/06/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90124447,salbutamol,90124447,Pharmacy,salbutamol
+19886631,21/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082515,paracetamol,90082515,Pharmacy,paracetamol
+19886631,21/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90082515,ibuprofen,90082515,Pharmacy,ibuprofen
+19878766,21/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90040881,paracetamol,90040881,Pharmacy,paracetamol
+19886725,22/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19886725,22/06/2023,MMC- Clayton,0,Generally Unwell,"Bronchiolitis, acute",90162081,XR Chest X-ray,90162081,Radiology,XR Chest X-ray
+19888877,22/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90082724,XR Chest X-ray,90082724,Radiology,XR Chest X-ray
+19892444,22/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162251,paracetamol,90162251,Pharmacy,paracetamol
+19900968,23/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162079,ibuprofen,90162079,Pharmacy,ibuprofen
+19900968,23/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+19900968,23/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162079,XR Chest X-ray,90162079,Radiology,XR Chest X-ray
+19897864,23/06/2023,Casey,0,Cough - Croup,"Bronchiolitis, acute",90144951,prednisolone,90144951,Pharmacy,prednisolone
+19897864,23/06/2023,Casey,0,Cough - Croup,"Bronchiolitis, acute",90144951,paracetamol,90144951,Pharmacy,paracetamol
+19909613,24/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90013837,paracetamol,90013837,Pharmacy,paracetamol
+19904435,24/06/2023,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90119285,paracetamol,90119285,Pharmacy,paracetamol
+19904435,24/06/2023,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90119285,ibuprofen,90119285,Pharmacy,ibuprofen
+19904435,24/06/2023,MMC- Clayton,0,"Respiratory - Other, not SOB","Bronchiolitis, acute",90119285,ondansetron,90119285,Pharmacy,ondansetron
+19907099,24/06/2023,Casey,0,Cough,"Bronchiolitis, acute",90162925,salbutamol,90162925,Pharmacy,salbutamol
+19904856,24/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90123339,paracetamol,90123339,Pharmacy,paracetamol
+19904856,24/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90123339,ibuprofen,90123339,Pharmacy,ibuprofen
+19904856,24/06/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90123339,XR Chest X-ray,90123339,Radiology,XR Chest X-ray
+19905042,24/06/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90162330,paracetamol,90162330,Pharmacy,paracetamol
+19908747,25/06/2023,Casey,0,General Unwell,"Bronchiolitis, acute",90053715,paracetamol,90053715,Pharmacy,paracetamol
+19913149,26/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90057415,salbutamol,90057415,Pharmacy,salbutamol
+19913149,26/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90057415,ibuprofen,90057415,Pharmacy,ibuprofen
+19913149,26/06/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90057415,paracetamol,90057415,Pharmacy,paracetamol
+19921732,26/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90118416,paracetamol,90118416,Pharmacy,paracetamol
+19921732,26/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90118416,XR Chest X-ray,90118416,Radiology,XR Chest X-ray
+19915725,26/06/2023,MMC- Clayton,0,Cough - Croup,"Bronchiolitis, acute",90124637,XR Chest X-ray,90124637,Radiology,XR Chest X-ray
+19921244,26/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90023171,paracetamol,90023171,Pharmacy,paracetamol
+19928927,27/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19928927,27/06/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162081,ibuprofen,90162081,Pharmacy,ibuprofen
+19930831,28/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161091,paracetamol,90161091,Pharmacy,paracetamol
+19935298,28/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162077,dexamethasone,90162077,Pharmacy,prednisolone/dexamethasone
+19931979,28/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161873,paracetamol,90161873,Pharmacy,paracetamol
+19944665,29/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+19944665,29/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,ibuprofen,90145086,Pharmacy,ibuprofen
+19943908,29/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90018863,paracetamol,90018863,Pharmacy,paracetamol
+19943908,29/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90018863,ibuprofen,90018863,Pharmacy,ibuprofen
+19943908,29/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90018863,ondansetron,90018863,Pharmacy,ondansetron
+19943908,29/06/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90018863,XR Chest X-ray,90018863,Radiology,XR Chest X-ray
+19945724,29/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,paracetamol,90155200,Pharmacy,paracetamol
+19942366,29/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90075767,paracetamol,90075767,Pharmacy,paracetamol
+19942366,29/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90075767,ibuprofen,90075767,Pharmacy,ibuprofen
+19940430,29/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155188,paracetamol,90155188,Pharmacy,paracetamol
+19940430,29/06/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155188,ibuprofen,90155188,Pharmacy,ibuprofen
+19954770,30/06/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90135325,paracetamol,90135325,Pharmacy,paracetamol
+19962415,2/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,paracetamol,90155200,Pharmacy,paracetamol
+19965814,2/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162081,ibuprofen,90162081,Pharmacy,ibuprofen
+19965814,2/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+19964482,2/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,XR Chest X-ray,90162599,Radiology,XR Chest X-ray
+19972246,3/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161091,ibuprofen,90161091,Pharmacy,ibuprofen
+19972246,3/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161091,paracetamol,90161091,Pharmacy,paracetamol
+19983167,4/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90033803,paracetamol,90033803,Pharmacy,paracetamol
+19983167,4/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90033803,XR Chest X-ray,90033803,Radiology,XR Chest X-ray
+19990040,5/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90013837,paracetamol,90013837,Pharmacy,paracetamol
+19986981,5/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90083027,paracetamol,90083027,Pharmacy,paracetamol
+19985852,5/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90155188,paracetamol,90155188,Pharmacy,paracetamol
+19985852,5/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90155188,ibuprofen,90155188,Pharmacy,ibuprofen
+19981112,5/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033803,paracetamol,90033803,Pharmacy,paracetamol
+19992075,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+19998661,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162759,paracetamol,90162759,Pharmacy,paracetamol
+19997754,6/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162251,ibuprofen,90162251,Pharmacy,ibuprofen
+19997754,6/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162251,paracetamol,90162251,Pharmacy,paracetamol
+19997341,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162759,ibuprofen,90162759,Pharmacy,ibuprofen
+19997341,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162759,paracetamol,90162759,Pharmacy,paracetamol
+19991746,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161091,paracetamol,90161091,Pharmacy,paracetamol
+19991746,6/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161091,ibuprofen,90161091,Pharmacy,ibuprofen
+19992537,6/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162252,paracetamol,90162252,Pharmacy,paracetamol
+20007619,7/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162599,ibuprofen,90162599,Pharmacy,ibuprofen
+20007619,7/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+20005242,7/07/2023,Casey,0,Cough,"Bronchiolitis, acute",90075767,paracetamol,90075767,Pharmacy,paracetamol
+20005799,7/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+20001416,7/07/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+20011292,8/07/2023,Dandenong,0,Unwell child,"Bronchiolitis, acute",90024223,ibuprofen,90024223,Pharmacy,ibuprofen
+20013825,9/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90124561,paracetamol,90124561,Pharmacy,paracetamol
+20018122,10/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+20024919,10/07/2023,Dandenong,0,Febrile / PUO,"Bronchiolitis, acute",90060945,XR Chest X-ray,90060945,Radiology,XR Chest X-ray
+20023799,10/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90146286,XR Chest X-ray,90146286,Radiology,XR Chest X-ray
+20017498,10/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124637,paracetamol,90124637,Pharmacy,paracetamol
+20017498,10/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124637,ibuprofen,90124637,Pharmacy,ibuprofen
+20017498,10/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90124637,ondansetron,90124637,Pharmacy,ondansetron
+20030741,11/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90141884,paracetamol,90141884,Pharmacy,paracetamol
+20030741,11/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90141884,ibuprofen,90141884,Pharmacy,ibuprofen
+20035633,11/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90044868,paracetamol,90044868,Pharmacy,paracetamol
+20043457,12/07/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90083199,paracetamol,90083199,Pharmacy,paracetamol
+20043457,12/07/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90083199,ibuprofen,90083199,Pharmacy,ibuprofen
+20043457,12/07/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90083199,ondansetron,90083199,Pharmacy,ondansetron
+20058197,14/07/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90164305,paracetamol,90164305,Pharmacy,paracetamol
+20058197,14/07/2023,Casey,0,Febrile / PUO,"Bronchiolitis, acute",90164305,ibuprofen,90164305,Pharmacy,ibuprofen
+20065498,15/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90064512,XR Chest X-ray,90064512,Radiology,XR Chest X-ray
+20067497,16/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+20067497,16/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,XR Chest X-ray,90161039,Radiology,XR Chest X-ray
+20069667,16/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90113883,ondansetron,90113883,Pharmacy,ondansetron
+20069667,16/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90113883,paracetamol,90113883,Pharmacy,paracetamol
+20069667,16/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90113883,ibuprofen,90113883,Pharmacy,ibuprofen
+20072430,17/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+20072430,17/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90162081,ibuprofen,90162081,Pharmacy,ibuprofen
+20068820,17/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166333,paracetamol,90166333,Pharmacy,paracetamol
+20087412,18/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033661,ondansetron,90033661,Pharmacy,ondansetron
+20087412,18/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90033661,paracetamol,90033661,Pharmacy,paracetamol
+20084033,18/07/2023,MMC- Clayton,0,Vomiting/?Croup,"Bronchiolitis, acute",90146286,ondansetron,90146286,Pharmacy,ondansetron
+20084033,18/07/2023,MMC- Clayton,0,Vomiting/?Croup,"Bronchiolitis, acute",90146286,paracetamol,90146286,Pharmacy,paracetamol
+20086431,18/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,paracetamol,90162081,Pharmacy,paracetamol
+20086431,18/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162081,XR Chest X-ray,90162081,Radiology,XR Chest X-ray
+20088004,19/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,paracetamol,90165262,Pharmacy,paracetamol
+20088004,19/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90165262,ibuprofen,90165262,Pharmacy,ibuprofen
+20104894,20/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90160501,paracetamol,90160501,Pharmacy,paracetamol
+20114983,21/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90146286,XR Chest X-ray,90146286,Radiology,XR Chest X-ray
+20114983,21/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90146286,paracetamol,90146286,Pharmacy,paracetamol
+20114983,21/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90146286,ibuprofen,90146286,Pharmacy,ibuprofen
+20114332,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90157612,paracetamol,90157612,Pharmacy,paracetamol
+20114332,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90157612,ibuprofen,90157612,Pharmacy,ibuprofen
+20112562,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90154175,paracetamol,90154175,Pharmacy,paracetamol
+20114977,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90157612,paracetamol,90157612,Pharmacy,paracetamol
+20114977,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90157612,ibuprofen,90157612,Pharmacy,ibuprofen
+20114977,21/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90157612,salbutamol,90157612,Pharmacy,salbutamol
+20119542,22/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90146286,ibuprofen,90146286,Pharmacy,ibuprofen
+20119542,22/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90146286,paracetamol,90146286,Pharmacy,paracetamol
+20121441,23/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90098753,salbutamol,90098753,Pharmacy,salbutamol
+20121441,23/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90098753,paracetamol,90098753,Pharmacy,paracetamol
+20131582,24/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162082,salbutamol,90162082,Pharmacy,salbutamol
+20131582,24/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162082,paracetamol,90162082,Pharmacy,paracetamol
+20131582,24/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162082,ibuprofen,90162082,Pharmacy,ibuprofen
+20125634,24/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90166103,salbutamol,90166103,Pharmacy,salbutamol
+20125634,24/07/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90166103,dexamethasone,90166103,Pharmacy,prednisolone/dexamethasone
+20100110,24/07/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068267,paracetamol,90068267,Pharmacy,paracetamol
+20100110,24/07/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90068267,ibuprofen,90068267,Pharmacy,ibuprofen
+20140922,25/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,ibuprofen,90145390,Pharmacy,ibuprofen
+20140922,25/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145390,paracetamol,90145390,Pharmacy,paracetamol
+20133226,25/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085715,salbutamol,90085715,Pharmacy,salbutamol
+20133226,25/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085715,XR Chest X-ray,90085715,Radiology,XR Chest X-ray
+20133226,25/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90085715,paracetamol,90085715,Pharmacy,paracetamol
+20146186,26/07/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90162082,paracetamol,90162082,Pharmacy,paracetamol
+20146186,26/07/2023,Casey,0,Generally Unwell,"Bronchiolitis, acute",90162082,ibuprofen,90162082,Pharmacy,ibuprofen
+20144355,26/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90148355,paracetamol,90148355,Pharmacy,paracetamol
+20146220,26/07/2023,MMC- Clayton,0,Febrile / PUO,"Bronchiolitis, acute",90166347,paracetamol,90166347,Pharmacy,paracetamol
+20146395,26/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90161039,paracetamol,90161039,Pharmacy,paracetamol
+20152635,27/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90148355,paracetamol,90148355,Pharmacy,paracetamol
+20157180,27/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90031199,paracetamol,90031199,Pharmacy,paracetamol
+20157180,27/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90031199,ibuprofen,90031199,Pharmacy,ibuprofen
+20150614,27/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+20162192,28/07/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90034785,paracetamol,90034785,Pharmacy,paracetamol
+20163889,28/07/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90124517,paracetamol,90124517,Pharmacy,paracetamol
+20163889,28/07/2023,Dandenong,0,Cough,"Bronchiolitis, acute",90124517,ibuprofen,90124517,Pharmacy,ibuprofen
+20175456,30/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+20175456,30/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,ibuprofen,90145086,Pharmacy,ibuprofen
+20183073,31/07/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90007275,paracetamol,90007275,Pharmacy,paracetamol
+20183073,31/07/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90007275,ibuprofen,90007275,Pharmacy,ibuprofen
+20183073,31/07/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90007275,ondansetron,90007275,Pharmacy,ondansetron
+20183073,31/07/2023,Dandenong,0,Generally Unwell,"Bronchiolitis, acute",90007275,salbutamol,90007275,Pharmacy,salbutamol
+20176577,31/07/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90166170,paracetamol,90166170,Pharmacy,paracetamol
+20177488,31/07/2023,MMC- Clayton,0,Vomiting,"Bronchiolitis, acute",90141884,paracetamol,90141884,Pharmacy,paracetamol
+20188341,1/08/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90161873,paracetamol,90161873,Pharmacy,paracetamol
+20187375,1/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,ibuprofen,90145086,Pharmacy,ibuprofen
+20187375,1/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90145086,paracetamol,90145086,Pharmacy,paracetamol
+20194307,1/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,paracetamol,90162599,Pharmacy,paracetamol
+20194307,1/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162599,chloral hydrate,90162599,Pharmacy,chloral hydrate
+20209083,3/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,paracetamol,90155200,Pharmacy,paracetamol
+20209083,3/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,ibuprofen,90155200,Pharmacy,ibuprofen
+20209083,3/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90155200,ondansetron,90155200,Pharmacy,ondansetron
+20207944,3/08/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90119742,XR Chest X-ray,90119742,Radiology,XR Chest X-ray
+20218080,4/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90070093,paracetamol,90070093,Pharmacy,paracetamol
+20218080,4/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90070093,ibuprofen,90070093,Pharmacy,ibuprofen
+20219758,5/08/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+20219745,5/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,paracetamol,90162079,Pharmacy,paracetamol
+20219745,5/08/2023,MMC- Clayton,0,Shortness of Breath,"Bronchiolitis, acute",90162079,XR Chest X-ray,90162079,Radiology,XR Chest X-ray
+20226776,6/08/2023,Dandenong,0,Shortness of Breath,"Bronchiolitis, acute",90139416,ibuprofen,90139416,Pharmacy,ibuprofen
+20227432,6/08/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90146286,ibuprofen,90146286,Pharmacy,ibuprofen
+20227432,6/08/2023,MMC- Clayton,0,Cough,"Bronchiolitis, acute",90146286,paracetamol,90146286,Pharmacy,paracetamol
+20237154,8/08/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162770,salbutamol,90162770,Pharmacy,salbutamol
+20237154,8/08/2023,Casey,0,Shortness of Breath,"Bronchiolitis, acute",90162770,paracetamol,90162770,Pharmacy,paracetamol
