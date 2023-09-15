@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Scatter plot with controlled random jittering",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/xray_pt.csv"
+  },
+  "width": 300,
+  "height": 200,
+  "transform": [
+    {
+      "calculate": "toString(datum['Treating.Clinician'])",
+      "as": "Clinician_String"
+    }
+  ],
+  "selection": {
+    "hospital_highlight": {
+      "type": "multi",
+      "fields": ["Hospital"],
+      "bind": "legend"
+    },
+    "zoom": {"type": "interval", "bind": "scales"}
+  },
+  "title": {
+    "text": "Number of Patients Seen vs. Xray Proportion",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "jitter_total",
+      "type": "quantitative",
+      "title": "Number of Patients",
+      "scale": {"domain": [-1, 105]}
+    },
+    "y": {
+      "field": "jitter_percentage",
+      "type": "quantitative",
+      "title": "% patients receiving Xray",
+      "scale": {"domain": [-1, 101]}
+    },
+    "color": {
+      "field": "Hospital",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Casey", "MMC- Clayton", "Dandenong"],
+        "range": ["#ff7f00", "#6a3d9a", "#33a02c"]
+      }
+    },
+    "opacity": {
+      "condition": {"selection": "hospital_highlight", "value": 1},
+      "value": 0.05
+    },
+    "cursor": {
+      "condition": {"selection": "zoom", "value": "zoom-in"},
+      "value": "auto"
+    },
+    "tooltip": [
+      {"field": "total", "type": "quantitative"},
+      {
+        "field": "target",
+        "type": "quantitative",
+        "title": "Patient with Xray "
+      },
+      {
+        "field": "percentage",
+        "type": "quantitative",
+        "title": "Xray Percentage(%)"
+      },
+      {
+        "field": "Clinician_String",
+        "type": "nominal",
+        "title": "Treating Clinician"
+      },
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"}
+    ]
+  },
+  "config": {}
+}

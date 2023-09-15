@@ -1,0 +1,83 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Scatter plot with controlled random jittering",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/entire/sal_ipra_pt.csv"
+  },
+  "width": 300,
+  "height": 200,
+  "params": [
+    {
+      "name": "highlightCategory",
+      "bind": {"input": "text", "name": "Search for Clinician"}
+    },
+    {
+      "name": "selectHospital",
+      "bind": {
+        "input": "select",
+        "name": "Select Hospital",
+        "options": ["All", "Dandenong", "MMC- Clayton", "Casey"],
+        "value": "All"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "toString(datum['Treating.Clinician'])",
+      "as": "Clinician_String"
+    },
+    {
+      "calculate": "datum.Clinician_String === highlightCategory",
+      "as": "highlighted"
+    },
+    {
+      "filter": "datum['Hospital'] === selectHospital || selectHospital === 'All'"
+    }
+  ],
+  "selection": {"zoom": {"type": "interval", "bind": "scales"}},
+  "title": {
+    "text": "Search Box Visualisation For Clinician with Salbutamol or Ipratropium",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
+  },
+  "mark": "point",
+  "encoding": {
+    "x": {
+      "field": "jitter_total",
+      "type": "quantitative",
+      "title": "Number of Patients",
+      "scale": {"domain": [-1, 105]}
+    },
+    "y": {
+      "field": "jitter_percentage",
+      "type": "quantitative",
+      "title": "% patients receiving Salbutamol or Ipratropium",
+      "scale": {"domain": [-1, 101]}
+    },
+    "opacity": {
+      "condition": {"selection": "highlightCategory", "value": 1},
+      "value": 0
+    },
+    "color": {
+      "field": "highlighted",
+      "type": "nominal",
+      "scale": {"domain": [true, false], "range": ["blue", "#bababa"]}
+    },
+    "tooltip": [
+      {"field": "total", "type": "quantitative"},
+      {
+        "field": "percentage",
+        "type": "quantitative",
+        "title": "Salbutamol or Ipratropium Percentage(%)"
+      },
+      {
+        "field": "Clinician_String",
+        "type": "nominal",
+        "title": "Treating Clinician"
+      },
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"}
+    ]
+  },
+  "config": {}
+}
