@@ -1,0 +1,28 @@
+Order,Hospital,target_number,total_number,prop
+chloral hydrate,Casey,4,1189,0.34
+paracetamol,Casey,482,1189,40.54
+ibuprofen,Casey,317,1189,26.66
+ondansetron,Casey,61,1189,5.13
+salbutamol,Casey,85,1189,7.15
+prednisolone,Casey,50,1189,4.21
+salbutamol/ipratropium,Casey,17,1189,1.43
+prednisolone/dexamethasone,Casey,99,1189,8.33
+XR Chest X-ray,Casey,74,1189,6.22
+chloral hydrate,MMC- Clayton,8,1815,0.44
+paracetamol,MMC- Clayton,779,1815,42.92
+ibuprofen,MMC- Clayton,445,1815,24.52
+ondansetron,MMC- Clayton,54,1815,2.98
+salbutamol,MMC- Clayton,55,1815,3.03
+prednisolone,MMC- Clayton,19,1815,1.05
+salbutamol/ipratropium,MMC- Clayton,3,1815,0.17
+prednisolone/dexamethasone,MMC- Clayton,230,1815,12.67
+XR Chest X-ray,MMC- Clayton,222,1815,12.23
+chloral hydrate,Dandenong,0,367,0
+paracetamol,Dandenong,146,367,39.78
+ibuprofen,Dandenong,98,367,26.7
+ondansetron,Dandenong,17,367,4.63
+salbutamol,Dandenong,35,367,9.54
+prednisolone,Dandenong,12,367,3.27
+salbutamol/ipratropium,Dandenong,6,367,1.63
+prednisolone/dexamethasone,Dandenong,33,367,8.99
+XR Chest X-ray,Dandenong,20,367,5.45
