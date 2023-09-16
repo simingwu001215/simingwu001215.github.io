@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/order_prop_hospital.csv"
+  },
+  "transform": [{"filter": "datum.Order === 'paracetamol'"}],
+  "width": 400,
+  "height": 200,
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Hospital",
+          "type": "ordinal",
+          "title": "Hospital",
+          "axis": {"labelAngle": 0}
+        },
+        "y": {
+          "field": "prop",
+          "type": "quantitative",
+          "title": "Percentages in paracetamol(%)",
+          "scale": {"domain": [0, 100]}
+        },
+        "color": {"field": "Order", "legend": null},
+        "tooltip": [
+          {"field": "prop", "type": "quantitative", "title": "Percentage"},
+          {
+            "field": "target_number",
+            "type": "quantitative",
+            "title": "Target Number"
+          },
+          {"field": "Hospital", "type": "nominal"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "dy": -10, "align": "center"},
+      "encoding": {
+        "x": {"field": "Hospital", "type": "ordinal"},
+        "y": {"field": "prop", "type": "quantitative"},
+        "text": {"field": "prop", "type": "quantitative"}
+      }
+    }
+  ],
+  "title": {
+    "text": "Percentage of paracetamol Orders by Hospital",
+    "fontSize": 20
+  },
+  "config": {}
+}
