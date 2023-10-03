@@ -1,51 +1,60 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {
-    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/order_prop_hospital.csv"
+  "description": "Bar chart of chloral hydrate orders by hospital",
+  "title": {
+    "text": "Chloral Hydrate Orders by Hospital",
+    "fontSize": 16,
+    "anchor": "middle",
+    "align": "center"
   },
-  "transform": [{"filter": "datum.Order === 'chloral hydrate'"}],
-  "width": 400,
-  "height": 200,
-  "layer": [
-    {
-      "mark": "bar",
-      "encoding": {
-        "x": {
-          "field": "Hospital",
-          "type": "ordinal",
-          "title": "Hospital",
-          "axis": {"labelAngle": 0}
-        },
-        "y": {
-          "field": "prop",
-          "type": "quantitative",
-          "title": "Percentages in Chloral Hydrate(%)",
-          "scale": {"domain": [0, 100]}
-        },
-        "color": {"field": "Order", "legend": null},
-        "tooltip": [
-          {"field": "prop", "type": "quantitative", "title": "Percentage"},
-          {
-            "field": "target_number",
-            "type": "quantitative",
-            "title": "Target Number"
-          },
-          {"field": "Hospital", "type": "nominal"}
-        ]
+  "width": 500,
+  "height": 350,
+  "data": {
+    "url": "https://raw.githubusercontent.com/simingwu001215/simingwu001215.github.io/main/Care_Project/order_proportion.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [{"filter": "datum.OrderDetails === 'chloral hydrate'"}],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Hospital",
+      "type": "nominal",
+      "title": "Hospital",
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "field": "percentage",
+      "type": "quantitative",
+      "title": "Percentage of patients receive chloral hydrate each Hospital(%)"
+    },
+    "color": {
+      "field": "Hospital",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Casey", "MMC- Clayton", "Dandenong"],
+        "range": ["#ff7f00", "#6a3d9a", "#33a02c"]
       }
     },
-    {
-      "mark": {"type": "text", "dy": -10, "align": "center"},
-      "encoding": {
-        "x": {"field": "Hospital", "type": "ordinal"},
-        "y": {"field": "prop", "type": "quantitative"},
-        "text": {"field": "prop", "type": "quantitative"}
+    "tooltip": [
+      {"field": "Hospital", "type": "nominal", "title": "Hospital"},
+      {
+        "field": "OrderDetails",
+        "type": "nominal",
+        "title": "Medication Ordered"
+      },
+      {"field": "Count", "type": "quantitative", "title": "Total Patients"},
+      {
+        "field": "percentage",
+        "type": "quantitative",
+        "title": "Order Percentage(%)",
+        "format": ".2f"
+      },
+      {
+        "field": "target_number",
+        "type": "quantitative",
+        "title": "Number of patients receive chloral hydrate"
       }
-    }
-  ],
-  "title": {
-    "text": "Percentage of Chloral Hydrate Orders by Hospital",
-    "fontSize": 20
+    ]
   },
   "config": {}
 }
