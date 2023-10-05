@@ -50,7 +50,7 @@ h1 {
 
 .img-container img {
   width: auto; /* Set the width to 200 pixels */
-  height: 200px; /* Auto-adjust the height to maintain aspect ratio */
+  height: 300px; /* Auto-adjust the height to maintain aspect ratio */
 }
 .container {
     max-width: 100%;
