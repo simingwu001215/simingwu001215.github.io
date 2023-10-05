@@ -61,3 +61,13 @@ h1 {
 p {
     text-align: justify;
 }
+
+
+ .color-bar {
+            background-color: darkblue; /* Dark blue background */
+            padding: 10px; /* Padding around the text */
+            text-align: center; /* Centering the text */
+            font-family: 'Arial', sans-serif; /* Setting the font type to Arial */
+            font-size: 24px; /* Setting the font size to 24 pixels */
+            color: white; /* Setting the text color to white */
+        }
