@@ -39,7 +39,7 @@
         <h2 style="font-size: 36px; color:#1c9099 ;">The Variation Between Clinicians and Hospitals</h2>
           <div class="container">
         <p style="background-color: #F1F1F1;padding: 45px;">
-            In the report, the analysis will focus on different treatment orders by examining the distribution of the number of patients seen and their corresponding percentages for each individual clinician. The dataset records child patients that are less than 12 months of age, presentng to ED with respiratory illness from 2015 to 2016.The objective is to investigate how variation is displayed at both the clinician and hospital levels. Users can interact with the scatter plots by zooming in and out. Additionally, if there is a specific clinician ID available, the "Search for Clinician" feature can be used to target that clinician's data. If the visualization layout appears too spread out, adjusting the zoom settings on the PC can provide a better view.
+            In the report, the analysis will focus on different treatment orders by examining the distribution of the number of patients seen and their corresponding percentages for each individual clinician. The dataset records child patients that are less than 12 months of age, presentng to ED with respiratory illness.The objective is to investigate how variation is displayed at both the clinician and hospital levels. Users can interact with the scatter plots by zooming in and out. Additionally, if there is a specific clinician ID available, the "Search for Clinician" feature can be used to target that clinician's data. If the visualization layout appears too spread out, adjusting the zoom settings on the PC can provide a better view.
         </p>
     </div>
     
@@ -69,13 +69,12 @@
 
             <div id="vis19" class="vis-container"></div>
             <div style="background-color: #F1F1F1;padding: 45px;"> <!-- Setting the background color to #F1F1F1 -->
-    <p>In the Chloral Hydrate visualisation, the violin plot reveals several insights:</p>
+    <p>In the Chloral Hydrate visualisation, the barchart reveals several insights:</p>
     <ul>
         <li style="text-align: left;">Dandenong: No Chloral Hydrate use.</li>
-        <li style="text-align: left;">MMC-Clayton: Low usage despite more clinicians, all under 8%, indicating cautious use.</li>
-        <li style="text-align: left;">Casey: Few outliers in usage with fewer patients seen, but overall reasonable.</li>
+        
     </ul>
-    <p>Summary: MMC and Dandenong are cautious, Casey shows reasonable use with minor outliers.</p>
+    <p>Summary: MMC and Casey are cautious with the application of Chloral Hydrate less than 0.20%, Dandenong has no application with the treatment.</p>
 </div>
     </div>
         </div>
@@ -104,8 +103,8 @@
         </p>
     
         <ul>
-            <li style="text-align: left;">8% to 10% for Casey and Dandenong</li>
-            <li style="text-align: left;">40% across all hospitals</li>
+            <li style="text-align: left;">11% to 12% for Casey and Dandenong</li>
+            <li style="text-align: left;">MMC-Clayton has the least proportion patients that were applied ibuprofen over its entire patients even though MMC-Clayton has the most outpatients.</li>
           
         </ul>
              </div>
@@ -128,19 +127,14 @@
           <div id="vis21" class="vis-container"></div>
           <div style="background-color: #F1F1F1;padding: 45px;">
         <p>
-          The violin plot reveals noticeable differences in the shape of Casey and Dandenong compared to MMC-Clayton when it comes to Ondansetron usage:   
+          The barchart reveals noticeable fact that MMC-Clayton has much lower proportion of patients has received ondansetrons compared to Casey and Dandenong.
         </p>
-    </div> 
+    
          
-          <ul>
-            <li style="text-align: left;class="container"">Casey and Dandenong: Both Casey and Dandenong exhibit more prominent outliers in their Ondansetron usage data. This contributes to a steeper shape in their respective violin plots.</li>
-            <li style="text-align: left;class="container"">MMC-Clayton: In contrast, MMC-Clayton appears to have a less steep shape and fewer outliers, suggesting that MMC-Clayton generally follows stricter guidelines or practices when it comes to Ondansetron usage.</li>
-    <div class="container">
-        <p>
-         In summary, the violin plot indicates that MMC-Clayton tends to have a more restrained and consistent approach to Ondansetron usage compared to Casey and Dandenong, which have more noticeable outliers and variation in their usage patterns, but still lie in reasonable range.
+       
+          
   
-        </p>
-      </div>
+             </div> 
     </div>
           
          
@@ -165,18 +159,19 @@
            <div id="vis22" class="vis-container"></div>
            <div style="background-color: #F1F1F1;padding: 45px;">
         <p>
-           The violin plot shows that Paracetamol is commonly used in all hospitals, with consistent trends: 
+           The barchart shows that Paracetamol is commonly used in all hospitals around 15% to 18%, with consistent trends: 
         </p>
-    </div> 
+   
          
           <ul>
             <li style="text-align: left;class="container"">Paracetamol is widely accessed across all hospitals.
 </li>
-            <li style="text-align: left;class="container"">There is a noticeable reduction in usage percentages in a range roughly between 8% and 40% across all hospitals.</li>
+          
         <div class="container"> 
         <p>
             This suggests that there may be guidelines or practices in place across these hospitals that result in a consistent pattern of Paracetamol usage.
         </p>
+            </div> 
           </div>
     </div>
 
@@ -200,9 +195,7 @@
 
           <div id="vis23" class="vis-container"></div>
          <div style="background-color: #F1F1F1;padding: 45px;">
-        <p> In the usage of prednisolone, there are outliers among clinicians in all hospitals that exhibit a common characteristic: they are evenly spread out across a particular range of percentage values. This suggests that there may be specific scenarios or conditions where prednisolone is prescribed by clinicians in a consistent manner, leading to these evenly distributed outliers across hospitals.
-           
-        </p>
+             <p>The proportion of patients received prednisolone in MMC-Clayton is significant lower than Casey and Dandenong. </p>
            </div>
            
     </div>
@@ -227,15 +220,15 @@
 
             <div id="vis24" class="vis-container"></div>
          <div style="background-color: #F1F1F1;padding: 45px;">
-            <p>It is apparent that Casey exhibits less variation in the usage of Salbutamol compared to Dandenong and MMC-Clayton. Specifically:</p>
+            <p>The proportion of patients received Salbutamol in MMC-Clayton is significant lower than Casey and Dandenong. Specifically:</p>
         <ul>
            
-            <li style="text-align: left;">Casey has a shorter and less pronounced "steeple" shape in the violin plot, indicating a more consistent pattern of Salbutamol usage.
+            <li style="text-align: left;"> Casey had around 3% and Dandenong had approximately 4.25% of patients have received salbutamol.
 </li>
-            <li style="text-align: left;">Within the violin plot, Casey has more data points clustered in the middle of the plot, suggesting a concentration of usage percentages around a certain range.
+            <li style="text-align: left;">In the meanwhile, only 1% patients in MMC-Clayton had received salbutamol.
 </li>
         </ul>
-            <p>This suggests that while Dandenong and MMC-Clayton may have more variability and outliers in their Salbutamol usage, Casey maintains a more uniform and concentrated pattern of usage for this medication.
+            <p>This suggests that while Dandenong and Casey may have more flexibility  in their Salbutamol usage.
 </p>
            </div>
     </div>
@@ -262,16 +255,8 @@
 
             <div id="vis25" class="vis-container"></div>
          <div style="background-color: #F1F1F1;padding: 45px;">
-            <p>It is apparent that Casey exhibits less variation in the usage of Salbutamol compared to Dandenong and MMC-Clayton. Specifically:</p>
-        <ul>
-           
-            <li style="text-align: left;">Casey has a shorter and less pronounced "steeple" shape in the violin plot, indicating a more consistent pattern of Salbutamol usage.
-</li>
-            <li style="text-align: left;">Within the violin plot, Casey has more data points clustered in the middle of the plot, suggesting a concentration of usage percentages around a certain range.
-</li>
-        </ul>
-            <p>This suggests that while Dandenong and MMC-Clayton may have more variability and outliers in their Salbutamol usage, Casey maintains a more uniform and concentrated pattern of usage for this medication.
-</p>
+            <p>It is apparent that MMC-Clayton exhibits less variation in the usage of prednisolone or dexamethasone compared to Dandenong and Casey. All hospitals has the rate around 4.5% to 5.5% which relatively uniform distributed.</p>
+       
            </div>
     </div>
 
@@ -294,16 +279,14 @@
 
             <div id="vis26" class="vis-container"></div>
          <div style="background-color: #F1F1F1;padding: 45px;">
-            <p>It is apparent that Casey exhibits less variation in the usage of Salbutamol compared to Dandenong and MMC-Clayton. Specifically:</p>
+            <p>It is apparent that MMC-Clayton exhibits less variation in the usage of Salbutamol compared to Dandenong and MMC-Clayton. Specifically:</p>
         <ul>
            
-            <li style="text-align: left;">Casey has a shorter and less pronounced "steeple" shape in the violin plot, indicating a more consistent pattern of Salbutamol usage.
-</li>
-            <li style="text-align: left;">Within the violin plot, Casey has more data points clustered in the middle of the plot, suggesting a concentration of usage percentages around a certain range.
+            <li style="text-align: left;"> Casey had around 3.5% and Dandenong had approximately 5% of patients have received salbutamol or Ipratropium.
+            <li style="text-align: left;">In the meanwhile, only 1% patients in MMC-Clayton had received salbutamol or ipratropium.
 </li>
         </ul>
-            <p>This suggests that while Dandenong and MMC-Clayton may have more variability and outliers in their Salbutamol usage, Casey maintains a more uniform and concentrated pattern of usage for this medication.
-</p>
+       <p>  This suggests that while Dandenong and Casey may have more flexibility  in their Salbutamol usage.</p>
            </div>
     </div>
 
@@ -326,16 +309,14 @@
 
             <div id="vis27" class="vis-container"></div>
          <div style="background-color: #F1F1F1;padding: 45px;">
-            <p>It is apparent that Casey exhibits less variation in the usage of Salbutamol compared to Dandenong and MMC-Clayton. Specifically:</p>
+            <p>It is apparent that MMC-Clayton exhibits higher proportion of patients in the usage of Chest Xray compared to Dandenong and Casey. Specifically:</p>
         <ul>
            
-            <li style="text-align: left;">Casey has a shorter and less pronounced "steeple" shape in the violin plot, indicating a more consistent pattern of Salbutamol usage.
+            <li style="text-align: left;">The proportion for patients received Chest X-ray in Casey and Dandenong are around 2.5%.
 </li>
-            <li style="text-align: left;">Within the violin plot, Casey has more data points clustered in the middle of the plot, suggesting a concentration of usage percentages around a certain range.
-</li>
+          
         </ul>
-            <p>This suggests that while Dandenong and MMC-Clayton may have more variability and outliers in their Salbutamol usage, Casey maintains a more uniform and concentrated pattern of usage for this medication.
-</p>
+           
            </div>
     </div>
 
