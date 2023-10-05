@@ -49,8 +49,8 @@ h1 {
   }
 
 .img-container img {
-  width: 600px; /* Set the width to 200 pixels */
-  height: auto; /* Auto-adjust the height to maintain aspect ratio */
+  width: auto; /* Set the width to 200 pixels */
+  height: 200px; /* Auto-adjust the height to maintain aspect ratio */
 }
 .container {
     max-width: 100%;
